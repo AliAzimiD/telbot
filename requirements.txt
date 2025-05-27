@@ -10,3 +10,4 @@ langchain_experimental
 langchain_openai
 sqlalchemy
 tenacity
+matplotlib
