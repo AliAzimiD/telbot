@@ -1,0 +1,1816 @@
+Sex,isactive,Children,Educations,Age,Position,BirthPlace,InsuranceMonth,Marriage,Height,Unit,Horoscope,gender_retention_rate,education_retention_rate,age_group_retention_rate
+Male,0,0,Elementary,15,Ring,Qom,0,Married,181,Production,Esfand,32.32405892,17.67241379,34.40443213
+Female,0,0,Diploma,34,Ring,Qom,0,Married,164,Production,Shahrivar,38.27993255,36.96275072,33.28748281
+Female,0,0,Elementary,34,Ring,Qom,0,Married,164,Production,Shahrivar,38.27993255,17.67241379,33.28748281
+Male,0,0,Diploma,34,Maintenance and Repairs,Qom,0,Married,174,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,1,3,Elementary,41,Security,Qom,29,Married,169,Production,Mordad,32.32405892,17.67241379,36.50485437
+Male,1,2,PostDiploma,39,Ring,Kohgiluyeh and Boyer Ahmad,0,Married,176,Production,Mehr,32.32405892,39.78494624,36.50485437
+Male,1,1,Diploma,36,Warehouse,Central,41,Married,174,Production,Khordad,32.32405892,36.96275072,36.50485437
+Male,1,0,PostDiploma,40,Flyer,Qom,0,Single,175,Production,Farvardin,32.32405892,39.78494624,36.50485437
+Male,1,1,PostDiploma,35,Ring,Qom,6,Married,176,Production,Dey,32.32405892,39.78494624,36.50485437
+Male,0,2,Diploma,40,Passage,Saveh,68,Married,178,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,1,1,PostDiploma,36,Autoconer,Qom,0,Married,173,Production,Bahman,32.32405892,39.78494624,36.50485437
+Male,1,1,PostDiploma,37,Warehouse,Qom,30,Single,175,Production,Azar,32.32405892,39.78494624,36.50485437
+Male,1,0,Diploma,34,Maintenance and Repairs,Qom,0,Single,120,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,1,2,Diploma,36,Ring,East Azerbaijan,33,Married,169,Production,Mehr,32.32405892,36.96275072,36.50485437
+Female,1,0,Bachelor,36,Technical and Engineering,Qom,0,Married,161,Production,Aban,38.27993255,40.17094017,36.50485437
+Female,1,0,Bachelor,39,Laboratory,Qom,5,Single,158,Production,Khordad,38.27993255,40.17094017,36.50485437
+Female,1,2,HighSchool,43,Doubling,Alborz,0,Single,163,Production,Mordad,38.27993255,33.58633776,44.7761194
+Female,1,0,Diploma,40,Autoconer,Central,0,Single,161,Production,Aban,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,36,Security,Qom,28,Single,183,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,1,1,HighSchool,34,Maintenance and Repairs,West Azerbaijan,13,Married,176,Production,Khordad,32.32405892,33.58633776,33.28748281
+Female,1,0,HighSchool,42,Autoconer,Qom,21,Single,162,Production,Shahrivar,38.27993255,33.58633776,44.7761194
+Male,1,1,Diploma,41,Passage,Qom,0,Married,169,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,1,2,Diploma,43,Autoconer,Isfahan,8,Married,151,Production,Dey,38.27993255,36.96275072,44.7761194
+Female,1,0,Elementary,45,Autoconer,Zanjan,52,Single,160,Production,Shahrivar,38.27993255,17.67241379,44.7761194
+Female,1,2,Diploma,44,Autoconer,Varamin,0,Married,162,Production,Azar,38.27993255,36.96275072,44.7761194
+Male,0,1,Elementary,42,Passage,Rudsar,46,Married,173,Production,Tir,32.32405892,17.67241379,44.7761194
+Male,1,0,PostDiploma,39,Maintenance and Repairs,East Azerbaijan,0,Married,169,Production,Mehr,32.32405892,39.78494624,36.50485437
+Female,1,0,HighSchool,42,Autoconer,Qom,0,Single,144,Production,Farvardin,38.27993255,33.58633776,44.7761194
+Female,1,1,Diploma,46,Laboratory,Qom,0,Married,163,Production,Bahman,38.27993255,36.96275072,44.7761194
+Male,1,0,HighSchool,35,Ring,Qom,20,Single,176,Production,Aban,32.32405892,33.58633776,36.50485437
+Male,0,1,HighSchool,38,Maintenance and Repairs,Zanjan,38,Single,177,Production,Khordad,32.32405892,33.58633776,36.50485437
+Male,1,1,Diploma,42,Passage,Qom,98,Married,169,Production,Mordad,32.32405892,36.96275072,44.7761194
+Male,1,2,HighSchool,34,Flyer,Qom,12,Married,171,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,39,Carding,Qom,31,Single,176,Production,Khordad,32.32405892,33.58633776,36.50485437
+Male,1,3,Bachelor,40,Ring,Central,37,Single,177,Technical,Azar,32.32405892,40.17094017,36.50485437
+Male,1,2,Diploma,32,Ring,Qom,12,Married,177,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,37,Ring,Central,58,Single,176,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,1,1,HighSchool,37,Maintenance and Repairs,Qom,73,Married,172,Production,Mehr,32.32405892,33.58633776,36.50485437
+Male,1,1,Bachelor,37,Electronic,Qom,5,Married,175,Production,Farvardin,32.32405892,40.17094017,36.50485437
+Male,1,0,Diploma,37,Technical and Engineering,Hamadan,81,Single,175,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,1,0,Bachelor,39,Ring,Qom,22,Single,157,Production,Shahrivar,38.27993255,40.17094017,36.50485437
+Male,1,2,Diploma,36,Ring,Qom,22,Married,176,Production,Mehr,32.32405892,36.96275072,36.50485437
+Male,1,2,HighSchool,33,Ring,Qom,14,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,31,Security,Qom,0,Single,167,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,0,2,Diploma,34,Maintenance and Repairs,Qom,31,Married,174,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,35,Flyer,Central,0,Married,170,Production,Dey,32.32405892,40.17094017,36.50485437
+Male,1,1,Diploma,36,Warehouse,West Azerbaijan,38,Single,164,Production,Mordad,32.32405892,36.96275072,36.50485437
+Male,0,1,HighSchool,35,Ring,Rosen,0,Single,173,Production,Bahman,32.32405892,33.58633776,36.50485437
+Male,1,3,HighSchool,48,Doubling,Hamadan,219,Married,170,Production,Khordad,32.32405892,33.58633776,44.7761194
+Male,1,0,HighSchool,31,Ring,Qom,0,Married,175,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,35,Ring,Qom,47,Single,179,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,1,2,Diploma,33,Press,Qom,34,Single,180,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,1,Diploma,39,Doubling,Qom,0,Married,174,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,1,0,Diploma,32,Flyer,Lorestan,21,Married,174,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,1,3,Diploma,39,Passage,Qom,43,Married,172,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Female,0,1,Elementary,33,Ring,Qom,5,Married,165,Production,Ordibehesht,38.27993255,17.67241379,33.28748281
+Male,1,0,Diploma,36,Doubling,Lorestan,0,Married,173,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,1,PostDiploma,35,Doubling,Qom,3,Single,173,Production,Dey,32.32405892,39.78494624,36.50485437
+Male,1,1,HighSchool,32,Security,Qom,22,Married,177,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,1,1,HighSchool,38,Tray and Reserver,Qom,23,Married,171,Production,Ordibehesht,32.32405892,33.58633776,36.50485437
+Male,1,0,HighSchool,32,Packing,Zanjan,1,Married,174,Production,Azar,32.32405892,33.58633776,33.28748281
+Male,1,1,Diploma,32,Security,Qom,52,Married,177,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,1,1,Diploma,38,Maintenance and Repairs,Tehran,54,Married,172,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,1,2,Diploma,37,Ring,West Azerbaijan,0,Married,176,Production,Tir,32.32405892,36.96275072,36.50485437
+Female,1,2,HighSchool,41,Doubling,Hamadan,0,Married,144,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,1,2,HighSchool,39,Jet,Khuzestan,15,Single,173,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,1,1,Diploma,37,Doubling,Lorestan,36,Single,172,Production,Esfand,32.32405892,36.96275072,36.50485437
+Male,1,0,Diploma,32,Maintenance and Repairs,Qom,0,Single,151,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,1,0,Diploma,47,Ring,Tehran,99,Single,167,Production,Shahrivar,38.27993255,36.96275072,44.7761194
+Male,1,0,Diploma,31,Doubling,Qom,15,Single,180,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,1,PostDiploma,36,Flyer,East Azerbaijan,23,Married,135,Production,Mordad,32.32405892,39.78494624,36.50485437
+Male,0,0,HighSchool,29,Maintenance and Repairs,Rosen,0,Single,174,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,1,2,PostDiploma,36,Jet,Lorestan,13,Single,177,Production,Khordad,32.32405892,39.78494624,36.50485437
+Male,1,1,PostDiploma,34,Autoconer,Qom,0,Married,171,Production,Aban,32.32405892,39.78494624,33.28748281
+Male,0,0,HighSchool,29,Autoconer,Qom,0,Single,173,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,1,Diploma,32,Packing,Zanjan,0,Married,172,Production,Khordad,32.32405892,36.96275072,33.28748281
+Female,1,0,Bachelor,34,Laboratory,Qom,0,Single,162,Production,Tir,38.27993255,40.17094017,33.28748281
+Male,1,0,Diploma,31,Carding,Zanjan,0,Single,176,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,38,Passage,Qom,0,Single,178,Production,Azar,32.32405892,40.17094017,36.50485437
+Male,1,0,Diploma,30,Jet,Khuzestan,15,Single,173,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Female,0,0,PostDiploma,38,Autoconer,Khorramabad,0,Single,160,Production,Shahrivar,38.27993255,39.78494624,36.50485437
+Male,1,0,HighSchool,39,Warehouse,Qom,70,Married,171,Production,Aban,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,42,Maintenance and Repairs,Qom,86,Married,175,Production,Bahman,32.32405892,36.96275072,44.7761194
+Female,1,1,Elementary,49,Doubling,Hamadan,12,Married,162,Production,Shahrivar,38.27993255,17.67241379,44.7761194
+Female,1,0,Diploma,33,Indutrial Engineering,Lorestan,0,Single,161,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Female,1,0,Bachelor,45,Tray and Reserver,Qom,0,Single,162,Production,Mordad,38.27993255,40.17094017,44.7761194
+Male,1,0,Diploma,28,Maintenance and Repairs,Shush,0,Single,176,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,31,Maintenance and Repairs,Zanjan,0,Married,173,Production,Esfand,32.32405892,36.96275072,33.28748281
+Female,0,2,PostDiploma,42,Doubling,Khorramabad,0,Married,160,Production,Khordad,38.27993255,39.78494624,44.7761194
+Male,1,0,Diploma,30,Open End,Qom,29,Single,183,Production,Khordad,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,28,Autoconer,Khorramabad,0,Single,161,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Male,1,0,PostDiploma,29,Flyer,Qom,0,Single,177,Production,Mehr,32.32405892,39.78494624,33.28748281
+Female,0,0,Elementary,45,Ring,Karaj,0,Married,161,Production,Azar,38.27993255,17.67241379,44.7761194
+Male,1,0,Diploma,40,Passage,East Azerbaijan,101,Married,173,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,32,Flyer,Qom,0,Married,171,Production,Azar,32.32405892,17.67241379,33.28748281
+Male,1,0,PostDiploma,39,Maintenance and Repairs,Kerman,10,Married,175,Production,Tir,32.32405892,39.78494624,36.50485437
+Male,1,0,Diploma,28,Open End,Qom,0,Married,179,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,27,Maintenance and Repairs,Khorramabad,0,Single,172,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,33,Maintenance and Repairs,Qom,0,Single,177,Production,Mehr,32.32405892,40.17094017,33.28748281
+Male,1,0,HighSchool,34,Ring,Qom,17,Married,173,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,29,Doubling,Qom,0,Single,176,Production,Tir,32.32405892,33.58633776,33.28748281
+Female,0,0,Bachelor,40,Quality Control,Qom,0,Single,163,Production,Mordad,38.27993255,40.17094017,36.50485437
+Male,1,0,Diploma,37,Ring,Central,54,Married,176,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Female,0,0,Elementary,48,Autoconer,Khorramabad,0,Married,147,Production,Farvardin,38.27993255,17.67241379,44.7761194
+Male,1,0,HighSchool,31,Tray and Reserver,Qom,0,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,0,0,PostDiploma,32,Passage,Qom,0,Single,165,Production,Dey,32.32405892,39.78494624,33.28748281
+Female,0,0,Master,36,Doubling,Gonbadkavus,0,Single,164,Production,Mordad,38.27993255,48.38709677,36.50485437
+Male,1,0,Bachelor,32,Ring,Central,0,Married,175,Production,Tir,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,30,Doubling,Tehran,6,Single,175,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,32,Carding,Lorestan,0,Single,176,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,32,Carding,Qom,10,Single,176,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,35,Ring,Central,20,Single,176,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,1,0,Diploma,29,Open End,Qom,0,Married,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,31,Ring,Qom,0,Single,176,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,32,Jet,Oligodarz,0,Married,172,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,40,Press,Qom,84,Single,170,Production,Mordad,32.32405892,36.96275072,36.50485437
+Male,1,0,Bachelor,46,Office,Hamadan,218,Married,173,Electronic,Mehr,32.32405892,40.17094017,44.7761194
+Male,1,0,PostDiploma,32,Electronic,Qom,25,Single,176,Production,Bahman,32.32405892,39.78494624,33.28748281
+Female,1,0,Diploma,34,Ring,Kurdistan,0,Married,160,Production,Bahman,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,32,Warehouse,Qom,0,Married,177,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,35,Electronic,Qom,0,Married,172,Production,Mordad,32.32405892,40.17094017,36.50485437
+Female,0,0,Diploma,31,Ring,Khorramabad,3,Married,165,Production,Mehr,38.27993255,36.96275072,33.28748281
+Female,1,0,HighSchool,44,Autoconer,Fars,0,Married,163,Production,Esfand,38.27993255,33.58633776,44.7761194
+Male,1,0,Diploma,33,Security,Qom,0,Single,176,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,32,Security,Zanjan,16,Married,177,Production,Azar,32.32405892,40.17094017,33.28748281
+Female,0,0,HighSchool,41,Ring,Qom,0,Single,104,Production,Dey,38.27993255,33.58633776,36.50485437
+Female,1,0,Diploma,24,Ring,Qom,0,Married,129,Production,Dey,38.27993255,36.96275072,28.90625
+Male,1,0,Diploma,29,Warehouse,Qom,0,Married,175,Production,Tir,32.32405892,36.96275072,33.28748281
+Female,1,0,Elementary,49,Autoconer,Qom,72,Married,162,Production,Shahrivar,38.27993255,17.67241379,44.7761194
+Male,1,0,Diploma,26,Open End,Qom,0,Married,175,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,29,Maintenance and Repairs,Qom,0,Single,175,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,26,Maintenance and Repairs,Qom,0,Single,178,Production,Esfand,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,28,Doubling,Zanjan,0,Single,175,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,29,Open End,Qom,0,Single,176,Production,Mehr,32.32405892,17.67241379,33.28748281
+Female,1,0,Diploma,27,Doubling,Khuzestan,0,Single,162,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,38,Maintenance and Repairs,Hamadan,0,Married,174,Production,Tir,32.32405892,36.96275072,36.50485437
+Female,1,0,Diploma,41,Autoconer,Lorestan,0,Single,161,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Female,1,0,Diploma,39,Autoconer,Arak,17,Single,150,Production,Dey,38.27993255,36.96275072,36.50485437
+Female,0,0,HighSchool,32,Autoconer,Khorramabad,7,Married,162,Production,Khordad,38.27993255,33.58633776,33.28748281
+Female,0,0,Diploma,31,Doubling,Qom,0,Married,169,Production,Mehr,38.27993255,36.96275072,33.28748281
+Female,1,0,HighSchool,28,Ring,Central,0,Married,164,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,26,Flyer,Qom,0,Single,174,Production,Tir,32.32405892,33.58633776,28.90625
+Female,1,0,Elementary,46,Maintenance and Repairs,Qom,0,Married,164,Production,Tir,38.27993255,17.67241379,44.7761194
+Female,0,0,Diploma,24,Ring,Qom,0,Single,111,Production,Dey,38.27993255,36.96275072,28.90625
+Female,0,1,HighSchool,31,Ring,Abik,0,Married,164,Production,Mehr,38.27993255,33.58633776,33.28748281
+Female,0,0,Diploma,23,Ring,Qom,0,Single,162,Production,Shahrivar,38.27993255,36.96275072,28.90625
+Male,1,0,Diploma,27,Maintenance and Repairs,West Azerbaijan,0,Single,174,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,1,0,Diploma,25,Laboratory,Qom,0,Single,162,Production,Farvardin,38.27993255,36.96275072,28.90625
+Male,1,0,Diploma,28,Autoconer,Qom,0,Single,177,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,31,Open End,Khuzestan,4,Single,176,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,35,Flyer,Lorestan,0,Single,171,Production,Dey,32.32405892,40.17094017,36.50485437
+Male,1,0,Diploma,27,Carding,Qom,9,Single,177,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,32,Maintenance and Repairs,Central,1,Married,174,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,32,Electronic,Qom,0,Married,177,Industrial Engineering,Ordibehesht,32.32405892,40.17094017,33.28748281
+Male,1,0,HighSchool,28,Carding,Qom,0,Married,176,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Female,0,0,Bachelor,39,Ring,Land,0,Married,160,Production,Tir,38.27993255,40.17094017,36.50485437
+Male,0,0,Elementary,27,Maintenance and Repairs,Mahns,0,Single,171,Production,Mordad,32.32405892,17.67241379,33.28748281
+Female,1,0,Diploma,50,Doubling,Guilan,97,Married,162,Production,Shahrivar,38.27993255,36.96275072,33.33333333
+Male,1,0,PostDiploma,28,Flyer,Qom,0,Single,178,Production,Esfand,32.32405892,39.78494624,33.28748281
+Male,1,0,Diploma,26,Flyer,Qom,0,Single,177,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Female,1,1,HighSchool,33,Autoconer,Hamadan,0,Married,160,Production,Aban,38.27993255,33.58633776,33.28748281
+Male,1,0,Diploma,29,Maintenance and Repairs,Hamadan,18,Married,176,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,32,Jet,Borujen,43,Married,178,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,1,0,Elementary,29,Open End,Qom,0,Single,159,Production,Dey,32.32405892,17.67241379,33.28748281
+Male,1,0,Master,40,Electronic,Qom,136,Married,171,Electronic,Tir,32.32405892,48.38709677,36.50485437
+Male,0,0,HighSchool,28,Press,Zanjan,9,Married,172,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,31,Autoconer,Qom,18,Single,177,Production,Dey,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,39,Warehouse,Guilan,142,Married,173,Production,Esfand,32.32405892,33.58633776,36.50485437
+Male,0,0,Elementary,30,HR and Training,Ilam,0,Single,174,Production,Khordad,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,34,Ring,Arak,0,Married,153,Production,Tir,38.27993255,36.96275072,33.28748281
+Male,1,0,HighSchool,25,Ring,Qom,0,Single,170,Production,Bahman,32.32405892,33.58633776,28.90625
+Male,1,0,PostDiploma,39,Maintenance and Repairs,Central,12,Married,176,Production,Farvardin,32.32405892,39.78494624,36.50485437
+Male,1,0,Bachelor,27,Indutrial Engineering,Zanjan,4,Single,182,Technical,Farvardin,32.32405892,40.17094017,33.28748281
+Male,1,0,Bachelor,27,Indutrial Engineering,Zanjan,0,Single,179,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,1,0,HighSchool,27,Carding,Qom,1,Single,179,Production,Mehr,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,26,Maintenance and Repairs,Qom,0,Single,176,Production,Khordad,32.32405892,36.96275072,28.90625
+Male,0,0,Elementary,25,Open End,Qom,0,Single,175,Production,Shahrivar,32.32405892,17.67241379,28.90625
+Male,0,0,HighSchool,25,Maintenance and Repairs,Qom,0,Single,177,Production,Khordad,32.32405892,33.58633776,28.90625
+Female,0,0,Bachelor,33,Laboratory,Poldokhtar,0,Single,162,Production,Esfand,38.27993255,40.17094017,33.28748281
+Male,1,0,HighSchool,37,Passage,Qom,76,Married,171,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Female,1,0,Bachelor,27,HR and Training,Qom,0,Single,163,HR and Office,Esfand,38.27993255,40.17094017,33.28748281
+Male,1,0,Diploma,27,Open End,Qom,0,Married,174,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,25,Flyer,Qom,0,Single,177,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,32,Jet,Zanjan,35,Single,174,Production,Azar,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,25,Ring,Qom,0,Single,163,Production,Mordad,38.27993255,33.58633776,28.90625
+Male,1,0,Diploma,25,Ring,Qom,0,Married,177,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,Bachelor,30,Electronic,Andimeshk,0,Single,170,Production,Mordad,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,36,Ring,Ahwaz,0,Married,161,Production,Esfand,38.27993255,36.96275072,36.50485437
+Male,1,0,HighSchool,32,Autoconer,Qom,8,Married,169,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Female,0,0,Diploma,36,Autoconer,Qom,0,Married,161,Production,Farvardin,38.27993255,36.96275072,36.50485437
+Male,1,0,Diploma,25,Ring,Falcon Fortress,0,Married,177,Production,Azar,32.32405892,36.96275072,28.90625
+Male,1,0,HighSchool,26,Ring,Qom,11,Married,185,Production,Aban,32.32405892,33.58633776,28.90625
+Female,0,0,PostDiploma,31,Doubling,Rosen,0,Married,163,Production,Tir,38.27993255,39.78494624,33.28748281
+Female,0,0,Elementary,53,Packing,Hamadan,8,Married,166,Production,Mordad,38.27993255,17.67241379,33.33333333
+Male,1,0,Diploma,30,Maintenance and Repairs,Qom,0,Single,176,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Female,0,0,HighSchool,28,Ring,Qom,0,Married,161,Production,Farvardin,38.27993255,33.58633776,33.28748281
+Male,1,0,Elementary,28,Autoconer,Zanjan,1,Single,174,Production,Tir,32.32405892,17.67241379,33.28748281
+Male,1,0,PostDiploma,30,Open End,Lorestan,0,Married,176,Production,Ordibehesht,32.32405892,39.78494624,33.28748281
+Female,1,0,Diploma,29,Doubling,Qom,0,Married,162,Production,Azar,38.27993255,36.96275072,33.28748281
+Female,0,0,Diploma,41,Doubling,Qom,0,Married,164,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,33,Security,Qom,37,Single,180,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,40,Ring,Qom,101,Single,176,Production,Khordad,32.32405892,36.96275072,36.50485437
+Female,0,0,PostDiploma,25,Ring,Qom,0,Single,163,Production,Ordibehesht,38.27993255,39.78494624,28.90625
+Male,1,0,HighSchool,28,Autoconer,Qom,0,Single,176,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,1,0,Elementary,29,Maintenance and Repairs,Lorestan,0,Married,175,Production,Farvardin,32.32405892,17.67241379,33.28748281
+Male,1,0,Diploma,33,Press,Qom,61,Married,178,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,36,Autoconer,Qom,33,Married,160,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,0,0,Elementary,36,Maintenance and Repairs,Takab,0,Married,165,Production,Ordibehesht,38.27993255,17.67241379,36.50485437
+Male,1,0,Diploma,25,Passage,Qom,0,Single,179,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,1,1,HighSchool,32,Passage,Qom,0,Married,157,Production,Dey,32.32405892,33.58633776,33.28748281
+Female,1,0,Bachelor,40,Laboratory,Central,0,Single,156,Production,Dey,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,26,Maintenance and Repairs,Qom,0,Single,177,Production,Tir,32.32405892,36.96275072,28.90625
+Female,1,1,HighSchool,29,Packing,Qom,0,Married,163,Production,Tir,38.27993255,33.58633776,33.28748281
+Female,1,1,HighSchool,29,Packing,Qom,4,Married,163,Industrial Engineering,Tir,38.27993255,33.58633776,33.28748281
+Female,1,0,Elementary,36,Autoconer,Zanjan,0,Married,159,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Male,1,0,Diploma,31,Packing,Lorestan,5,Single,171,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,24,Packing,Qom,0,Single,174,Production,Bahman,32.32405892,17.67241379,28.90625
+Male,1,0,Diploma,30,Open End,Qom,37,Single,180,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,32,Business,Qom,20,Married,174,Production,Shahrivar,32.32405892,40.17094017,33.28748281
+Male,1,0,Elementary,49,Warehouse,Qom,161,Married,174,Production,Shahrivar,32.32405892,17.67241379,44.7761194
+Male,1,0,HighSchool,27,Maintenance and Repairs,Qom,1,Married,174,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,1,0,Elementary,29,Ring,Qom,0,Single,177,Production,Mehr,32.32405892,17.67241379,33.28748281
+Male,0,0,PostDiploma,36,Press,Central,78,Single,178,Production,Dey,32.32405892,39.78494624,36.50485437
+Male,1,0,Elementary,35,Open End,Qom,81,Single,172,Production,Ordibehesht,32.32405892,17.67241379,36.50485437
+Male,0,0,PostDiploma,32,Maintenance and Repairs,Jajar,0,Married,123,Production,Mordad,32.32405892,39.78494624,33.28748281
+Male,0,0,Diploma,30,Press,Qom,36,Married,178,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,1,0,PostDiploma,39,Ring,Isfahan,119,Married,173,Production,Shahrivar,32.32405892,39.78494624,36.50485437
+Male,1,0,Diploma,25,Passage,Qom,2,Single,180,Production,Esfand,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,27,Flyer,Qom,12,Single,187,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,27,Jet,Qom,0,Single,176,Production,Farvardin,32.32405892,17.67241379,33.28748281
+Male,1,0,HighSchool,30,Packing,Qom,23,Married,169,Production,Mehr,32.32405892,33.58633776,33.28748281
+Male,1,0,Bachelor,44,Electronic,Qom,24,Married,170,Electronic,Mordad,32.32405892,40.17094017,44.7761194
+Male,1,0,PostDiploma,28,Tray and Reserver,Qom,2,Single,168,Production,Dey,32.32405892,39.78494624,33.28748281
+Male,1,0,HighSchool,32,Autoconer,Qom,0,Single,176,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,33,Autoconer,Tehran,0,Married,172,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,33,Flyer,Shush,5,Married,173,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,37,Warehouse,Lorestan,4,Married,176,Production,Mehr,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,35,Packing,Qom,68,Married,168,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,26,Maintenance and Repairs,Qom,22,Single,181,Production,Azar,32.32405892,17.67241379,28.90625
+Male,1,2,Diploma,37,Passage,Khuzestan,87,Married,172,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,0,0,HighSchool,37,Ring,Qom,0,Married,178,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,37,Ring,Bardaskan,0,Married,160,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,37,Ring,Qom,240,Married,160,HR and Office,Farvardin,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,26,Autoconer,Arak,0,Single,174,Production,Esfand,32.32405892,33.58633776,28.90625
+Male,1,2,HighSchool,38,Facilities,Qom,76,Married,172,Facilities,Tir,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,39,Facilities,Bijar,84,Married,172,Production,Aban,32.32405892,36.96275072,36.50485437
+Male,1,0,Bachelor,39,Packing,Qom,68,Married,170,Production,Bahman,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,32,Maintenance and Repairs,Qom,41,Married,174,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,28,Packing,Qom,0,Single,167,Production,Mordad,32.32405892,33.58633776,33.28748281
+Female,1,0,Diploma,37,Autoconer,Zanjan,66,Married,159,Production,Farvardin,38.27993255,36.96275072,36.50485437
+Female,0,0,HighSchool,21,Doubling,Khorram Abad,0,Single,161,Production,Esfand,38.27993255,33.58633776,46.15384615
+Male,0,0,Bachelor,30,Ring,Bonab,0,Single,177,Production,Shahrivar,32.32405892,40.17094017,33.28748281
+Female,1,0,HighSchool,31,Doubling,Central,0,Married,163,Production,Azar,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,38,Autoconer,Zanjan,102,Married,173,Production,Dey,32.32405892,33.58633776,36.50485437
+Male,1,2,Diploma,31,Flyer,Hamadan,1,Married,180,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,1,2,Diploma,31,Flyer,Hamadan,0,Married,173,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,1,0,Master,35,Technical and Engineering,Tehran,79,Married,175,Production,Aban,32.32405892,48.38709677,36.50485437
+Male,0,0,Diploma,36,Flyer,Gonbadkaus,92,Married,171,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,37,Warehouse,Ahwaz,5,Single,176,Production,Ordibehesht,32.32405892,33.58633776,36.50485437
+Female,0,0,Bachelor,30,Quality Control,Qom,19,Married,164,HR and Office,Shahrivar,38.27993255,40.17094017,33.28748281
+Male,0,0,HighSchool,29,Packing,Qom,21,Single,165,Production,Mordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,33,Maintenance and Repairs,Qom,10,Single,176,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,28,Packing,Qom,0,Married,160,Production,Dey,32.32405892,36.96275072,33.28748281
+Female,0,0,Elementary,31,Laboratory,Qom,0,Married,164,Production,Shahrivar,38.27993255,17.67241379,33.28748281
+Male,1,1,Diploma,39,Maintenance and Repairs,Qom,77,Married,174,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,29,Flyer,Qom,0,Married,174,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,30,Carding,Qom,0,Married,169,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,33,Security,Qom,0,Single,176,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,27,Maintenance and Repairs,Qom,0,Single,173,Production,Bahman,32.32405892,36.96275072,33.28748281
+Female,0,0,Bachelor,35,Packing,Ahwaz,0,Married,162,Production,Bahman,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,31,Packing,Qom,47,Single,170,Production,Azar,32.32405892,36.96275072,33.28748281
+Female,0,0,Elementary,19,Ring,Qom,0,Married,161,Production,Ordibehesht,38.27993255,17.67241379,46.15384615
+Male,0,0,PostDiploma,29,Maintenance and Repairs,Qom,0,Single,174,Production,Ordibehesht,32.32405892,39.78494624,33.28748281
+Male,0,0,Diploma,36,Facilities,Kuhdasht,0,Married,174,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,30,Maintenance and Repairs,Arak,0,Married,152,Production,Mehr,38.27993255,36.96275072,33.28748281
+Male,1,1,HighSchool,34,Packing,Bushehr,66,Single,170,Production,Aban,32.32405892,33.58633776,33.28748281
+Female,1,0,Diploma,36,Maintenance and Repairs,Qom,0,Married,161,Production,Aban,38.27993255,36.96275072,36.50485437
+Male,0,0,PostDiploma,30,Electronic,Qom,0,Single,174,Production,Ordibehesht,32.32405892,39.78494624,33.28748281
+Male,1,0,Diploma,35,Security,Qom,0,Single,178,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,29,Flyer,Blue,0,Married,173,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,0,Single,159,Production,Dey,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,31,Passage,Khuzestan,0,Married,174,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,36,Maintenance and Repairs,Qom,1095,Married,174,Production,Khordad,32.32405892,17.67241379,36.50485437
+Male,0,0,HighSchool,38,Ring,Blue,0,Single,177,Production,Aban,32.32405892,33.58633776,36.50485437
+Female,0,0,Elementary,32,Autoconer,Harris,0,Married,164,Production,Bahman,38.27993255,17.67241379,33.28748281
+Male,0,0,Diploma,28,Maintenance and Repairs,Qom,0,Single,179,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,1,0,PostDiploma,27,Electronic,Hamadan,0,Married,179,Production,Farvardin,32.32405892,39.78494624,33.28748281
+Male,0,0,Elementary,25,Maintenance and Repairs,Qom,0,Single,155,Production,Dey,32.32405892,17.67241379,28.90625
+Male,1,0,Master,31,Electronic,Qom,0,Single,178,Industrial Engineering,Shahrivar,32.32405892,48.38709677,33.28748281
+Male,1,0,Elementary,28,Doubling,Qom,0,Single,172,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,28,Maintenance and Repairs,Zarand,0,Single,169,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,35,Packing,Lorestan,1,Married,166,Production,Mordad,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,36,Maintenance and Repairs,Ahwaz,76,Married,171,Production,Esfand,32.32405892,36.96275072,36.50485437
+Male,1,0,HighSchool,24,Press,Qom,0,Married,176,Production,Mehr,32.32405892,33.58633776,28.90625
+Male,0,0,Elementary,26,Flyer,Boroujerd,19,Married,181,Production,Tir,32.32405892,17.67241379,28.90625
+Male,0,0,Diploma,40,Maintenance and Repairs,Qom,36,Married,173,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,1,0,Diploma,26,Packing,Qom,0,Single,179,Production,Azar,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,28,Facilities,Qom,0,Married,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,39,Packing,Qom,136,Married,172,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,1,0,HighSchool,30,Open End,Central,27,Married,171,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,32,Autoconer,Qom,0,Married,174,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Female,0,0,HighSchool,40,Autoconer,Shush,0,Married,112,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,0,0,Elementary,28,Autoconer,Qom,0,Single,173,Production,Bahman,32.32405892,17.67241379,33.28748281
+Male,0,0,Bachelor,29,Maintenance and Repairs,Ahwaz,0,Single,176,Production,Khordad,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,25,Ring,Tehran,0,Single,180,Production,Tir,32.32405892,36.96275072,28.90625
+Female,1,0,Bachelor,42,Autoconer,Mashhad,0,Married,150,Production,Dey,38.27993255,40.17094017,44.7761194
+Male,1,0,Diploma,27,Packing,Qom,0,Single,166,Production,Dey,32.32405892,36.96275072,33.28748281
+Female,0,0,HighSchool,46,Packing,Tale,0,Married,162,Production,Ordibehesht,38.27993255,33.58633776,44.7761194
+Male,0,0,Diploma,28,Flyer,Khorramabad,0,Single,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Female,1,0,Elementary,38,Autoconer,Qom,43,Married,160,Production,Aban,38.27993255,17.67241379,36.50485437
+Male,1,0,Diploma,36,Maintenance and Repairs,Khuzestan,82,Married,174,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,42,Facilities,Qorveh,42,Married,173,Production,Farvardin,32.32405892,33.58633776,44.7761194
+Female,0,0,Elementary,38,HR and Training,Tuyserkan,74,Married,160,Production,Shahrivar,38.27993255,17.67241379,36.50485437
+Male,1,0,HighSchool,34,Warehouse,Karaj,79,Married,175,Production,Bahman,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,32,Packing,Qom,14,Single,151,Production,Mordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Elementary,33,Jet,Bam,0,Single,173,Production,Bahman,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,24,Ring,Charavimaq,0,Single,165,Production,Dey,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,24,Packing,Bam,0,Single,178,Production,Azar,32.32405892,36.96275072,28.90625
+Male,1,1,Diploma,28,Packing,West Azerbaijan,0,Single,173,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,38,Press,Hashtrood,141,Married,171,Warehouse,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,29,Facilities,Qom,0,Single,176,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,27,Safety,Hamadan,23,Single,171,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,30,Ring,Qom,30,Single,179,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,35,Warehouse,Hamadan,123,Married,171,Warehouse,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,31,Maintenance and Repairs,Qom,0,Married,161,Technical,Mordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,12,Single,182,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Female,1,0,Diploma,44,Autoconer,Qom,0,Married,162,Production,Khordad,38.27993255,36.96275072,44.7761194
+Male,0,0,Bachelor,32,Packing,Ardakan,50,Married,176,Technical,Esfand,32.32405892,40.17094017,33.28748281
+Female,1,0,HighSchool,25,Ring,Zanjan,0,Married,162,Production,Ordibehesht,38.27993255,33.58633776,28.90625
+Male,0,0,Elementary,27,Flyer,Moon badge,0,Married,174,Production,Esfand,32.32405892,17.67241379,33.28748281
+Male,0,0,HighSchool,30,Security,Qom,43,Single,179,Production,Azar,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,32,Electronic,Qom,24,Single,176,Production,Aban,32.32405892,40.17094017,33.28748281
+Male,0,2,Diploma,35,Maintenance and Repairs,Durrod,99,Married,171,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,1,Diploma,29,Jet,Shadegan,24,Married,174,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,PostDiploma,36,Packing,Qom,85,Single,171,Production,Ordibehesht,32.32405892,39.78494624,36.50485437
+Male,0,0,Elementary,24,Open End,Zanjan,0,Single,158,Production,Dey,32.32405892,17.67241379,28.90625
+Male,0,0,Diploma,35,Flyer,Qom,0,Married,175,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,25,Maintenance and Repairs,Qom,17,Single,180,Production,Dey,32.32405892,33.58633776,28.90625
+Male,0,2,PostDiploma,45,Maintenance and Repairs,Dezful,94,Married,171,Technical,Tir,32.32405892,39.78494624,44.7761194
+Male,0,2,Diploma,34,Maintenance and Repairs,Babylon,11,Married,173,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,33,Facilities,Hashtrood,6,Single,173,Production,Esfand,32.32405892,36.96275072,33.28748281
+Female,0,2,HighSchool,39,Autoconer,Qom,20,Married,158,Production,Esfand,38.27993255,33.58633776,36.50485437
+Male,1,0,Bachelor,30,Electronic,Tehran,31,Married,179,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,27,Facilities,Qom,1,Single,175,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,1,Bachelor,34,Packing,Qom,64,Married,106,Technical,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,0,Master,41,Electronic,Isfahan,74,Married,176,Electronic,Shahrivar,32.32405892,48.38709677,36.50485437
+Female,0,0,Master,27,Laboratory,Qom,0,Married,164,Production,Shahrivar,38.27993255,48.38709677,33.28748281
+Male,0,0,Diploma,30,Jet,Qom,0,Single,175,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,27,Carding,Qom,0,Married,174,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,35,Maintenance and Repairs,Shush,0,Married,174,Production,Khordad,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,27,Jet,Zanjan,0,Married,171,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,33,Autoconer,Qom,33,Married,174,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,28,Ring,Ahwaz,43,Married,179,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,0,Master,36,Flyer,Qom,1,Single,177,Production,Azar,32.32405892,48.38709677,36.50485437
+Male,1,0,Bachelor,47,Office,Tehran,0,Married,175,Production,Shahrivar,32.32405892,40.17094017,44.7761194
+Male,1,0,Master,41,Technical and Engineering,Tehran,0,Married,175,Production,Shahrivar,32.32405892,48.38709677,36.50485437
+Female,1,0,Bachelor,33,Business,Tehran,0,Single,143,Production,Dey,38.27993255,40.17094017,33.28748281
+Male,1,0,PostDiploma,37,Office,Tehran,0,Married,176,Production,Shahrivar,32.32405892,39.78494624,36.50485437
+Female,1,0,Diploma,32,Office,Tehran,0,Single,166,Production,Farvardin,38.27993255,36.96275072,33.28748281
+Female,0,0,Bachelor,35,Office,Tehran,0,Single,172,Production,Bahman,38.27993255,40.17094017,36.50485437
+Female,0,0,Diploma,26,Office,Tehran,0,Single,172,Production,Aban,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,24,Office,Tehran,0,Single,171,Production,Esfand,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,24,Financial,Tehran,0,Single,171,Production,Esfand,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,29,Office,Tehran,0,Single,171,Production,Azar,38.27993255,36.96275072,33.28748281
+Female,0,0,Bachelor,40,Laboratory,Ali Abad,0,Single,162,Production,Ordibehesht,38.27993255,40.17094017,36.50485437
+Male,1,0,Diploma,28,Passage,Qom,6,Single,177,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Master,31,Flyer,Naghadeh,0,Single,176,Production,Azar,32.32405892,48.38709677,33.28748281
+Male,1,1,Diploma,29,Security,Hamadan,25,Married,179,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,0,PostDiploma,33,Electronic,Qom,48,Married,172,Electronic,Esfand,32.32405892,39.78494624,33.28748281
+Male,0,1,Diploma,37,Electronic,Nain,56,Married,172,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,0,0,Bachelor,37,Electronic,Hashtrood,86,Married,175,Electronic,Tir,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,33,Ring,Khorobiabank,36,Married,176,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,26,Ring,Central,20,Single,174,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,1,0,HighSchool,35,Flyer,Hamadan,71,Married,171,Production,Aban,32.32405892,33.58633776,36.50485437
+Female,1,0,Bachelor,27,Electronic,Afghanistan,0,Married,160,Production,Khordad,38.27993255,40.17094017,33.28748281
+Male,1,0,Diploma,30,Flyer,Lorestan,1,Single,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,49,Warehouse,Central,258,Married,173,Production,Khordad,32.32405892,33.58633776,44.7761194
+Male,0,0,HighSchool,23,Carding,Qom,0,Single,147,Production,Dey,32.32405892,33.58633776,28.90625
+Male,0,0,Master,29,Electronic,Tehran,27,Married,178,Electronic,Bahman,32.32405892,48.38709677,33.28748281
+Male,0,0,Diploma,39,Maintenance and Repairs,Qom,8,Married,175,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,1,0,Diploma,39,Electronic,Qom,14,Married,175,Production,Khordad,32.32405892,36.96275072,36.50485437
+Female,1,2,HighSchool,35,Autoconer,West Azerbaijan,0,Married,163,Production,Ordibehesht,38.27993255,33.58633776,36.50485437
+Male,1,0,Diploma,36,Passage,Central,44,Married,151,Production,Mordad,32.32405892,36.96275072,36.50485437
+Male,1,0,HighSchool,38,Ring,Central,34,Married,178,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Female,0,0,Bachelor,29,Laboratory,Pasargad,0,Single,163,Production,Mordad,38.27993255,40.17094017,33.28748281
+Female,1,2,Diploma,34,Comber,Qom,20,Married,162,Production,Bahman,38.27993255,36.96275072,33.28748281
+Female,1,3,Diploma,40,Ring,Golestan,0,Married,161,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,1,1,HighSchool,39,Flyer,East Azerbaijan,5,Married,171,Production,Dey,32.32405892,33.58633776,36.50485437
+Male,1,2,Diploma,45,Tray and Reserver,Hamadan,168,Married,176,Production,Dey,32.32405892,36.96275072,44.7761194
+Male,1,0,Bachelor,38,Electronic,Qom,20,Married,173,Electronic,Farvardin,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,25,Ring,Kashan,7,Single,179,Production,Khordad,32.32405892,36.96275072,28.90625
+Male,1,1,HighSchool,30,Security,Qom,52,Married,177,Production,Tir,32.32405892,33.58633776,33.28748281
+Female,1,2,Diploma,45,Comber,Qom,19,Married,162,Production,Shahrivar,38.27993255,36.96275072,44.7761194
+Male,1,1,HighSchool,33,Security,Qom,71,Married,176,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,33,Ring,Poldokhtar,4,Single,163,Production,Mehr,38.27993255,33.58633776,33.28748281
+Male,1,0,Diploma,27,Packing,Qom,5,Single,172,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,27,Jet,Qom,0,Single,176,Production,Esfand,32.32405892,36.96275072,33.28748281
+Female,1,0,PostDiploma,36,Maintenance and Repairs,Kurdistan,18,Married,161,Production,Aban,38.27993255,39.78494624,36.50485437
+Female,1,0,HighSchool,30,Ring,East Azerbaijan,17,Married,162,Production,Farvardin,38.27993255,33.58633776,33.28748281
+Male,1,0,Bachelor,32,Security,Zanjan,11,Single,176,Production,Azar,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,40,Maintenance and Repairs,Blue,146,Married,171,Technical,Azar,32.32405892,33.58633776,36.50485437
+Male,1,0,Bachelor,29,Doubling,Qom,0,Single,178,Production,Esfand,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,40,Security,Qom,48,Married,176,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,1,0,Bachelor,35,Electronic,Fars,90,Married,172,Electronic,Shahrivar,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,35,Jet,Boroujerd,97,Married,171,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,29,Packing,Qom,1,Married,171,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,29,Autoconer,Charavimaq,10,Single,172,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,42,Security,Qom,171,Married,177,Production,Dey,32.32405892,36.96275072,44.7761194
+Male,1,0,Diploma,34,Packing,Alborz,0,Married,174,Production,Aban,32.32405892,36.96275072,33.28748281
+Female,1,0,HighSchool,42,Ring,East Azerbaijan,0,Married,164,Production,Tir,38.27993255,33.58633776,44.7761194
+Female,1,0,Diploma,34,Ring,Guilan,0,Married,162,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Female,1,0,Bachelor,37,HR and Training,Mazandaran,0,Single,160,Production,Aban,38.27993255,40.17094017,36.50485437
+Female,1,0,Diploma,34,Doubling,Qom,73,Married,161,Production,Tir,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,28,Autoconer,Qom,42,Single,178,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Female,1,0,Diploma,39,Packing,Central,0,Married,160,Production,Aban,38.27993255,36.96275072,36.50485437
+Male,1,0,Diploma,26,Maintenance and Repairs,Hamadan,0,Single,177,Production,Azar,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,32,Autoconer,Qom,18,Single,171,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Female,0,0,Diploma,26,Ring,Qom,0,Married,164,Production,Aban,38.27993255,36.96275072,28.90625
+Male,0,0,Diploma,35,Ring,Shahriar,97,Married,174,Production,Esfand,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,33,Flyer,Qom,0,Married,174,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,26,Passage,Qom,18,Married,180,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,36,Passage,Hashtrood,81,Married,172,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,0,0,PostDiploma,35,Facilities,Durrod,109,Married,171,Technical,Ordibehesht,32.32405892,39.78494624,36.50485437
+Male,0,0,Diploma,36,Maintenance and Repairs,Tehran,97,Married,175,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,36,Passage,Qom,127,Married,171,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,36,Passage,Qom,127,Married,171,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Female,1,0,HighSchool,40,Ring,Qom,57,Married,161,Production,Shahrivar,38.27993255,33.58633776,36.50485437
+Male,1,0,Diploma,23,Packing,Qom,0,Single,180,Production,Aban,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,36,Autoconer,Qom,47,Married,171,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,2,Diploma,38,Autoconer,Mamasani,0,Married,175,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,24,Flyer,Qom,0,Single,174,Production,Tir,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,23,Jet,Abadan,6,Single,174,Production,Farvardin,32.32405892,17.67241379,28.90625
+Male,0,0,Diploma,31,Jet,Qom,4,Single,175,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,26,Carding,Qom,0,Single,179,Technical,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,27,Ring,Qom,0,Single,177,Production,Mehr,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,28,Passage,Nahavand,30,Single,178,Production,Tir,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,22,Ring,Qom,0,Married,159,Production,Khordad,38.27993255,36.96275072,28.90625
+Male,1,0,PostDiploma,28,Security,Qom,66,Single,182,HR and Office,Bahman,32.32405892,39.78494624,33.28748281
+Male,1,0,HighSchool,24,Packing,Qom,30,Single,180,Production,Aban,32.32405892,33.58633776,28.90625
+Female,1,2,HighSchool,47,Ring,Ilam,47,Married,157,Production,Esfand,38.27993255,33.58633776,44.7761194
+Female,1,0,Bachelor,28,Office,Tehran,1,Single,172,Production,Mehr,38.27993255,40.17094017,33.28748281
+Female,1,0,Bachelor,28,Office,Tehran,18,Single,180,Production,Mehr,38.27993255,40.17094017,33.28748281
+Male,0,2,Diploma,41,Maintenance and Repairs,Karaj,150,Married,171,Production,Esfand,32.32405892,36.96275072,36.50485437
+Female,1,1,Diploma,36,Ring,West Azerbaijan,6,Married,161,Production,Bahman,38.27993255,36.96275072,36.50485437
+Male,1,1,HighSchool,33,Maintenance and Repairs,Zanjan,53,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,23,Ring,Qom,0,Single,156,Production,Dey,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,26,Autoconer,Qom,0,Single,171,Production,Shahrivar,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,38,Facilities,Qom,0,Married,166,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,0,0,Bachelor,29,HR and Training,Qom,21,Married,164,HR and Office,Mordad,38.27993255,40.17094017,33.28748281
+Female,0,0,HighSchool,28,Laboratory,Ardestan,0,Single,162,HR and Office,Azar,38.27993255,33.58633776,33.28748281
+Male,1,0,HighSchool,26,Ring,Qom,7,Single,174,Production,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,PostDiploma,26,Ring,Qom,5,Single,109,Production,Mordad,32.32405892,39.78494624,28.90625
+Male,1,1,Bachelor,28,Electronic,Khuzestan,0,Married,176,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,1,2,Diploma,31,Packing,Isfahan,15,Married,164,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,1,Diploma,35,Passage,Zanjan,60,Married,176,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,1,Bachelor,34,Ring,Glamor,0,Married,176,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,23,Ring,Qom,0,Single,111,Production,Dey,38.27993255,36.96275072,28.90625
+Male,0,0,Bachelor,30,Electronic,Qom,0,Married,176,Production,Bahman,32.32405892,40.17094017,33.28748281
+Male,1,0,Bachelor,29,Electronic,Qom,2,Married,174,Production,Aban,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,42,Press,Qom,0,Married,173,Production,Shahrivar,32.32405892,33.58633776,44.7761194
+Female,1,0,Bachelor,27,Laboratory,Qom,0,Single,162,Production,Shahrivar,38.27993255,40.17094017,33.28748281
+Female,1,0,Diploma,22,Ring,Qom,0,Single,160,Production,Khordad,38.27993255,36.96275072,28.90625
+Female,1,2,HighSchool,31,Ring,Khuzestan,62,Married,162,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,27,Ring,Qom,0,Single,168,Production,Mordad,32.32405892,33.58633776,33.28748281
+Male,1,2,Diploma,38,Maintenance and Repairs,Tehran,117,Married,174,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,29,Facilities,Mahns,32,Single,165,Production,Mordad,32.32405892,33.58633776,33.28748281
+Female,1,0,HighSchool,26,Ring,Khuzestan,7,Married,163,Production,Farvardin,38.27993255,33.58633776,28.90625
+Female,1,0,Diploma,44,Maintenance and Repairs,Qom,0,Married,164,Production,Aban,38.27993255,36.96275072,44.7761194
+Male,0,0,Diploma,31,Ring,Qom,48,Married,180,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,29,Electronic,Qom,0,Single,173,Production,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,28,Facilities,Qom,0,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,30,Ring,Khansar,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,33.28748281
+Male,1,0,Bachelor,30,Electronic,Qom,0,Married,177,Production,Esfand,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,40,Doubling,Yazd,0,Married,174,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,44,Ring,Tehran,0,Married,170,Production,Azar,38.27993255,36.96275072,44.7761194
+Female,0,0,HighSchool,40,Ring,Qom,0,Married,164,Production,Mordad,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,36,Ring,Bardaskan,0,Married,160,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Female,1,0,Diploma,30,Ring,Central,0,Single,139,Production,Dey,38.27993255,36.96275072,33.28748281
+Female,0,0,HighSchool,19,Ring,Qom,0,Married,92,Production,Dey,38.27993255,33.58633776,46.15384615
+Female,0,0,HighSchool,35,Ring,Qom,0,Married,96,Production,Dey,38.27993255,33.58633776,36.50485437
+Female,0,0,Diploma,31,Ring,Qom,0,Married,165,Production,Esfand,38.27993255,36.96275072,33.28748281
+Female,0,0,Diploma,44,Ring,Qom,0,Married,164,Production,Khordad,38.27993255,36.96275072,44.7761194
+Female,0,4,Elementary,31,Ring,Ahwaz,4,Married,162,Production,Bahman,38.27993255,17.67241379,33.28748281
+Male,0,0,Elementary,32,Flyer,Susangerd,0,Married,173,Production,Shahrivar,32.32405892,17.67241379,33.28748281
+Male,0,0,HighSchool,36,Passage,Qom,126,Married,177,Production,Dey,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,43,Facilities,Hamadan,0,Married,174,Production,Mehr,32.32405892,36.96275072,44.7761194
+Male,0,0,Diploma,38,Security,Qom,0,Married,177,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Female,1,0,HighSchool,40,Passage,Fars,0,Married,106,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,32,Ring,Qom,0,Married,176,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,0,0,PostDiploma,25,Ring,Qom,0,Married,159,Production,Farvardin,32.32405892,39.78494624,28.90625
+Female,1,0,Diploma,34,Ring,Hamadan,0,Married,160,Production,Azar,38.27993255,36.96275072,33.28748281
+Female,0,0,HighSchool,32,Ring,Kazeroon,0,Married,166,Production,Mordad,38.27993255,33.58633776,33.28748281
+Female,0,0,HighSchool,36,Ring,Khorram Abad,0,Married,162,Production,Aban,38.27993255,33.58633776,36.50485437
+Female,1,0,HighSchool,41,Ring,Qom,0,Married,164,Production,Shahrivar,38.27993255,33.58633776,36.50485437
+Male,0,0,Elementary,31,Press,Qom,0,Married,173,Production,Esfand,32.32405892,17.67241379,33.28748281
+Male,0,1,Bachelor,31,Electronic,Qom,17,Married,173,Production,Bahman,32.32405892,40.17094017,33.28748281
+Female,0,0,Master,33,HR and Training,Mashhad,0,Single,161,Production,Farvardin,38.27993255,48.38709677,33.28748281
+Male,0,0,Diploma,39,Ring,Qom,72,Married,177,Production,Azar,32.32405892,36.96275072,36.50485437
+Female,1,0,PostDiploma,42,Laboratory,Qom,0,Married,144,Industrial Engineering,Dey,38.27993255,39.78494624,44.7761194
+Female,0,0,Elementary,37,Ring,Qom,0,Married,165,Production,Azar,38.27993255,17.67241379,36.50485437
+Female,0,0,PostDiploma,32,Laboratory,Kermanshah,0,Married,102,Production,Dey,38.27993255,39.78494624,33.28748281
+Female,0,1,Bachelor,29,Laboratory,Qom,0,Married,163,HR and Office,Bahman,38.27993255,40.17094017,33.28748281
+Female,1,0,Diploma,29,Comber,Kohgiluyeh and Boyer Ahmad,0,Single,160,Production,Esfand,38.27993255,36.96275072,33.28748281
+Female,1,2,Diploma,32,Flyer,Qom,0,Single,161,Production,Khordad,38.27993255,36.96275072,33.28748281
+Female,0,0,Elementary,42,Ring,Qom,0,Married,164,Production,Aban,38.27993255,17.67241379,44.7761194
+Female,1,0,HighSchool,40,Autoconer,Qom,0,Single,101,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Male,1,0,Bachelor,29,Electronic,Qom,7,Married,176,Production,Dey,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,34,Ring,Qom,0,Married,164,Production,Shahrivar,38.27993255,36.96275072,33.28748281
+Female,1,0,HighSchool,39,Flyer,Hamadan,0,Married,160,Production,Mordad,38.27993255,33.58633776,36.50485437
+Female,0,0,Diploma,43,Maintenance and Repairs,Blue,99,Single,160,Production,Shahrivar,38.27993255,36.96275072,44.7761194
+Female,1,0,HighSchool,38,Autoconer,Hamadan,0,Married,160,Production,Shahrivar,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,23,Ring,Mirage,2,Married,163,Production,Esfand,38.27993255,33.58633776,28.90625
+Female,1,3,Diploma,39,Ring,Zanjan,14,Married,160,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,27,Packing,Shazand (Arak),0,Married,170,Production,Aban,32.32405892,36.96275072,33.28748281
+Female,1,1,Elementary,22,Maintenance and Repairs,Khuzestan,0,Single,130,Production,Dey,38.27993255,17.67241379,28.90625
+Female,0,0,Elementary,32,Ring,Arak,0,Married,151,Production,Farvardin,38.27993255,17.67241379,33.28748281
+Female,1,0,Diploma,24,Comber,Qom,0,Single,162,Production,Khordad,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,41,Ring,Abadan,0,Married,164,Production,Tir,38.27993255,36.96275072,36.50485437
+Female,1,0,Elementary,38,Maintenance and Repairs,Kerman,0,Married,161,Production,Esfand,38.27993255,17.67241379,36.50485437
+Female,0,0,Elementary,31,Ring,Indian,0,Married,83,Production,Dey,38.27993255,17.67241379,33.28748281
+Female,0,0,Elementary,26,Ring,Qom,0,Single,165,Production,Bahman,38.27993255,17.67241379,28.90625
+Female,0,0,Elementary,19,Ring,Qom,0,Single,162,Production,Esfand,38.27993255,17.67241379,46.15384615
+Female,0,0,PostDiploma,24,Ring,Qom,0,Married,154,Production,Mordad,38.27993255,39.78494624,28.90625
+Male,0,0,Elementary,27,Jet,Qom,0,Single,176,Production,Esfand,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,24,Ring,Qom,0,Married,163,Production,Azar,38.27993255,36.96275072,28.90625
+Female,0,0,Elementary,24,Ring,Qom,0,Married,78,Production,Dey,38.27993255,17.67241379,28.90625
+Female,1,0,Diploma,34,Ring,Qom,0,Married,163,Production,Esfand,38.27993255,36.96275072,33.28748281
+Female,0,0,Elementary,26,Ring,Qom,0,Single,162,Production,Azar,38.27993255,17.67241379,28.90625
+Male,1,0,Elementary,38,Warehouse,Lorestan,29,Married,171,Production,Ordibehesht,32.32405892,17.67241379,36.50485437
+Female,1,0,Diploma,42,Autoconer,Qazvin,17,Married,152,Production,Farvardin,38.27993255,36.96275072,44.7761194
+Female,1,0,Bachelor,46,Ring,Qom,0,Single,162,Production,Azar,38.27993255,40.17094017,44.7761194
+Female,1,0,Elementary,24,Flyer,Qom,0,Single,165,Production,Ordibehesht,38.27993255,17.67241379,28.90625
+Female,1,0,Bachelor,39,Ring,Qom,3,Married,159,Production,Esfand,38.27993255,40.17094017,36.50485437
+Female,0,0,Elementary,23,Ring,Poldokhtar,0,Single,162,Production,Mehr,38.27993255,17.67241379,28.90625
+Male,0,0,Elementary,33,Maintenance and Repairs,Qom,0,Single,155,Production,Dey,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,29,Jet,Qom,0,Married,174,Production,Ordibehesht,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,24,Ring,Diploma,0,Single,162,Production,Mehr,38.27993255,36.96275072,28.90625
+Male,0,0,Elementary,29,Flyer,Qom,0,Married,173,Production,Azar,32.32405892,17.67241379,33.28748281
+Female,0,0,Elementary,36,Ring,Arak,0,Single,153,Production,Mehr,38.27993255,17.67241379,36.50485437
+Male,0,0,Diploma,3,Open End,Iraq,0,Married,181,Production,Mordad,32.32405892,36.96275072,34.40443213
+Female,1,0,Diploma,43,Autoconer,Qom,0,Single,162,Production,Khordad,38.27993255,36.96275072,44.7761194
+Female,0,0,Elementary,40,Ring,Arak,0,Married,153,Production,Bahman,38.27993255,17.67241379,36.50485437
+Male,0,0,Diploma,28,Maintenance and Repairs,Qom,17,Single,176,Production,Bahman,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,30,Ring,Qom,0,Single,104,Production,Dey,38.27993255,36.96275072,33.28748281
+Female,1,0,HighSchool,29,Doubling,Khuzestan,82,Married,162,Production,Bahman,38.27993255,33.58633776,33.28748281
+Female,0,0,HighSchool,30,Ring,Mahshahr,46,Single,96,Production,Dey,38.27993255,33.58633776,33.28748281
+Female,1,0,HighSchool,24,Ring,Khuzestan,0,Single,162,Production,Esfand,38.27993255,33.58633776,28.90625
+Female,0,0,Bachelor,33,Ring,Ahwaz,0,Married,160,Production,Aban,38.27993255,40.17094017,33.28748281
+Male,0,0,Diploma,36,Facilities,Qom,60,Married,165,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,23,Ring,Qom,0,Married,164,Production,Aban,38.27993255,36.96275072,28.90625
+Female,1,0,HighSchool,38,Ring,Tafresh,76,Married,170,Production,Tir,38.27993255,33.58633776,36.50485437
+Female,0,0,Elementary,40,Ring,Gorgan,0,Married,104,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,36,Security,Qom,0,Married,156,Production,Dey,32.32405892,17.67241379,36.50485437
+Female,1,0,HighSchool,24,Autoconer,Khuzestan,0,Single,162,Production,Esfand,38.27993255,33.58633776,28.90625
+Female,0,0,Elementary,32,Ring,Khorramshahr,0,Married,83,Production,Dey,38.27993255,17.67241379,33.28748281
+Female,0,0,Elementary,45,Autoconer,Farahan,0,Married,162,Production,Esfand,38.27993255,17.67241379,44.7761194
+Male,0,0,Bachelor,29,Electronic,Qom,78,Married,175,Electronic,Bahman,32.32405892,40.17094017,33.28748281
+Male,0,1,Elementary,30,Warehouse,Khorramabad,52,Married,178,Production,Esfand,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,40,Ring,Qom,124,Married,176,Production,Mehr,32.32405892,17.67241379,36.50485437
+Female,1,0,HighSchool,21,Passage,Qom,0,Married,127,Production,Dey,38.27993255,33.58633776,46.15384615
+Male,1,0,HighSchool,30,Passage,Central,0,Single,175,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Male,0,0,Master,34,Technical and Engineering,Lahijan,44,Married,172,Production,Esfand,32.32405892,48.38709677,33.28748281
+Female,0,0,Diploma,42,Flyer,Tehran,0,Married,131,Production,Dey,38.27993255,36.96275072,44.7761194
+Female,0,1,Diploma,42,Flyer,Tehran,0,Married,136,Production,Dey,38.27993255,36.96275072,44.7761194
+Male,0,0,Elementary,33,Flyer,Hovey,0,Married,171,Production,Azar,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,29,Packing,Shush,11,Single,169,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,1,0,Master,37,Safety,Lorestan,47,Married,172,Electronic,Esfand,32.32405892,48.38709677,36.50485437
+Male,0,1,Diploma,33,Carding,Saveh,11,Married,116,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,29,Security,Qom,0,Married,169,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,31,Electronic,Yazd,24,Single,179,Production,Aban,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,38,Packing,Qom,0,Single,123,Production,Dey,38.27993255,36.96275072,36.50485437
+Male,0,0,HighSchool,32,Facilities,Qom,0,Single,156,Production,Dey,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,31,Ring,Falcon Fortress,0,Married,162,Production,Shahrivar,38.27993255,33.58633776,33.28748281
+Male,0,0,Bachelor,29,Facilities,Durrod,16,Married,170,Production,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,0,Bachelor,28,Facilities,Durrod,0,Single,174,Production,Mordad,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,38,Packing,Khosro Abbas,0,Married,161,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,Bachelor,31,Jet,Mashhad,0,Single,176,Production,Tir,32.32405892,40.17094017,33.28748281
+Male,0,0,Elementary,31,Jet,Khorramabad,47,Married,174,Production,Shahrivar,32.32405892,17.67241379,33.28748281
+Male,0,3,Diploma,45,Doubling,Zanjan,40,Married,164,Production,Mordad,32.32405892,36.96275072,44.7761194
+Male,0,0,Diploma,24,Warehouse,Qom,0,Single,172,Production,Bahman,32.32405892,36.96275072,28.90625
+Female,0,0,Elementary,25,Ring,Qom,0,Single,165,Production,Bahman,38.27993255,17.67241379,28.90625
+Female,0,3,Elementary,35,Autoconer,Qom,0,Married,162,Production,Esfand,38.27993255,17.67241379,36.50485437
+Female,0,0,Bachelor,39,Financial,Karaj,0,Married,162,Production,Tir,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,28,Packing,Qom,41,Single,174,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,24,Packing,Mahns,0,Single,177,Production,Khordad,32.32405892,36.96275072,28.90625
+Male,0,0,Bachelor,33,Open End,Qom,18,Single,176,Production,Azar,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,26,Carding,Zanjan,0,Single,176,Production,Mehr,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,22,Ring,Qom,0,Single,162,Production,Esfand,38.27993255,36.96275072,28.90625
+Male,0,0,Diploma,26,Facilities,Qom,0,Single,176,Production,Azar,32.32405892,36.96275072,28.90625
+Male,0,2,Elementary,39,Press,Ahwaz,4,Married,168,Production,Mordad,32.32405892,17.67241379,36.50485437
+Female,1,0,Bachelor,27,Packing,Kohgiluyeh and Boyer Ahmad,5,Single,159,Production,Ordibehesht,38.27993255,40.17094017,33.28748281
+Female,0,0,Bachelor,39,HR and Training,Golpayegan,51,Single,159,HR and Office,Aban,38.27993255,40.17094017,36.50485437
+Male,0,0,Bachelor,32,Facilities,Qom,5,Single,176,Production,Shahrivar,32.32405892,40.17094017,33.28748281
+Male,0,0,PostDiploma,28,Facilities,Tafresh,1,Single,176,Production,Aban,32.32405892,39.78494624,33.28748281
+Male,0,0,Bachelor,28,Indutrial Engineering,Oligodarz,0,Single,180,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,32,Ring,Saveh,52,Married,177,Production,Tir,32.32405892,36.96275072,33.28748281
+Female,1,0,Master,30,Business,Qom,0,Single,161,Production,Shahrivar,38.27993255,48.38709677,33.28748281
+Female,0,0,Bachelor,24,Laboratory,Qom,0,Married,162,Industrial Engineering,Azar,38.27993255,40.17094017,28.90625
+Female,0,0,Diploma,33,Packing,Vineyard,33,Married,160,Production,Mordad,38.27993255,36.96275072,33.28748281
+Female,0,0,HighSchool,45,Packing,Qom,0,Married,163,Production,Mordad,38.27993255,33.58633776,44.7761194
+Female,0,2,HighSchool,35,Packing,Tehran,0,Married,169,Production,Ordibehesht,38.27993255,33.58633776,36.50485437
+Male,0,0,Elementary,25,Autoconer,Zanjan,0,Single,161,Production,Dey,32.32405892,17.67241379,28.90625
+Male,0,0,HighSchool,36,Packing,Rosen,0,Married,170,Production,Tir,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,27,Ring,Qom,0,Married,166,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,34,Packing,West Azerbaijan,78,Married,176,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,38,Press,Qom,141,Single,173,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,24,Press,Mahns,0,Married,176,Production,Tir,32.32405892,36.96275072,28.90625
+Female,1,2,Diploma,41,Comber,Qom,52,Married,162,Production,Bahman,38.27993255,36.96275072,36.50485437
+Female,0,2,Elementary,40,Packing,Larestan,0,Single,162,Production,Aban,38.27993255,17.67241379,36.50485437
+Male,0,0,Diploma,30,Packing,Zanjan,7,Married,170,Production,Khordad,32.32405892,36.96275072,33.28748281
+Female,1,1,Diploma,38,Maintenance and Repairs,Khuzestan,49,Married,163,Production,Ordibehesht,38.27993255,36.96275072,36.50485437
+Male,0,1,Diploma,39,Facilities,Shushtar,104,Married,171,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Female,1,1,Diploma,40,Maintenance and Repairs,Lorestan,86,Married,161,Production,Tir,38.27993255,36.96275072,36.50485437
+Female,1,1,Diploma,40,Maintenance and Repairs,Lorestan,86,Single,161,Production,Tir,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,42,Ring,Qom,0,Married,165,Production,Tir,38.27993255,36.96275072,44.7761194
+Male,0,5,Diploma,44,Electronic,Qom,76,Married,172,Production,Mordad,32.32405892,36.96275072,44.7761194
+Male,1,0,HighSchool,24,Open End,Arak,17,Single,172,Production,Mordad,32.32405892,33.58633776,28.90625
+Female,0,1,Diploma,41,Ring,Qom,55,Married,162,Production,Khordad,38.27993255,36.96275072,36.50485437
+Male,1,0,Diploma,34,Packing,Central,0,Single,169,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Female,0,0,Elementary,24,Maintenance and Repairs,Qom,0,Single,161,Production,Tir,38.27993255,17.67241379,28.90625
+Female,0,0,Diploma,37,Ring,Qom,0,Married,163,Production,Esfand,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,28,Ring,Rudsar,0,Married,164,Production,Mordad,38.27993255,36.96275072,33.28748281
+Female,0,0,Elementary,3,Ring,Ahwaz,0,Single,161,Production,Mehr,38.27993255,17.67241379,34.40443213
+Female,0,0,Elementary,22,Packing,Qom,0,Single,160,Production,Tir,38.27993255,17.67241379,28.90625
+Male,1,0,Diploma,27,Carding,Qom,8,Single,177,Production,Khordad,32.32405892,36.96275072,33.28748281
+Female,1,0,Bachelor,35,Comber,Lorestan,0,Single,161,Production,Ordibehesht,38.27993255,40.17094017,36.50485437
+Female,0,0,Elementary,34,Ring,Shush,14,Married,161,Production,Mordad,38.27993255,17.67241379,33.28748281
+Male,0,2,Elementary,39,Warehouse,Tafresh,87,Married,171,Production,Shahrivar,32.32405892,17.67241379,36.50485437
+Female,0,0,Master,37,Office,Tehran,0,Single,172,Production,Azar,38.27993255,48.38709677,36.50485437
+Female,0,0,Diploma,22,Ring,Khorramabad,0,Single,118,Production,Dey,38.27993255,36.96275072,28.90625
+Female,0,2,HighSchool,38,Ring,Qom,11,Married,118,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,0,0,Bachelor,29,Office,Qom,54,Single,159,HR and Office,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,2,HighSchool,41,Passage,Qom,0,Married,155,Production,Dey,32.32405892,33.58633776,36.50485437
+Female,0,0,Elementary,25,Ring,Qom,0,Married,162,Production,Shahrivar,38.27993255,17.67241379,28.90625
+Female,0,2,Elementary,34,Ring,Kermanshah,20,Married,162,Production,Khordad,38.27993255,17.67241379,33.28748281
+Male,0,0,Diploma,26,Autoconer,Khorramabad,30,Single,178,Production,Bahman,32.32405892,36.96275072,28.90625
+Female,0,1,Elementary,42,Ring,Qom,0,Married,141,Production,Farvardin,38.27993255,17.67241379,44.7761194
+Male,0,0,Elementary,32,Press,Qom,0,Married,173,Production,Tir,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,22,Ring,Qom,9,Single,178,Production,Esfand,32.32405892,17.67241379,28.90625
+Male,1,1,Bachelor,35,Electronic,Fars,6,Married,175,Electronic,Ordibehesht,32.32405892,40.17094017,36.50485437
+Male,1,2,HighSchool,39,Maintenance and Repairs,Qom,97,Married,171,Production,Tir,32.32405892,33.58633776,36.50485437
+Male,1,2,Elementary,38,Packing,Lorestan,24,Married,169,Production,Esfand,32.32405892,17.67241379,36.50485437
+Male,1,0,Diploma,26,Autoconer,Qom,0,Single,175,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,0,2,Elementary,38,Jet,Neighborhoods,173,Married,171,Production,Farvardin,32.32405892,17.67241379,36.50485437
+Female,1,0,Elementary,38,Autoconer,Lorestan,7,Married,161,Production,Shahrivar,38.27993255,17.67241379,36.50485437
+Female,1,0,Diploma,29,Comber,Qom,48,Married,157,Production,Mordad,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,34,Flyer,Lorestan,0,Single,174,Production,Esfand,32.32405892,36.96275072,33.28748281
+Female,1,0,Bachelor,27,Packing,Qom,5,Single,164,Production,Esfand,38.27993255,40.17094017,33.28748281
+Female,1,2,Elementary,40,Packing,Khuzestan,32,Married,162,Production,Shahrivar,38.27993255,17.67241379,36.50485437
+Female,0,1,Elementary,32,Ring,Qom,0,Married,163,Production,Tir,38.27993255,17.67241379,33.28748281
+Female,0,0,Elementary,29,Ring,Qom,0,Married,162,Production,Shahrivar,38.27993255,17.67241379,33.28748281
+Male,0,0,Elementary,25,Ring,Ahwaz,17,Single,182,Production,Aban,32.32405892,17.67241379,28.90625
+Male,0,0,Bachelor,34,Electronic,Qom,1,Single,122,Production,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,0,Elementary,34,Flyer,Khorobiabank,0,Married,174,Production,Khordad,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,33,Flyer,Khorobiabank,0,Married,173,Production,Khordad,32.32405892,17.67241379,33.28748281
+Female,1,0,Diploma,35,Flyer,Khuzestan,0,Single,162,Production,Mehr,38.27993255,36.96275072,36.50485437
+Male,0,0,Elementary,28,Ring,Qom,0,Married,177,Production,Farvardin,32.32405892,17.67241379,33.28748281
+Female,0,0,Elementary,39,Ring,Shush,1,Married,86,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,34,Flyer,Qom,0,Married,174,Production,Tir,32.32405892,17.67241379,33.28748281
+Female,0,1,Elementary,32,Ring,Baghmank,0,Married,164,Production,Tir,38.27993255,17.67241379,33.28748281
+Female,1,1,HighSchool,32,Ring,Qom,0,Married,166,Production,Tir,38.27993255,33.58633776,33.28748281
+Male,0,2,Elementary,41,Maintenance and Repairs,Qom,194,Married,172,Production,Bahman,32.32405892,17.67241379,36.50485437
+Female,1,3,Bachelor,43,Maintenance and Repairs,East Azerbaijan,0,Married,161,Production,Mehr,38.27993255,40.17094017,44.7761194
+Female,1,1,HighSchool,39,Autoconer,Qom,0,Married,68,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Female,0,2,Elementary,41,Ring,Boyer Ahmad,0,Married,116,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Female,0,1,Elementary,45,Autoconer,Khorramabad,120,Married,159,Production,Khordad,38.27993255,17.67241379,44.7761194
+Male,0,0,Elementary,35,Flyer,Qom,0,Married,177,Production,Azar,32.32405892,17.67241379,36.50485437
+Male,1,0,Elementary,31,Press,Qom,2,Single,172,Production,Aban,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,34,Ring,Abadan,113,Single,171,Production,Tir,32.32405892,17.67241379,33.28748281
+Female,1,2,Elementary,37,Packing,Ahwaz,0,Married,160,Production,Khordad,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,26,Ring,Qom,2,Married,177,Production,Khordad,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,23,Packing,Qom,0,Single,171,Production,Bahman,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,24,Packing,Qom,1,Single,176,Production,Farvardin,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,33,Flyer,Qom,0,Married,174,Production,Ordibehesht,32.32405892,17.67241379,33.28748281
+Female,1,2,Elementary,40,Ring,Khuzestan,0,Married,162,Production,Khordad,38.27993255,17.67241379,36.50485437
+Female,0,0,Elementary,29,Ring,Qom,0,Married,166,Production,Bahman,38.27993255,17.67241379,33.28748281
+Male,1,1,Bachelor,40,Electronic,Golestan,0,Married,175,Electronic,Aban,32.32405892,40.17094017,36.50485437
+Male,1,2,Diploma,38,Tray and Reserver,East Azerbaijan,89,Married,172,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,34,Ring,Qom,36,Married,179,Production,Khordad,32.32405892,17.67241379,33.28748281
+Male,0,0,PostDiploma,30,Maintenance and Repairs,Qom,0,Single,174,Production,Bahman,32.32405892,39.78494624,33.28748281
+Female,0,2,Diploma,38,Ring,Hamadan,94,Married,160,Production,Khordad,38.27993255,36.96275072,36.50485437
+Female,0,0,HighSchool,38,Ring,Hamadan,6,Married,162,Production,Bahman,38.27993255,33.58633776,36.50485437
+Male,0,0,Elementary,24,Ring,Qom,4,Married,176,Production,Shahrivar,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,28,Flyer,Qorveh,3,Married,176,Production,Farvardin,32.32405892,17.67241379,33.28748281
+Male,1,2,HighSchool,43,Warehouse,Central,167,Married,168,Production,Khordad,32.32405892,33.58633776,44.7761194
+Male,0,2,Elementary,41,Security,Tehran,98,Married,174,Production,Dey,32.32405892,17.67241379,36.50485437
+Female,0,1,Elementary,41,Ring,Tehran,0,Married,171,Production,Mehr,38.27993255,17.67241379,36.50485437
+Male,0,3,Diploma,33,Ring,Ahwaz,43,Married,178,Production,Bahman,32.32405892,36.96275072,33.28748281
+Female,0,0,PostDiploma,22,Ring,Ahwaz,0,Single,158,Production,Tir,38.27993255,39.78494624,28.90625
+Male,0,0,Bachelor,34,Maintenance and Repairs,Qom,0,Single,178,Production,Mehr,32.32405892,40.17094017,33.28748281
+Female,1,2,Diploma,36,Ring,Khorramshahr,0,Married,159,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Female,1,2,Diploma,40,Comber,Lorestan,99,Married,161,Production,Tir,38.27993255,36.96275072,36.50485437
+Female,0,0,Elementary,36,Ring,Qom,0,Married,165,Production,Azar,38.27993255,17.67241379,36.50485437
+Female,0,0,Diploma,38,Ring,Qom,0,Married,162,Production,Aban,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,35,Ring,Iraq,65,Married,164,Production,Farvardin,38.27993255,36.96275072,36.50485437
+Male,1,0,HighSchool,32,Flyer,Qom,0,Single,174,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,4,Elementary,37,Warehouse,Mahns,30,Married,177,Production,Shahrivar,32.32405892,17.67241379,36.50485437
+Male,0,0,Diploma,26,Warehouse,Qom,0,Married,177,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Female,1,1,Bachelor,43,Ring,Central,0,Married,160,Production,Shahrivar,38.27993255,40.17094017,44.7761194
+Female,1,2,HighSchool,32,Ring,Central,0,Married,111,Production,Dey,38.27993255,33.58633776,33.28748281
+Male,0,2,Diploma,39,Security,Qom,103,Married,176,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Female,0,1,Bachelor,35,Ring,Malcans,0,Married,160,Production,Esfand,38.27993255,40.17094017,36.50485437
+Female,0,0,Diploma,22,Ring,Qom,0,Single,161,Production,Shahrivar,38.27993255,36.96275072,28.90625
+Female,0,2,Diploma,39,Ring,Qom,0,Married,158,Production,Khordad,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,25,Ring,Qom,0,Married,164,Production,Mordad,38.27993255,36.96275072,28.90625
+Male,0,0,HighSchool,24,Press,Mahns,3,Single,177,Production,Esfand,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,24,Ring,Qom,0,Single,172,Production,Ordibehesht,32.32405892,33.58633776,28.90625
+Female,0,0,Diploma,31,Ring,Qom,8,Married,164,Production,Khordad,38.27993255,36.96275072,33.28748281
+Female,0,1,HighSchool,22,Ring,Ahwaz,0,Married,81,Production,Dey,38.27993255,33.58633776,28.90625
+Male,0,0,Elementary,25,Ring,Qom,0,Married,176,Production,Shahrivar,32.32405892,17.67241379,28.90625
+Male,0,3,Diploma,39,Ring,Qom,40,Married,177,Production,Khordad,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,27,Security,Qom,2,Married,172,Production,Bahman,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,23,Ring,Dezful,0,Married,162,Production,Aban,38.27993255,36.96275072,28.90625
+Female,0,0,Bachelor,25,Packing,Qom,0,Single,161,Industrial Engineering,Farvardin,38.27993255,40.17094017,28.90625
+Male,0,0,Master,30,Office,Kermanshah,6,Single,180,Production,Farvardin,32.32405892,48.38709677,33.28748281
+Male,0,0,Elementary,33,Ring,Shushtar,6,Single,173,Production,Shahrivar,32.32405892,17.67241379,33.28748281
+Female,0,0,Bachelor,24,Laboratory,Qom,0,Single,164,Industrial Engineering,Bahman,38.27993255,40.17094017,28.90625
+Female,1,0,PostDiploma,25,Ring,Qom,5,Married,161,Production,Khordad,38.27993255,39.78494624,28.90625
+Male,0,0,HighSchool,31,Ring,Shushtar,58,Single,178,Production,Dey,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,48,Passage,Qom,0,Married,174,Production,Mehr,32.32405892,33.58633776,44.7761194
+Male,0,2,Elementary,37,Packing,Qom,110,Married,165,Production,Aban,32.32405892,17.67241379,36.50485437
+Male,0,0,HighSchool,22,Ring,Qom,0,Single,176,Production,Farvardin,32.32405892,33.58633776,28.90625
+Male,0,1,HighSchool,31,Security,Qom,24,Married,177,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,0,2,Diploma,38,Security,Qom,41,Married,177,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,25,Press,Ahwaz,0,Single,175,Production,Azar,32.32405892,36.96275072,28.90625
+Female,0,0,Elementary,30,Ring,Central,0,Single,161,Production,Tir,38.27993255,17.67241379,33.28748281
+Male,0,0,Elementary,32,Security,Qom,40,Married,142,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,30,Autoconer,Arak,12,Married,149,Production,Shahrivar,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,26,Ring,Dezful,19,Single,180,Production,Dey,32.32405892,17.67241379,28.90625
+Male,1,0,Elementary,29,Open End,God,0,Single,163,Production,Dey,32.32405892,17.67241379,33.28748281
+Female,1,0,Bachelor,33,Financial,Lorestan,0,Single,160,Production,Khordad,38.27993255,40.17094017,33.28748281
+Male,0,0,Elementary,37,Ring,Qom,66,Married,177,Production,Ordibehesht,32.32405892,17.67241379,36.50485437
+Male,1,0,Diploma,22,Autoconer,Lorestan,0,Single,175,Production,Bahman,32.32405892,36.96275072,28.90625
+Female,1,0,Elementary,36,Ring,Khuzestan,0,Single,161,Production,Azar,38.27993255,17.67241379,36.50485437
+Female,0,1,Elementary,26,Ring,Qom,0,Married,162,Production,Shahrivar,38.27993255,17.67241379,28.90625
+Male,0,0,Diploma,36,Autoconer,Qom,0,Married,163,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,1,Elementary,36,Facilities,Qom,0,Married,155,Production,Dey,32.32405892,17.67241379,36.50485437
+Female,0,4,Elementary,41,Maintenance and Repairs,Ahwaz,0,Married,162,Production,Ordibehesht,38.27993255,17.67241379,36.50485437
+Male,0,0,HighSchool,29,Ring,Qom,6,Married,164,Production,Mordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,32,Carding,Khuzestan,0,Single,174,Production,Bahman,32.32405892,40.17094017,33.28748281
+Female,0,0,Elementary,36,Ring,Qom,0,Single,159,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Male,0,3,HighSchool,39,Warehouse,Behbahan,5,Married,175,Production,Dey,32.32405892,33.58633776,36.50485437
+Female,0,0,Elementary,38,Ring,Tehran,0,Married,172,Production,Aban,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,23,Press,Qom,0,Married,177,Production,Shahrivar,32.32405892,17.67241379,28.90625
+Male,0,1,Elementary,30,Maintenance and Repairs,Qom,0,Married,172,Production,Bahman,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,26,Ring,Qom,0,Married,176,Production,Mehr,32.32405892,17.67241379,28.90625
+Male,0,0,HighSchool,27,Passage,Qom,8,Single,174,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,1,0,Bachelor,29,Electronic,West Azerbaijan,18,Single,172,Production,Mordad,32.32405892,40.17094017,33.28748281
+Female,0,1,Diploma,41,Ring,Mahshahr Port,16,Married,163,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,25,Ring,Miandoab,20,Single,182,Production,Khordad,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,27,Autoconer,Hamadan,43,Single,180,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Female,1,2,Diploma,41,Ring,Qom,36,Married,163,Production,Azar,38.27993255,36.96275072,36.50485437
+Male,0,2,Elementary,30,Warehouse,Qom,80,Married,177,Production,Tir,32.32405892,17.67241379,33.28748281
+Male,1,0,HighSchool,41,Packing,Hamadan,0,Married,167,Production,Mordad,32.32405892,33.58633776,36.50485437
+Female,0,0,Elementary,29,Ring,Tiran and Crohn,0,Married,162,Production,Mordad,38.27993255,17.67241379,33.28748281
+Male,0,2,Bachelor,38,Ring,Gonbadkaus,183,Married,177,Technical,Bahman,32.32405892,40.17094017,36.50485437
+Female,1,3,Diploma,32,Laboratory,Qom,2,Single,164,Production,Mehr,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,40,Tray and Reserver,Qom,0,Married,174,Production,Aban,32.32405892,36.96275072,36.50485437
+Female,1,0,Diploma,40,Maintenance and Repairs,Isfahan,0,Married,160,Production,Esfand,38.27993255,36.96275072,36.50485437
+Male,0,0,Elementary,24,Ring,Qom,0,Married,175,Production,Mehr,32.32405892,17.67241379,28.90625
+Male,0,0,Diploma,39,Flyer,Qom,0,Single,175,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,1,2,HighSchool,30,Passage,Hamadan,50,Married,171,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,0,1,Elementary,29,Warehouse,Qom,20,Married,178,Production,Dey,32.32405892,17.67241379,33.28748281
+Male,0,2,HighSchool,29,Warehouse,Blue,120,Married,176,Production,Dey,32.32405892,33.58633776,33.28748281
+Male,0,3,Elementary,38,Warehouse,Tafresh,184,Married,175,Production,Tir,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,23,Passage,Qom,0,Married,176,Production,Aban,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,34,Press,Qom,0,Married,174,Production,Esfand,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,37,Warehouse,Charavimaq,13,Married,177,Production,Farvardin,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,23,Ring,Qom,0,Married,176,Production,Farvardin,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,35,Maintenance and Repairs,Qom,0,Married,175,Production,Bahman,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,35,Flyer,Qom,5,Married,174,Production,Ordibehesht,32.32405892,17.67241379,36.50485437
+Female,0,0,Elementary,23,Ring,Qom,0,Married,163,Production,Mordad,38.27993255,17.67241379,28.90625
+Female,0,0,Elementary,37,Ring,West,0,Married,114,Production,Mordad,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,39,Warehouse,West,0,Married,102,Production,Shahrivar,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,29,Ring,Boroujerd,45,Single,179,Production,Dey,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,27,Ring,Qom,0,Married,165,Production,Aban,38.27993255,36.96275072,33.28748281
+Male,1,0,HighSchool,25,Autoconer,Qom,0,Single,176,Production,Farvardin,32.32405892,33.58633776,28.90625
+Male,0,1,PostDiploma,34,Packing,Qom,61,Married,168,Technical,Esfand,32.32405892,39.78494624,33.28748281
+Female,0,0,Bachelor,30,Business,Tehran,0,Married,164,Production,Farvardin,38.27993255,40.17094017,33.28748281
+Female,1,2,Diploma,41,Ring,Central,19,Married,162,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,2,Elementary,29,Security,Qom,66,Married,157,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,26,Jet,Qom,0,Single,176,Production,Ordibehesht,32.32405892,17.67241379,28.90625
+Female,1,2,Elementary,39,Packing,Qom,8,Married,77,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,23,Ring,Qom,8,Married,179,Production,Esfand,32.32405892,17.67241379,28.90625
+Male,0,2,Diploma,31,Ring,Tuyserkan,25,Married,178,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,2,Diploma,31,Ring,Tuyserkan,25,Married,178,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,26,Carding,Qom,3,Single,177,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,1,Diploma,40,Ring,Qom,0,Married,159,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,0,0,Elementary,32,Ring,Blue,0,Married,163,Production,Aban,38.27993255,17.67241379,33.28748281
+Male,0,0,Elementary,28,Press,Ahwaz,20,Married,169,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,1,0,Elementary,30,Tray and Reserver,Hamadan,0,Single,175,Production,Farvardin,32.32405892,17.67241379,33.28748281
+Male,1,0,Elementary,27,Warehouse,Qom,18,Married,176,Production,Ordibehesht,32.32405892,17.67241379,33.28748281
+Male,0,2,Elementary,37,Flyer,Qom,50,Married,171,Production,Ordibehesht,32.32405892,17.67241379,36.50485437
+Female,1,3,Elementary,33,Ring,Khuzestan,6,Married,162,Production,Bahman,38.27993255,17.67241379,33.28748281
+Male,0,0,Diploma,28,Packing,Qom,25,Married,170,Production,Mehr,32.32405892,36.96275072,33.28748281
+Male,1,2,HighSchool,33,Packing,Hamadan,109,Married,167,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,1,Elementary,30,Maintenance and Repairs,Qom,0,Married,175,Production,Aban,32.32405892,17.67241379,33.28748281
+Female,0,1,HighSchool,40,Ring,Hashtrood,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,25,Ring,Afghanistan,12,Married,181,Production,Farvardin,32.32405892,33.58633776,28.90625
+Female,0,2,Elementary,36,Ring,Ramian,69,Married,160,Production,Shahrivar,38.27993255,17.67241379,36.50485437
+Male,0,1,Elementary,33,Security,Qom,62,Married,107,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,1,2,Elementary,36,Carding,Tehran,63,Married,173,Production,Khordad,32.32405892,17.67241379,36.50485437
+Male,1,0,Bachelor,28,Doubling,Qom,0,Single,179,Production,Tir,32.32405892,40.17094017,33.28748281
+Male,1,0,Bachelor,28,Doubling,Qom,4,Single,177,Production,Tir,32.32405892,40.17094017,33.28748281
+Male,0,0,Bachelor,32,Packing,Kabine,53,Married,172,Technical,Dey,32.32405892,40.17094017,33.28748281
+Male,0,0,Bachelor,34,Technical and Engineering,Tehran,0,Single,177,Production,Shahrivar,32.32405892,40.17094017,33.28748281
+Male,0,0,Elementary,33,Jet,Qom,0,Single,173,Production,Bahman,32.32405892,17.67241379,33.28748281
+Female,0,1,Diploma,41,Ring,Arak,0,Married,151,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,28,Ring,Charavimaq,3,Single,174,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,30,Security,Khuzestan,17,Single,176,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,1,Elementary,32,Warehouse,Qom,59,Married,178,Production,Dey,32.32405892,17.67241379,33.28748281
+Male,0,0,Bachelor,34,Jet,Rasht,18,Married,178,Production,Mehr,32.32405892,40.17094017,33.28748281
+Female,1,0,Master,42,Office,Tehran,0,Single,170,Production,Mordad,38.27993255,48.38709677,44.7761194
+Female,1,0,Master,30,Business,Bushehr,0,Single,159,Production,Shahrivar,38.27993255,48.38709677,33.28748281
+Female,0,0,Bachelor,28,Business,Tehran,0,Single,171,Production,Khordad,38.27993255,40.17094017,33.28748281
+Female,0,0,Bachelor,30,Laboratory,Qom,0,Married,92,HR and Office,Dey,38.27993255,40.17094017,33.28748281
+Female,1,0,Diploma,40,Maintenance and Repairs,Qom,0,Single,162,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,36,Office,Tehran,0,Single,166,Production,Mordad,32.32405892,36.96275072,36.50485437
+Female,0,0,Bachelor,28,Financial,Tehran,0,Married,111,HR and Office,Dey,38.27993255,40.17094017,33.28748281
+Male,0,0,Diploma,28,Packing,Qom,0,Married,173,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,29,Flyer,East Azerbaijan,29,Single,168,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,0,0,Bachelor,26,Business,Shemiranat,0,Single,162,Production,Aban,38.27993255,40.17094017,28.90625
+Male,0,0,Diploma,28,Maintenance and Repairs,Qom,0,Married,176,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,28,Electronic,Khuzestan,12,Single,176,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,32,Warehouse,Qom,62,Married,178,Production,Dey,32.32405892,17.67241379,33.28748281
+Female,1,0,Elementary,37,Maintenance and Repairs,Qom,0,Married,162,Production,Shahrivar,38.27993255,17.67241379,36.50485437
+Female,0,0,Elementary,35,Ring,Falcon Fortress,13,Married,167,Production,Farvardin,38.27993255,17.67241379,36.50485437
+Female,1,0,Diploma,25,Ring,Khuzestan,5,Married,164,Production,Bahman,38.27993255,36.96275072,28.90625
+Male,1,0,Elementary,31,Warehouse,Qom,14,Single,175,Production,Aban,32.32405892,17.67241379,33.28748281
+Male,1,0,Bachelor,30,Doubling,Qom,0,Single,177,Production,Ordibehesht,32.32405892,40.17094017,33.28748281
+Male,1,0,Bachelor,29,Electronic,East Azerbaijan,0,Single,170,Production,Mehr,32.32405892,40.17094017,33.28748281
+Female,1,2,HighSchool,38,Comber,West Azerbaijan,6,Married,91,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,24,Facilities,Qom,4,Married,177,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Female,0,1,Elementary,30,Ring,Khorramdasht,0,Single,159,Production,Khordad,38.27993255,17.67241379,33.28748281
+Female,0,0,Diploma,30,Ring,Kermanshah,7,Single,163,Production,Mordad,38.27993255,36.96275072,33.28748281
+Male,0,0,Elementary,28,Ring,Qom,16,Single,178,Production,Esfand,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,31,Ring,Qom,0,Married,167,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Male,0,0,Elementary,32,Security,Qom,0,Married,155,Production,Dey,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,38,Warehouse,Qom,58,Married,177,Production,Aban,32.32405892,17.67241379,36.50485437
+Female,1,0,HighSchool,30,Ring,East Azerbaijan,8,Single,161,Production,Mehr,38.27993255,33.58633776,33.28748281
+Female,0,0,Elementary,34,Ring,Khorramabad,0,Married,164,Production,Farvardin,38.27993255,17.67241379,33.28748281
+Female,0,0,Elementary,31,Ring,Poldokhtar,0,Married,164,Production,Tir,38.27993255,17.67241379,33.28748281
+Male,0,0,HighSchool,27,Autoconer,Qom,0,Single,175,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,1,0,Bachelor,28,Carding,Khuzestan,2,Single,176,Production,Azar,32.32405892,40.17094017,33.28748281
+Female,1,0,Diploma,22,Ring,Lorestan,0,Single,160,Production,Bahman,38.27993255,36.96275072,28.90625
+Female,1,0,Elementary,27,Ring,Khuzestan,0,Single,161,Production,Azar,38.27993255,17.67241379,33.28748281
+Male,0,0,Elementary,27,Security,Qom,14,Married,173,Production,Bahman,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,33,Security,Tafresh,75,Married,114,Production,Mordad,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,39,Office,Tehran,0,Single,175,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,38,Security,Qom,0,Married,157,Production,Dey,32.32405892,17.67241379,36.50485437
+Female,0,0,Elementary,2,Ring,Qom,0,Married,162,Production,Ordibehesht,38.27993255,17.67241379,34.40443213
+Female,1,0,Bachelor,31,Office,Tehran,0,Single,172,Production,Esfand,38.27993255,40.17094017,33.28748281
+Male,0,0,Diploma,27,Security,Nahavand,9,Married,175,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,24,Ring,Qom,27,Married,159,Production,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,Bachelor,33,Security,Tehran,5,Married,177,Production,Azar,32.32405892,40.17094017,33.28748281
+Female,0,0,HighSchool,39,Ring,Farahan,0,Married,162,Production,Mordad,38.27993255,33.58633776,36.50485437
+Female,1,0,Diploma,41,Ring,Qom,39,Single,163,Production,Bahman,38.27993255,36.96275072,36.50485437
+Male,1,0,Diploma,40,Security,Qom,0,Married,166,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,2,HighSchool,38,Ring,Ahwaz,153,Married,171,Production,Mordad,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,37,Ring,Qom,105,Married,176,Production,Khordad,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,39,Packing,Qom,0,Married,170,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,30,Packing,Shush,0,Married,157,Production,Dey,32.32405892,33.58633776,33.28748281
+Female,1,0,HighSchool,35,Ring,Qom,0,Married,164,Production,Azar,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,27,Packing,Qom,0,Married,171,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,0,2,Diploma,35,Security,Qom,152,Married,177,Production,Tir,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,24,Facilities,Qom,16,Single,180,Production,Shahrivar,32.32405892,17.67241379,28.90625
+Male,1,0,Elementary,31,Ring,Zanjan,33,Single,180,Production,Dey,32.32405892,17.67241379,33.28748281
+Male,0,0,HighSchool,40,Warehouse,Qom,0,Married,177,Production,Tir,32.32405892,33.58633776,36.50485437
+Female,1,0,Bachelor,38,Ring,Lorestan,42,Married,161,HR and Office,Mehr,38.27993255,40.17094017,36.50485437
+Male,1,1,HighSchool,36,Warehouse,Guilan,97,Married,169,Production,Ordibehesht,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,25,Security,Qom,5,Single,180,Production,Khordad,32.32405892,36.96275072,28.90625
+Female,1,0,PostDiploma,26,Laboratory,Qom,40,Single,163,HR and Office,Esfand,38.27993255,39.78494624,28.90625
+Male,0,0,HighSchool,48,Warehouse,Khorramshahr,19,Married,172,Production,Azar,32.32405892,33.58633776,44.7761194
+Male,0,2,Diploma,44,Security,Qom,130,Married,179,Production,Dey,32.32405892,36.96275072,44.7761194
+Male,1,1,Diploma,34,Warehouse,Qom,116,Married,170,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,1,0,Bachelor,26,Electronic,Guilan,8,Married,178,HSE,Esfand,32.32405892,40.17094017,28.90625
+Male,0,1,Elementary,36,Warehouse,Khorramabad,19,Married,177,Production,Farvardin,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,26,Packing,Qom,7,Single,176,Production,Azar,32.32405892,17.67241379,28.90625
+Male,1,0,Diploma,25,Flyer,Qom,26,Single,173,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,23,Ring,Qom,0,Single,176,Production,Esfand,32.32405892,36.96275072,28.90625
+Female,0,0,Bachelor,45,Financial,Kermanshah,0,Single,147,Production,Farvardin,38.27993255,40.17094017,44.7761194
+Female,1,0,Diploma,33,Maintenance and Repairs,Qom,0,Married,162,Production,Mordad,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,29,Jet,Isfahan,0,Married,173,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,36,Ring,Qom,21,Married,175,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,1,0,HighSchool,24,Ring,Qom,5,Single,174,Production,Farvardin,32.32405892,33.58633776,28.90625
+Male,0,0,Elementary,27,Ring,Qom,9,Single,171,Production,Tir,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,21,Ring,Abhar,0,Married,162,Production,Mordad,38.27993255,36.96275072,46.15384615
+Female,0,2,Diploma,2,Ring,Arak,21,Married,133,Production,Ordibehesht,38.27993255,36.96275072,34.40443213
+Male,0,0,Elementary,31,Ring,Qom,13,Married,175,Production,Ordibehesht,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,25,Autoconer,Qom,0,Single,169,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,0,0,Elementary,26,Ring,Bostan Abad,3,Married,176,Production,Ordibehesht,32.32405892,17.67241379,28.90625
+Male,0,0,HighSchool,30,Packing,Qom,70,Married,179,Production,Mehr,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,23,Ring,Ray,0,Married,162,Production,Mehr,38.27993255,33.58633776,28.90625
+Male,0,0,Diploma,25,Facilities,Khorram Abad,0,Single,170,Production,Dey,32.32405892,36.96275072,28.90625
+Male,1,2,HighSchool,38,Flyer,Qom,97,Married,169,Production,Bahman,32.32405892,33.58633776,36.50485437
+Male,0,0,Elementary,23,Ring,Charavimaq,0,Married,173,Production,Mordad,32.32405892,17.67241379,28.90625
+Female,0,0,Elementary,24,Ring,Khorramshahr,0,Married,160,Production,Azar,38.27993255,17.67241379,28.90625
+Male,0,0,Elementary,27,Ring,Qom,15,Married,174,Production,Esfand,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,27,Ring,Qom,15,Married,174,Production,Esfand,32.32405892,17.67241379,33.28748281
+Male,0,0,Diploma,23,Autoconer,Tabriz,8,Single,173,Production,Khordad,32.32405892,36.96275072,28.90625
+Female,0,1,HighSchool,30,Ring,Qom,0,Married,163,Production,Mordad,38.27993255,33.58633776,33.28748281
+Female,0,0,Elementary,35,Facilities,Hamadan,41,Married,160,Production,Shahrivar,38.27993255,17.67241379,36.50485437
+Male,0,0,Elementary,25,Ring,Asadabad,3,Married,179,Production,Ordibehesht,32.32405892,17.67241379,28.90625
+Male,0,0,Diploma,32,Ring,Khorramabad,29,Married,178,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,30,Jet,Hamadan,7,Married,175,Production,Ordibehesht,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,26,Maintenance and Repairs,Qom,33,Single,190,Production,Esfand,32.32405892,17.67241379,28.90625
+Male,0,0,Elementary,34,Security,Qom,0,Single,167,Production,Shahrivar,32.32405892,17.67241379,33.28748281
+Male,0,3,PostDiploma,38,Security,Langrood,124,Married,176,Production,Ordibehesht,32.32405892,39.78494624,36.50485437
+Male,1,0,HighSchool,36,Security,Qom,44,Married,177,Production,Dey,32.32405892,33.58633776,36.50485437
+Male,1,1,HighSchool,40,Warehouse,Qom,11,Married,174,Production,Esfand,32.32405892,33.58633776,36.50485437
+Male,0,1,HighSchool,35,Flyer,Qom,18,Married,170,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,Elementary,41,Warehouse,Qom,22,Married,177,Production,Shahrivar,32.32405892,17.67241379,36.50485437
+Male,0,0,Elementary,43,Warehouse,India,0,Married,175,Production,Shahrivar,32.32405892,17.67241379,44.7761194
+Male,0,0,Elementary,50,Security,God,0,Married,185,Production,Farvardin,32.32405892,17.67241379,33.33333333
+Male,0,0,Elementary,34,Warehouse,Nahavand,67,Married,177,Production,Shahrivar,32.32405892,17.67241379,33.28748281
+Male,0,0,Elementary,26,Ring,Middle,0,Single,175,Production,Mordad,32.32405892,17.67241379,28.90625
+Male,0,0,HighSchool,29,Warehouse,Qom,0,Single,185,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,0,3,Diploma,40,Ring,Qom,0,Married,175,Production,Aban,32.32405892,36.96275072,36.50485437
+Female,0,0,HighSchool,33,Ring,Qom,0,Married,166,Production,Bahman,38.27993255,33.58633776,33.28748281
+Male,0,0,Diploma,36,Packing,Qom,7,Married,168,Production,Bahman,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,24,Packing,Isfahan,0,Single,177,Production,Khordad,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,38,Security,Qom,43,Married,182,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,43,Facilities,Bostan Abad,0,Married,177,Production,Aban,32.32405892,36.96275072,44.7761194
+Female,0,0,Diploma,31,Ring,Poldokhtar,0,Single,163,Production,Mordad,38.27993255,36.96275072,33.28748281
+Female,0,0,Bachelor,35,Ring,Behbahan,0,Single,161,Production,Ordibehesht,38.27993255,40.17094017,36.50485437
+Female,1,0,HighSchool,24,Ring,Khuzestan,13,Single,162,Production,Mordad,38.27993255,33.58633776,28.90625
+Male,0,0,Diploma,25,Office,Mashhad,0,Single,170,Production,Dey,32.32405892,36.96275072,28.90625
+Male,0,0,PostDiploma,29,Security,Khorramabad,42,Married,183,Production,Mordad,32.32405892,39.78494624,33.28748281
+Male,1,0,Diploma,22,Packing,Central,2,Single,180,Production,Esfand,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,26,Autoconer,Charavimaq,0,Single,173,Production,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,2,Packing,Qom,125,Married,135,Production,Khordad,32.32405892,36.96275072,34.40443213
+Male,1,0,Diploma,29,Open End,Qom,45,Single,190,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,1,HighSchool,35,Warehouse,Saveh,165,Married,173,Production,Tir,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,23,Security,Qom,6,Single,172,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,31,Packing,Qom,0,Single,171,Production,Azar,32.32405892,33.58633776,33.28748281
+Male,0,2,HighSchool,37,Passage,Qom,2,Married,165,Production,Mordad,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,37,Warehouse,Rosen,0,Married,161,Production,Dey,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,22,Ring,Qom,0,Single,161,Production,Farvardin,38.27993255,36.96275072,28.90625
+Male,0,0,HighSchool,39,Security,Qom,0,Married,176,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,36,Packing,Qom,0,Married,165,Production,Azar,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,39,Ring,Najaf Abad,0,Married,161,Production,Aban,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,22,Packing,Qom,0,Married,181,Production,Esfand,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,28,Ring,Qom,17,Married,168,Production,Dey,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,41,Maintenance and Repairs,Blue,40,Married,176,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,0,0,Elementary,31,Flyer,Khorobiabank,0,Married,174,Production,Khordad,32.32405892,17.67241379,33.28748281
+Male,0,0,HighSchool,27,Packing,Qom,18,Married,172,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,27,Autoconer,Qom,0,Single,175,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,30,Packing,Tafresh,0,Single,168,Production,Mordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,37,Security,Zanjan,10,Married,180,Production,Khordad,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,28,Security,Qom,4,Single,177,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,28,Security,Khuzestan,12,Single,178,Production,Tir,32.32405892,36.96275072,33.28748281
+Female,0,4,Diploma,31,HR and Training,Qom,0,Married,163,Production,Esfand,38.27993255,36.96275072,33.28748281
+Male,1,3,Diploma,43,Warehouse,Qom,144,Married,169,Production,Aban,32.32405892,36.96275072,44.7761194
+Female,0,0,Diploma,24,Ring,Qom,0,Married,165,Production,Farvardin,38.27993255,36.96275072,28.90625
+Female,0,0,HighSchool,25,Ring,Qom,0,Married,160,Production,Khordad,38.27993255,33.58633776,28.90625
+Male,0,3,Diploma,43,Maintenance and Repairs,Oligodarz,243,Married,175,Production,Farvardin,32.32405892,36.96275072,44.7761194
+Male,0,0,HighSchool,35,Packing,God,0,Married,170,Production,Esfand,32.32405892,33.58633776,36.50485437
+Male,0,1,Diploma,28,Ring,Isfahan,25,Married,182,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,1,2,HighSchool,30,Flyer,Qom,11,Married,175,Production,Tir,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,42,Ring,Quchan,0,Married,165,Production,Tir,38.27993255,33.58633776,44.7761194
+Male,1,2,Diploma,31,Autoconer,Qom,60,Married,168,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,23,Packing,Qom,0,Single,181,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Male,0,1,Diploma,34,Security,Qom,24,Married,189,Production,Khordad,32.32405892,36.96275072,33.28748281
+Female,1,2,HighSchool,38,Ring,Central,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,25,Passage,Qom,0,Single,174,Production,Azar,32.32405892,36.96275072,28.90625
+Female,1,1,HighSchool,36,Ring,Qom,0,Married,165,Production,Esfand,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,35,Ring,Qom,90,Married,176,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,32,Packing,Arak,5,Married,157,Production,Bahman,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,31,Ring,Qom,0,Single,165,Production,Azar,38.27993255,33.58633776,33.28748281
+Female,0,0,HighSchool,35,Ring,Bonab,8,Married,161,Production,Khordad,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,23,Ring,Qom,0,Married,165,Production,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,32,Autoconer,Karaj,0,Married,173,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,40,Maintenance and Repairs,Discipline,26,Married,175,Production,Esfand,32.32405892,36.96275072,36.50485437
+Male,0,0,PostDiploma,27,Maintenance and Repairs,Abadan,8,Single,181,Production,Dey,32.32405892,39.78494624,33.28748281
+Male,0,0,Diploma,25,Warehouse,Qom,0,Single,174,Production,Bahman,32.32405892,36.96275072,28.90625
+Female,1,1,HighSchool,27,Ring,Qom,8,Married,165,Production,Mehr,38.27993255,33.58633776,33.28748281
+Female,0,0,Diploma,29,Ring,Qom,0,Married,164,Production,Esfand,38.27993255,36.96275072,33.28748281
+Female,1,0,Bachelor,24,Business,Tehran,0,Single,171,Production,Khordad,38.27993255,40.17094017,28.90625
+Male,0,0,HighSchool,29,Passage,Qom,3,Single,175,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,29,Passage,Qom,3,Single,173,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,23,Ring,Qom,0,Single,176,Production,Esfand,32.32405892,36.96275072,28.90625
+Female,0,0,Bachelor,27,Laboratory,Qom,0,Married,161,Industrial Engineering,Farvardin,38.27993255,40.17094017,33.28748281
+Male,0,1,Elementary,32,Security,Khorramabad,22,Married,185,Production,Azar,32.32405892,17.67241379,33.28748281
+Female,1,0,Diploma,21,Ring,Qom,0,Single,165,Production,Dey,38.27993255,36.96275072,46.15384615
+Female,0,0,Diploma,35,Ring,Qom,0,Married,162,Production,Aban,38.27993255,36.96275072,36.50485437
+Female,1,0,PostDiploma,26,Ring,Qom,0,Married,160,Production,Bahman,38.27993255,39.78494624,28.90625
+Male,0,0,Diploma,22,Ring,Qom,9,Single,175,Production,Tir,32.32405892,36.96275072,28.90625
+Female,1,1,HighSchool,24,Autoconer,Hamadan,0,Single,159,Production,Esfand,38.27993255,33.58633776,28.90625
+Female,0,0,Diploma,29,Ring,Qom,10,Single,160,Production,Farvardin,38.27993255,36.96275072,33.28748281
+Female,0,0,PostDiploma,38,Ring,Hamadan,0,Married,162,Production,Ordibehesht,38.27993255,39.78494624,36.50485437
+Male,1,2,Diploma,34,Autoconer,Qom,129,Married,103,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,1,0,Diploma,24,Ring,Qom,0,Single,153,Production,Tir,38.27993255,36.96275072,28.90625
+Female,1,2,HighSchool,39,Maintenance and Repairs,Khuzestan,8,Married,170,Production,Esfand,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,27,Packing,Qom,0,Married,175,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,29,Jet,Khorramabad,4,Single,174,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,23,Autoconer,Qom,0,Single,174,Production,Aban,32.32405892,33.58633776,28.90625
+Male,0,0,Bachelor,32,Passage,Qom,0,Single,176,Production,Azar,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,31,Ring,Khorramabad,0,Married,163,Production,Bahman,38.27993255,36.96275072,33.28748281
+Female,1,1,HighSchool,26,Autoconer,Qom,0,Single,164,Production,Ordibehesht,38.27993255,33.58633776,28.90625
+Male,0,0,Diploma,25,Ring,Qom,0,Married,176,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,23,Ring,Qom,0,Single,167,Production,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,Master,24,Office,Isfahan,0,Married,178,Production,Esfand,32.32405892,48.38709677,28.90625
+Female,1,2,Diploma,34,Ring,Khuzestan,125,Married,161,Production,Khordad,38.27993255,36.96275072,33.28748281
+Male,0,1,Diploma,34,Ring,Qom,18,Married,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,23,Ring,Dezful,0,Single,174,Production,Aban,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,33,Ring,Rasht,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,33.28748281
+Female,0,0,Diploma,22,Packing,Shush,0,Married,161,Production,Farvardin,38.27993255,36.96275072,28.90625
+Male,0,0,Diploma,28,Ring,Qom,3,Single,172,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,21,Ring,Qom,0,Single,177,Production,Mordad,32.32405892,33.58633776,46.15384615
+Male,0,0,Diploma,21,Ring,Tehran,1,Single,140,Production,Khordad,32.32405892,36.96275072,46.15384615
+Male,1,0,Diploma,23,Ring,Lorestan,7,Single,177,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,24,Packing,Charavimaq,0,Married,178,Production,Esfand,32.32405892,33.58633776,28.90625
+Female,0,1,PostDiploma,29,Ring,Qom,0,Married,157,Production,Mordad,38.27993255,39.78494624,33.28748281
+Male,1,2,HighSchool,39,Security,Qom,69,Married,175,Production,Bahman,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,27,Maintenance and Repairs,Moon badge,27,Single,177,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,44,Ring,Qom,0,Married,165,Production,Mehr,38.27993255,36.96275072,44.7761194
+Female,1,0,HighSchool,34,Ring,Qom,0,Married,164,Production,Khordad,38.27993255,33.58633776,33.28748281
+Female,0,0,Elementary,21,Ring,Khuzestan,0,Single,162,Production,Farvardin,38.27993255,17.67241379,46.15384615
+Male,0,0,Elementary,40,Security,Qom,0,Married,156,Production,Dey,32.32405892,17.67241379,36.50485437
+Male,0,0,Master,35,Flyer,Bojnourd,8,Married,175,Production,Khordad,32.32405892,48.38709677,36.50485437
+Female,0,0,HighSchool,27,Ring,Qom,2,Single,167,Production,Bahman,38.27993255,33.58633776,33.28748281
+Male,0,0,Bachelor,32,Electronic,Qom,22,Married,178,Production,Tir,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,22,Passage,Qom,0,Married,179,Production,Tir,32.32405892,36.96275072,28.90625
+Male,1,0,PostDiploma,33,Ring,Central,82,Single,180,IT,Shahrivar,32.32405892,39.78494624,33.28748281
+Male,1,0,PostDiploma,33,Security,Central,10,Single,176,Production,Shahrivar,32.32405892,39.78494624,33.28748281
+Female,0,2,Diploma,51,Ring,Kazeroon,0,Married,175,Production,Shahrivar,38.27993255,36.96275072,33.33333333
+Male,1,2,HighSchool,38,Warehouse,Qom,108,Married,165,Production,Esfand,32.32405892,33.58633776,36.50485437
+Female,0,2,Diploma,37,Ring,Qom,50,Single,165,Production,Mordad,38.27993255,36.96275072,36.50485437
+Female,1,0,Diploma,20,Ring,Central,10,Single,163,Production,Mordad,38.27993255,36.96275072,46.15384615
+Female,1,0,Diploma,20,Ring,Central,18,Single,168,Production,Mordad,38.27993255,36.96275072,46.15384615
+Female,1,0,Diploma,41,Autoconer,Khuzestan,0,Single,163,Production,Ordibehesht,38.27993255,36.96275072,36.50485437
+Female,0,1,Diploma,28,Maintenance and Repairs,Qom,0,Married,164,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Female,0,0,HighSchool,21,Ring,Qom,0,Married,163,Production,Esfand,38.27993255,33.58633776,46.15384615
+Female,0,0,HighSchool,43,Ring,Qom,80,Married,158,Production,Tir,38.27993255,33.58633776,44.7761194
+Female,1,0,Diploma,46,Autoconer,Khuzestan,0,Single,160,Production,Bahman,38.27993255,36.96275072,44.7761194
+Male,1,0,Elementary,2,Ring,Qom,0,Married,179,Production,Mehr,32.32405892,17.67241379,34.40443213
+Female,0,0,Bachelor,39,Financial,Tehran,0,Single,78,Production,Farvardin,38.27993255,40.17094017,36.50485437
+Male,1,0,Diploma,27,Office,Tehran,0,Single,177,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Female,0,0,PostDiploma,30,Doubling,Ashrafieh's threshold,0,Married,162,Production,Tir,38.27993255,39.78494624,33.28748281
+Female,1,1,Diploma,44,Maintenance and Repairs,Qom,0,Married,163,HR and Office,Ordibehesht,38.27993255,36.96275072,44.7761194
+Male,0,0,PostDiploma,35,Press,Qom,89,Married,177,Production,Dey,32.32405892,39.78494624,36.50485437
+Male,0,1,Bachelor,31,Electronic,Hashtrood,8,Married,174,Production,Bahman,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,0,Married,158,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,1,0,HighSchool,25,Autoconer,Khuzestan,0,Single,172,Production,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,27,Packing,Qom,0,Married,162,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,1,2,HighSchool,45,Warehouse,Lorestan,310,Married,171,Production,Farvardin,32.32405892,33.58633776,44.7761194
+Male,0,0,HighSchool,23,Packing,Qom,0,Married,174,Production,Tir,32.32405892,33.58633776,28.90625
+Male,0,0,Bachelor,27,Electronic,Abadan,0,Married,172,Production,Bahman,32.32405892,40.17094017,33.28748281
+Male,0,0,Elementary,34,Flyer,Mahns,0,Married,174,Production,Tir,32.32405892,17.67241379,33.28748281
+Male,0,0,HighSchool,30,Packing,Mahns,0,Married,170,Production,Bahman,32.32405892,33.58633776,33.28748281
+Male,0,0,PostDiploma,42,Facilities,Qom,0,Married,170,Production,Khordad,32.32405892,39.78494624,44.7761194
+Male,1,0,Master,33,Electronic,Qom,47,Married,177,Electronic,Mehr,32.32405892,48.38709677,33.28748281
+Male,0,0,Bachelor,31,Electronic,Qom,41,Married,179,Facilities,Shahrivar,32.32405892,40.17094017,33.28748281
+Female,0,0,HighSchool,42,Autoconer,Karaj,0,Married,114,Production,Dey,38.27993255,33.58633776,44.7761194
+Male,0,0,Diploma,24,Ring,Qom,12,Married,182,Production,Azar,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,23,Ring,Babylon,21,Single,163,Production,Bahman,38.27993255,33.58633776,28.90625
+Female,0,2,HighSchool,45,Autoconer,Roshan,0,Married,162,Production,Esfand,38.27993255,33.58633776,44.7761194
+Female,1,2,HighSchool,26,Maintenance and Repairs,Khuzestan,0,Married,164,Production,Esfand,38.27993255,33.58633776,28.90625
+Female,0,0,Diploma,34,Ring,Qom,28,Single,163,Production,Aban,38.27993255,36.96275072,33.28748281
+Female,0,2,HighSchool,37,Ring,Qom,0,Single,165,Production,Bahman,38.27993255,33.58633776,36.50485437
+Male,1,2,HighSchool,43,Jet,Qom,230,Married,171,Production,Bahman,32.32405892,33.58633776,44.7761194
+Male,0,0,Diploma,29,Ring,Qom,35,Married,178,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,26,Ring,Qom,0,Married,166,Production,Ordibehesht,38.27993255,36.96275072,28.90625
+Female,0,0,HighSchool,27,Ring,Qom,0,Married,176,Production,Bahman,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,30,Flyer,Qom,0,Married,173,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,2,Diploma,38,Maintenance and Repairs,Ahwaz,117,Married,175,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Female,0,0,HighSchool,24,Ring,Qom,0,Married,163,Production,Aban,38.27993255,33.58633776,28.90625
+Male,1,0,Bachelor,31,Electronic,Qom,0,Married,177,Industrial Engineering,Ordibehesht,32.32405892,40.17094017,33.28748281
+Female,1,3,Diploma,36,Ring,Qom,0,Married,158,Production,Farvardin,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,34,Ring,Qom,145,Married,180,Production,Bahman,32.32405892,36.96275072,33.28748281
+Female,0,1,HighSchool,25,Ring,Shush,0,Married,163,Production,Mordad,38.27993255,33.58633776,28.90625
+Female,0,0,HighSchool,46,Packing,Shush,0,Married,162,Production,Mehr,38.27993255,33.58633776,44.7761194
+Female,0,0,HighSchool,22,Ring,Qom,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,28.90625
+Male,0,0,Diploma,36,Ring,Ahwaz,0,Married,177,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Female,0,0,HighSchool,39,Ring,Arak,0,Married,113,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,39,Security,Hashtrood,0,Married,177,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,32,Maintenance and Repairs,Qom,0,Married,175,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,28,Ring,Arak,0,Married,181,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Female,0,0,Elementary,34,Ring,Zanjan,0,Married,163,Production,Ordibehesht,38.27993255,17.67241379,33.28748281
+Male,0,1,HighSchool,40,Warehouse,Ray,64,Married,176,Production,Azar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,34,Ring,Qom,66,Married,176,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,32,Electronic,Qom,17,Married,144,Production,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,1,Diploma,39,Ring,Qom,56,Married,174,Production,Tir,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,41,Doubling,Qom,0,Married,164,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,HighSchool,29,Packing,Khomeini,42,Married,170,Production,Dey,32.32405892,33.58633776,33.28748281
+Male,0,1,Diploma,39,Ring,Qom,172,Married,176,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,35,Ring,Qom,0,Married,164,Production,Azar,38.27993255,36.96275072,36.50485437
+Female,0,2,Diploma,36,Ring,Qom,0,Married,163,Production,Tir,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,30,Ring,Qom,0,Married,98,Production,Dey,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,28,Jet,Shushtar,0,Single,176,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,27,Electronic,Kermanshah,0,Single,176,Production,Aban,32.32405892,40.17094017,33.28748281
+Female,0,0,HighSchool,32,Ring,Period,0,Married,164,Production,Mordad,38.27993255,33.58633776,33.28748281
+Male,0,0,Bachelor,33,Maintenance and Repairs,Qom,50,Single,178,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,21,Ring,Arak,4,Married,154,Production,Tir,38.27993255,36.96275072,46.15384615
+Male,0,2,Diploma,30,Ring,Zahedan,57,Married,176,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,28,Facilities,Zahedan,0,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,24,Packing,Qom,0,Single,181,Production,Ordibehesht,32.32405892,33.58633776,28.90625
+Male,1,0,Diploma,23,Ring,Afghanistan,0,Single,176,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,36,Ring,God,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,41,Ring,Qom,184,Married,175,Production,Esfand,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,35,Maintenance and Repairs,Shadegan,0,Married,175,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,27,Security,Qom,40,Married,179,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,37,Warehouse,Shush,99,Married,176,Production,Dey,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,27,Flyer,Qom,13,Single,173,Production,Bahman,32.32405892,33.58633776,33.28748281
+Male,0,0,Elementary,25,Packing,Qom,18,Married,179,Production,Esfand,32.32405892,17.67241379,28.90625
+Male,1,0,Diploma,23,Autoconer,Qom,1,Single,178,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,28,Maintenance and Repairs,Qom,0,Single,176,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,2,HighSchool,29,Press,Charavimaq,48,Married,181,Production,Mehr,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,23,Jet,Kurdistan,2,Single,181,Production,Esfand,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,36,Ring,Middle,0,Married,177,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Female,0,0,PostDiploma,26,Ring,Qom,1,Married,161,Production,Shahrivar,38.27993255,39.78494624,28.90625
+Female,0,0,HighSchool,23,Ring,Ahwaz,0,Married,158,Production,Azar,38.27993255,33.58633776,28.90625
+Male,0,0,HighSchool,27,Flyer,Qom,4,Single,174,Production,Azar,32.32405892,33.58633776,33.28748281
+Female,1,0,Diploma,48,Ring,Qom,4,Single,163,Production,Azar,38.27993255,36.96275072,44.7761194
+Male,0,0,Diploma,27,Jet,Qom,19,Single,177,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,26,Ring,Qom,36,Married,179,Production,Azar,32.32405892,36.96275072,28.90625
+Female,1,0,Diploma,25,Ring,Qom,0,Married,162,Production,Azar,38.27993255,36.96275072,28.90625
+Male,0,0,Diploma,31,Ring,Tehran,13,Married,177,Production,Tir,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,26,Ring,Qom,0,Married,157,Production,Azar,38.27993255,36.96275072,28.90625
+Male,0,2,Bachelor,43,Office,Rasht,213,Married,180,Electronic,Shahrivar,32.32405892,40.17094017,44.7761194
+Male,0,0,HighSchool,37,Warehouse,Qom,0,Single,177,Production,Tir,32.32405892,33.58633776,36.50485437
+Male,0,1,HighSchool,32,Security,Qom,40,Married,179,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,26,Electronic,Qom,39,Single,181,Electronic,Shahrivar,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,23,Packing,Qom,1,Married,182,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,23,Passage,Qom,1,Married,180,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,29,Maintenance and Repairs,Qom,0,Single,180,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,0,2,Diploma,42,Ring,Qom,29,Married,165,Production,Ordibehesht,38.27993255,36.96275072,44.7761194
+Male,0,0,Master,35,Flyer,Qom,19,Married,176,Production,Azar,32.32405892,48.38709677,36.50485437
+Female,1,0,HighSchool,38,Ring,Central,0,Single,160,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,40,Press,Qom,0,Married,174,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,25,Ring,Ashtian,30,Married,163,Production,Farvardin,38.27993255,36.96275072,28.90625
+Female,0,0,Bachelor,40,Ring,Dezful,0,Married,161,Production,Bahman,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,29,Facilities,Qom,0,Married,173,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,1,0,Diploma,36,Open End,Guilan,97,Married,172,Production,Tir,32.32405892,36.96275072,36.50485437
+Female,1,0,Bachelor,31,Office,Isfahan,0,Single,160,Production,Esfand,38.27993255,40.17094017,33.28748281
+Male,0,0,Diploma,35,Ring,Qom,22,Married,176,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,39,Warehouse,Rosen,0,Married,174,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,1,Diploma,33,Ring,Qom,0,Single,174,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,0,0,PostDiploma,28,Security,Azadegan Plain,0,Married,189,Production,Farvardin,32.32405892,39.78494624,33.28748281
+Male,0,0,PostDiploma,36,Warehouse,Qom,49,Married,174,Production,Aban,32.32405892,39.78494624,36.50485437
+Female,0,0,Bachelor,39,Ring,Land,0,Married,154,Production,Mehr,38.27993255,40.17094017,36.50485437
+Male,0,0,HighSchool,37,Warehouse,Qom,12,Married,180,Production,Khordad,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,37,Warehouse,Qom,1,Married,180,Production,Khordad,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,31,Packing,Moon badge,0,Married,168,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,29,Ring,Qom,32,Married,178,Production,Bahman,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,42,Ring,Qom,0,Single,164,Production,Mordad,38.27993255,36.96275072,44.7761194
+Male,0,1,Diploma,31,Ring,Qom,53,Married,180,Production,Khordad,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,27,Ring,Isfahan,60,Married,160,Production,Khordad,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,10,Married,177,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,25,Ring,Kashan,6,Married,179,Production,Azar,32.32405892,36.96275072,28.90625
+Male,0,1,Diploma,33,Jet,Dezful,13,Married,175,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,3,HighSchool,36,Ring,Azadegan Plain,20,Married,177,Production,Azar,32.32405892,33.58633776,36.50485437
+Male,0,1,HighSchool,35,Flyer,Qom,110,Married,174,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,28,Maintenance and Repairs,Mahns,0,Single,177,Production,Mehr,32.32405892,36.96275072,33.28748281
+Female,0,0,Bachelor,26,HR and Training,Kashan,10,Single,165,HR and Office,Azar,38.27993255,40.17094017,28.90625
+Female,0,0,Diploma,39,Ring,Shahin Shahrimah,0,Married,165,Production,Bahman,38.27993255,36.96275072,36.50485437
+Male,0,0,HighSchool,28,Ring,Qom,10,Single,165,Production,Esfand,32.32405892,33.58633776,33.28748281
+Female,1,1,Diploma,32,Maintenance and Repairs,Qom,10,Married,170,Production,Farvardin,38.27993255,36.96275072,33.28748281
+Female,0,0,Diploma,21,Ring,Blue,0,Single,153,Production,Tir,38.27993255,36.96275072,46.15384615
+Female,0,0,Diploma,26,Ring,Qom,0,Single,160,Production,Tir,38.27993255,36.96275072,28.90625
+Female,0,0,HighSchool,26,Ring,Qom,21,Single,163,Production,Aban,38.27993255,33.58633776,28.90625
+Male,1,0,HighSchool,32,Ring,Khuzestan,91,Single,178,Production,Dey,32.32405892,33.58633776,33.28748281
+Female,0,1,HighSchool,29,Ring,Shush,0,Married,161,Production,Shahrivar,38.27993255,33.58633776,33.28748281
+Female,0,0,Diploma,25,Ring,Maragheh,0,Single,162,Production,Azar,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,36,Ring,Qom,0,Married,175,Production,Ordibehesht,38.27993255,36.96275072,36.50485437
+Male,0,1,Bachelor,33,Facilities,Qom,64,Married,177,Technical,Mehr,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,40,Ring,Qom,21,Married,174,Production,Tir,32.32405892,36.96275072,36.50485437
+Female,0,1,Bachelor,36,Quality Control,Qom,104,Married,160,HR and Office,Shahrivar,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,36,Ring,Qom,0,Single,177,Production,Bahman,32.32405892,36.96275072,36.50485437
+Female,0,2,Diploma,35,Ring,Shush,0,Married,161,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,HighSchool,22,Autoconer,Qom,0,Single,173,Production,Tir,32.32405892,33.58633776,28.90625
+Female,0,0,Bachelor,35,Office,Zanjan,0,Single,128,Production,Dey,38.27993255,40.17094017,36.50485437
+Male,0,0,Bachelor,32,Electronic,Qom,0,Single,165,Production,Esfand,32.32405892,40.17094017,33.28748281
+Female,0,0,Bachelor,26,Business,Tehran,0,Single,171,Production,Khordad,38.27993255,40.17094017,28.90625
+Male,0,0,HighSchool,29,Maintenance and Repairs,Zanjan,65,Married,179,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,23,Ring,Qom,0,Single,165,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,1,1,Diploma,34,Packing,Qom,79,Married,171,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,1,Diploma,27,Ring,Zahedan,0,Married,178,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,23,Autoconer,Qom,0,Single,175,Production,Farvardin,32.32405892,36.96275072,28.90625
+Female,1,0,Bachelor,40,Ring,Zanjan,0,Single,158,Production,Ordibehesht,38.27993255,40.17094017,36.50485437
+Male,0,0,HighSchool,33,Flyer,Qom,0,Married,174,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,0,Married,176,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,32,Packing,Arak,62,Married,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,25,Flyer,Qom,0,Married,176,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,38,Security,Blue,156,Married,183,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,1,0,Diploma,23,Ring,Qom,0,Single,167,Production,Farvardin,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,38,Ring,Ahwaz,0,Married,161,Production,Azar,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,23,Autoconer,Hamadan,0,Married,175,Production,Aban,32.32405892,33.58633776,28.90625
+Male,1,0,HighSchool,34,Warehouse,Qom,0,Single,181,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,37,Flyer,Guilan,0,Single,169,Production,Dey,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,35,Ring,Qom,85,Married,175,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,24,Packing,Qom,0,Single,187,Production,Farvardin,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,29,Ring,Qom,0,Married,165,Production,Mehr,38.27993255,33.58633776,33.28748281
+Male,0,0,Diploma,22,Packing,Qom,0,Single,194,Production,Dey,32.32405892,36.96275072,28.90625
+Male,0,0,Master,32,Business,Afghanistan,0,Married,173,Production,Azar,32.32405892,48.38709677,33.28748281
+Female,0,0,HighSchool,43,Ring,Qom,0,Married,163,Production,Shahrivar,38.27993255,33.58633776,44.7761194
+Female,0,1,HighSchool,37,Ring,Ashtian,93,Married,160,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,25,Autoconer,Qom,0,Single,175,Production,Farvardin,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,49,Ring,Qom,0,Married,162,Production,Ordibehesht,38.27993255,36.96275072,44.7761194
+Female,0,0,HighSchool,38,Ring,Gachsaran,0,Married,163,Production,Bahman,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,32,Flyer,Mahns,0,Married,170,Production,Esfand,32.32405892,36.96275072,33.28748281
+Female,0,1,Diploma,38,Ring,Qom,0,Married,162,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Female,0,2,HighSchool,36,Ring,Ashtian,0,Married,163,Production,Mordad,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,22,Ring,Qom,0,Single,163,Production,Khordad,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,22,Ring,Qom,0,Married,163,Production,Esfand,38.27993255,36.96275072,28.90625
+Male,0,0,Bachelor,36,Passage,Land,0,Single,177,Production,Aban,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,27,Maintenance and Repairs,Qom,0,Married,173,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,0,0,Bachelor,37,Electronic,Bostan Abad,0,Married,176,IT,Bahman,32.32405892,40.17094017,36.50485437
+Male,1,2,Diploma,44,Maintenance and Repairs,Qom,160,Married,173,Production,Shahrivar,32.32405892,36.96275072,44.7761194
+Male,1,0,Diploma,30,Security,Qom,67,Single,189,Production,Dey,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,29,Packing,Qom,0,Married,165,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,38,Warehouse,Qom,0,Married,180,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Female,1,0,Bachelor,43,Financial,Hashtrood,0,Single,159,Production,Khordad,38.27993255,40.17094017,44.7761194
+Female,1,0,Bachelor,38,Financial,Tehran,0,Single,170,Production,Shahrivar,38.27993255,40.17094017,36.50485437
+Female,1,0,Bachelor,26,Financial,Tehran,0,Single,145,Production,Dey,38.27993255,40.17094017,28.90625
+Male,1,2,HighSchool,43,Warehouse,Qom,155,Married,174,Production,Aban,32.32405892,33.58633776,44.7761194
+Male,0,0,Diploma,27,Packing,Property Garden,10,Married,180,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,0,0,Elementary,33,Flyer,Qom,0,Married,175,Production,Farvardin,32.32405892,17.67241379,33.28748281
+Male,0,0,HighSchool,31,Ring,Qom,8,Single,176,Production,Mehr,32.32405892,33.58633776,33.28748281
+Male,0,0,PostDiploma,27,Ring,Qom,0,Married,111,Production,Mordad,32.32405892,39.78494624,33.28748281
+Male,1,0,Diploma,37,Press,Khuzestan,0,Single,170,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,44,Passage,Qom,140,Married,175,Production,Ordibehesht,32.32405892,33.58633776,44.7761194
+Male,1,3,HighSchool,40,Warehouse,East Azerbaijan,164,Married,175,Production,Bahman,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,33,Electronic,Qom,58,Married,183,Electronic,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,36,Ring,Takab,0,Married,177,Production,Mehr,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,27,Packing,Qom,12,Married,170,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,23,Ring,Qom,0,Married,185,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,28,Ring,Drainage,0,Married,161,Production,Khordad,38.27993255,36.96275072,33.28748281
+Female,0,0,Bachelor,41,HR and Training,Khorramabad,61,Single,160,HR and Office,Tir,38.27993255,40.17094017,36.50485437
+Male,0,0,HighSchool,22,Autoconer,Abadan,0,Single,174,Production,Shahrivar,32.32405892,33.58633776,28.90625
+Male,0,0,PostDiploma,26,Ring,Qom,0,Married,172,Production,Farvardin,32.32405892,39.78494624,28.90625
+Male,1,0,Diploma,22,Jet,Qom,0,Single,180,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,35,Maintenance and Repairs,West,15,Married,175,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,28,Ring,Khorramabad,0,Single,160,Production,Shahrivar,38.27993255,36.96275072,33.28748281
+Male,0,0,HighSchool,28,Packing,Afghanistan,6,Married,174,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,33,Maintenance and Repairs,Qom,30,Single,100,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,42,Ring,Qom,0,Married,165,Production,Farvardin,38.27993255,36.96275072,44.7761194
+Female,0,0,HighSchool,29,Ring,Band of Shahr,2,Married,164,Production,Bahman,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,27,Packing,Qom,14,Married,171,Production,Bahman,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,32,Ring,Qom,0,Married,167,Production,Aban,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,45,Warehouse,Charavimaq,153,Married,174,Production,Farvardin,32.32405892,33.58633776,44.7761194
+Male,0,0,Bachelor,37,Electronic,Qom,168,Married,175,HR and Office,Tir,32.32405892,40.17094017,36.50485437
+Female,0,1,Diploma,44,Ring,Shush,88,Married,161,Production,Aban,38.27993255,36.96275072,44.7761194
+Male,0,0,HighSchool,25,Ring,Qom,20,Single,178,Production,Aban,32.32405892,33.58633776,28.90625
+Male,0,2,HighSchool,43,Warehouse,Qom,46,Married,180,Production,Khordad,32.32405892,33.58633776,44.7761194
+Male,0,0,HighSchool,45,Autoconer,Khorramabad,96,Married,175,Production,Dey,32.32405892,33.58633776,44.7761194
+Female,0,0,HighSchool,30,Ring,Qom,0,Married,160,Production,Farvardin,38.27993255,33.58633776,33.28748281
+Male,0,0,Diploma,31,Flyer,Qom,0,Married,180,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,37,Packing,Qom,0,Married,165,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,1,Diploma,29,Maintenance and Repairs,Qom,11,Married,175,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,26,Press,Qom,31,Married,179,Production,Khordad,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,34,Ring,Khorramabad,0,Single,160,Production,Khordad,38.27993255,36.96275072,33.28748281
+Female,0,0,HighSchool,37,Ring,Shush,0,Married,112,Production,Dey,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,42,Ring,Kashan,77,Married,176,Production,Ordibehesht,32.32405892,36.96275072,44.7761194
+Male,0,0,HighSchool,22,Autoconer,Qom,2,Single,174,Production,Tir,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,35,Ring,Qom,0,Married,177,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,44,Ring,Qom,119,Married,174,Production,Tir,32.32405892,36.96275072,44.7761194
+Male,0,0,HighSchool,36,Facilities,Qom,0,Married,175,Production,Khordad,32.32405892,33.58633776,36.50485437
+Male,1,0,HighSchool,33,Maintenance and Repairs,Khuzestan,37,Married,173,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,33,Packing,Hamadan,0,Married,168,Production,Azar,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,45,Electronic,Qom,173,Married,165,Production,Mordad,32.32405892,36.96275072,44.7761194
+Female,0,0,Bachelor,41,Office,Tehran,0,Married,171,Production,Tir,38.27993255,40.17094017,36.50485437
+Male,0,0,Bachelor,27,Doubling,Qom,0,Single,178,Production,Ordibehesht,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,24,Autoconer,Tehran,3,Single,175,Production,Dey,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,24,Ring,Tehran,12,Single,180,Production,Dey,32.32405892,33.58633776,28.90625
+Female,0,0,HighSchool,37,Ring,Hamadan,0,Married,158,Production,Khordad,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,36,Maintenance and Repairs,Andimeshk,51,Married,175,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,35,Packing,Kut,3,Married,164,Production,Mordad,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,31,Ring,Qom,0,Married,165,Production,Shahrivar,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,36,Ring,Qom,134,Married,178,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,26,Ring,Qom,15,Married,165,Production,Shahrivar,38.27993255,36.96275072,28.90625
+Male,0,0,PostDiploma,24,Ring,Qom,0,Married,0,Production,Mordad,32.32405892,39.78494624,28.90625
+Female,0,0,Diploma,39,Ring,Qom,0,Married,0,Production,Farvardin,38.27993255,36.96275072,36.50485437
+Male,0,0,Diploma,23,Autoconer,Qom,0,Single,173,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,28,Ring,Charavimaq,0,Married,172,Production,Mordad,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,26,Autoconer,Lorestan,0,Single,176,Production,Azar,32.32405892,33.58633776,28.90625
+Female,0,0,Bachelor,44,Office,Karaj,0,Single,160,Production,Ordibehesht,38.27993255,40.17094017,44.7761194
+Female,0,0,Bachelor,43,Office,Tehran,0,Single,170,Production,Bahman,38.27993255,40.17094017,44.7761194
+Male,0,0,HighSchool,23,Packing,Qom,1,Married,186,Production,Esfand,32.32405892,33.58633776,28.90625
+Female,0,0,HighSchool,31,Ring,Qom,0,Married,0,Production,Dey,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,32,Security,Qom,162,Single,186,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,25,Passage,Qom,0,Single,178,Production,Azar,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,21,Ring,Qom,11,Married,0,Production,Khordad,32.32405892,33.58633776,46.15384615
+Male,0,0,Bachelor,30,Electronic,Qom,62,Married,179,Production,Mehr,32.32405892,40.17094017,33.28748281
+Female,0,0,Diploma,30,Ring,Shush,0,Married,158,Production,Azar,38.27993255,36.96275072,33.28748281
+Male,0,0,HighSchool,22,Carding,Qom,0,Married,0,Production,Dey,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,29,Ring,Qom,0,Single,0,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,23,Ring,Qom,0,Single,178,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,31,Ring,Tehran,60,Married,178,Production,Mehr,32.32405892,36.96275072,33.28748281
+Female,1,0,Bachelor,36,Office,Tehran,0,Married,171,Production,Khordad,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,36,Packing,West,113,Married,0,Production,Khordad,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,32,Packing,Arak,57,Married,0,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,36,Ring,Qom,0,Married,165,Production,Mordad,32.32405892,33.58633776,36.50485437
+Female,0,0,HighSchool,41,Ring,Qom,0,Married,170,Production,Tir,38.27993255,33.58633776,36.50485437
+Male,1,0,Diploma,37,Autoconer,Qom,0,Single,177,Production,Tir,32.32405892,36.96275072,36.50485437
+Female,0,0,PostDiploma,24,Ring,Qom,0,Single,159,Production,Khordad,38.27993255,39.78494624,28.90625
+Female,0,0,Diploma,30,Ring,Qom,0,Married,0,Production,Esfand,38.27993255,36.96275072,33.28748281
+Female,0,0,Bachelor,35,Financial,Tehran,0,Single,171,Production,Khordad,38.27993255,40.17094017,36.50485437
+Male,0,0,Diploma,34,Ring,Qom,44,Married,0,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,36,Electronic,Qom,0,Married,176,Production,Mordad,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,28,Ring,Qom,0,Single,0,Production,Mehr,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,23,Ring,Qom,4,Single,167,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,2,Bachelor,39,Electronic,Lanjan,53,Married,189,Technical,Mordad,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,22,Packing,Qom,0,Married,187,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,0,3,HighSchool,45,Warehouse,Shushtar,16,Married,176,Production,Aban,32.32405892,33.58633776,44.7761194
+Male,0,0,Diploma,23,Ring,Qom,0,Single,185,Production,Shahrivar,32.32405892,36.96275072,28.90625
+Female,0,0,Bachelor,25,Business,Isfahan,0,Single,161,Production,Shahrivar,38.27993255,40.17094017,28.90625
+Male,0,0,Bachelor,33,Autoconer,Qom,0,Married,170,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,36,Security,Qom,0,Single,185,Production,Azar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,38,Security,Khorramabad,0,Married,180,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,1,HighSchool,35,Warehouse,Qom,133,Married,180,Production,Mehr,32.32405892,33.58633776,36.50485437
+Male,1,0,HighSchool,20,Jet,Qom,0,Single,180,Production,Khordad,32.32405892,33.58633776,46.15384615
+Male,0,0,PostDiploma,30,Open End,God,7,Married,180,Production,Tir,32.32405892,39.78494624,33.28748281
+Male,0,0,Bachelor,28,Technical and Engineering,Stigma,0,Single,177,Production,Shahrivar,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,30,Packing,Qom,81,Married,167,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,37,Technical and Engineering,East Azerbaijan,177,Married,172,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,0,0,Bachelor,27,Electronic,Qom,0,Married,175,Production,Azar,32.32405892,40.17094017,33.28748281
+Male,1,0,HighSchool,25,Open End,Qom,25,Married,185,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,35,Flyer,Qom,111,Married,170,Production,Tir,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,35,Ring,Qom,76,Married,180,Production,Azar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,34,Packing,Qom,0,Married,175,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,33,Warehouse,Dezful,98,Married,178,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,27,Press,Qom,38,Single,175,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,39,Electronic,Qom,111,Married,175,HR and Office,Mordad,32.32405892,40.17094017,36.50485437
+Female,0,0,Bachelor,40,HR and Training,Qom,28,Married,170,HR and Office,Esfand,38.27993255,40.17094017,36.50485437
+Female,1,0,Bachelor,30,Financial,Arak,0,Single,148,Production,Shahrivar,38.27993255,40.17094017,33.28748281
+Male,0,0,HighSchool,25,Ring,Qom,0,Single,170,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,103,Ring,Qom,0,Single,170,Production,Farvardin,32.32405892,33.58633776,34.40443213
+Male,0,0,Bachelor,27,Maintenance and Repairs,Rosen,7,Single,178,Production,Esfand,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,28,Facilities,Qom,0,Married,180,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,37,Ring,Pharmacy,18,Single,180,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,44,Ring,Tehran,65,Married,187,Production,Khordad,32.32405892,36.96275072,44.7761194
+Female,1,0,HighSchool,30,Ring,Central,10,Married,169,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,1,0,HighSchool,21,Packing,Qom,0,Married,180,Production,Mehr,32.32405892,33.58633776,46.15384615
+Male,0,0,Diploma,36,Flyer,Qom,0,Married,187,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,32,Packing,Abadan,0,Married,170,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,43,Ring,Qom,0,Married,170,Production,Khordad,38.27993255,36.96275072,44.7761194
+Male,1,0,Diploma,25,Ring,Lorestan,0,Single,180,Production,Dey,32.32405892,36.96275072,28.90625
+Male,0,0,PostDiploma,26,Ring,Rosen,0,Married,173,Production,Azar,32.32405892,39.78494624,28.90625
+Male,0,0,HighSchool,23,Ring,Qom,0,Single,185,Production,Azar,32.32405892,33.58633776,28.90625
+Male,1,0,Diploma,24,Packing,Qom,0,Married,184,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,27,Flyer,Khorramabad,0,Married,174,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,30,Packing,Qom,0,Single,170,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,30,Maintenance and Repairs,Qom,0,Single,181,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,1,1,Diploma,29,Passage,Afghanistan,0,Married,175,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Female,1,1,Diploma,27,Ring,Qom,0,Married,160,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,40,Ring,Qom,0,Married,178,Production,Ordibehesht,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,23,Ring,Qom,0,Single,167,Production,Tir,32.32405892,33.58633776,28.90625
+Female,0,0,Bachelor,33,HR and Training,Dezful,43,Single,155,HR and Office,Ordibehesht,38.27993255,40.17094017,33.28748281
+Male,0,0,Bachelor,45,Packing,Qom,154,Married,173,Technical,Dey,32.32405892,40.17094017,44.7761194
+Female,0,0,Bachelor,44,Ring,The dynasty,0,Married,155,Production,Shahrivar,38.27993255,40.17094017,44.7761194
+Male,0,0,HighSchool,24,Maintenance and Repairs,Qom,0,Married,172,Technical,Aban,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,32,Ring,Qom,18,Married,180,Production,Mordad,32.32405892,36.96275072,33.28748281
+Female,0,0,HighSchool,31,Ring,Qom,0,Married,165,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,0,0,Diploma,29,Packing,Andimeshk,5,Married,170,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,2,HighSchool,36,Warehouse,Qom,47,Married,175,Production,Aban,32.32405892,33.58633776,36.50485437
+Male,0,0,Bachelor,30,Electronic,Nahavand,17,Married,173,Production,Ordibehesht,32.32405892,40.17094017,33.28748281
+Male,1,0,HighSchool,21,Security,Hamadan,0,Single,177,Production,Aban,32.32405892,33.58633776,46.15384615
+Male,0,0,HighSchool,39,Warehouse,Qom,0,Married,180,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,28,Security,Qom,37,Married,189,Production,Tir,32.32405892,33.58633776,33.28748281
+Female,0,0,Diploma,37,Ring,Tehran,0,Married,175,Production,Aban,38.27993255,36.96275072,36.50485437
+Male,1,0,Diploma,25,Passage,Qom,0,Single,177,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,24,Packing,Arak,0,Married,184,Facilities,Dey,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,32,Packing,Dezful,0,Married,163,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,22,Jet,Guilan,0,Single,180,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,36,Ring,Abhar,65,Married,180,Production,Aban,32.32405892,36.96275072,36.50485437
+Female,0,0,Bachelor,36,Ring,Bash,44,Married,158,Electronic,Farvardin,38.27993255,40.17094017,36.50485437
+Male,0,0,HighSchool,36,Warehouse,Delijan,0,Married,180,HR and Office,Khordad,32.32405892,33.58633776,36.50485437
+Male,1,2,Diploma,38,Passage,Qom,69,Married,179,Production,Mordad,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,33,Packing,Qom,0,Married,185,Technical,Aban,32.32405892,36.96275072,33.28748281
+Female,0,0,Bachelor,28,HR and Training,Qom,10,Married,170,HR and Office,Ordibehesht,38.27993255,40.17094017,33.28748281
+Male,1,1,Diploma,33,Security,Qom,95,Married,180,Technical,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,37,Ring,Ahwaz,33,Married,180,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,1,0,HighSchool,24,Ring,Qom,6,Married,170,Production,Esfand,32.32405892,33.58633776,28.90625
+Female,0,0,Diploma,25,Ring,Qom,0,Married,165,Production,Mordad,38.27993255,36.96275072,28.90625
+Male,0,0,HighSchool,37,Warehouse,Dolanfar,0,Married,177,Production,Mehr,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,32,Jet,Gotvand,0,Married,175,Warehouse,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,26,Maintenance and Repairs,Qom,0,Single,176,HR and Office,Tir,32.32405892,36.96275072,28.90625
+Female,0,3,Diploma,34,Ring,Qom,0,Married,163,Production,Shahrivar,38.27993255,36.96275072,33.28748281
+Male,1,0,Diploma,23,Jet,Qom,0,Single,177,Production,Aban,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,27,Ring,Izeh,13,Married,180,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,31,Electronic,Ahwaz,84,Married,175,Electronic,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,38,Maintenance and Repairs,Qom,155,Married,178,Facilities,Shahrivar,32.32405892,33.58633776,36.50485437
+Female,1,0,Bachelor,38,Packing,Khuzestan,1,Single,162,Production,Ordibehesht,38.27993255,40.17094017,36.50485437
+Male,0,0,HighSchool,27,Packing,Qom,0,Married,170,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,23,Ring,Qom,11,Married,177,Production,Esfand,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,40,Warehouse,Hamadan,99,Married,173,Warehouse,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,Bachelor,43,Office,Qom,0,Married,183,HR and Office,Shahrivar,32.32405892,40.17094017,44.7761194
+Male,0,0,HighSchool,33,Flyer,Qom,0,Married,173,Production,Esfand,32.32405892,33.58633776,33.28748281
+Female,0,3,Diploma,40,Ring,Tehran,2,Married,170,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Male,0,0,HighSchool,44,Warehouse,Falcon Fortress,214,Married,168,Warehouse,Mordad,32.32405892,33.58633776,44.7761194
+Female,0,0,Diploma,31,Ring,Qom,0,Married,168,Production,Aban,38.27993255,36.96275072,33.28748281
+Male,0,0,HighSchool,29,Ring,Mahabad,0,Single,180,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,26,Packing,Qom,1,Married,180,Production,Ordibehesht,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,22,Flyer,Qom,0,Married,175,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,2,Diploma,41,Security,Qom,76,Married,185,HR and Office,Tir,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,39,Ring,Qom,0,Married,67,Production,Farvardin,38.27993255,36.96275072,36.50485437
+Male,1,0,PostDiploma,45,Office,Tehran,0,Married,175,Production,Esfand,32.32405892,39.78494624,44.7761194
+Male,1,0,PostDiploma,45,Office,Tehran,0,Married,175,Production,Esfand,32.32405892,39.78494624,44.7761194
+Male,0,1,Diploma,31,Packing,Qom,0,Married,170,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,26,Electronic,Najaf Abad,36,Married,175,Warehouse,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,32,Packing,Qom,0,Single,170,Production,Tir,32.32405892,33.58633776,33.28748281
+Female,0,0,HighSchool,37,Ring,Takab,0,Married,170,Production,Tir,38.27993255,33.58633776,36.50485437
+Male,1,0,HighSchool,30,Laboratory,Qom,36,Single,165,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,29,Packing,Qom,23,Single,170,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,0,1,HighSchool,37,Warehouse,Zanjan,3,Married,170,Warehouse,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,31,Maintenance and Repairs,Qom,0,Married,180,Warehouse,Aban,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,22,Passage,Qom,17,Single,180,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,22,Autoconer,Abhar,4,Single,175,Production,Khordad,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,32,Autoconer,Rosen,8,Married,175,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,22,Autoconer,Qom,0,Married,173,HSE,Aban,32.32405892,33.58633776,28.90625
+Male,1,0,Diploma,23,Packing,Qom,15,Single,185,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,26,Ring,Qom,0,Married,160,Production,Farvardin,38.27993255,33.58633776,28.90625
+Male,1,0,Bachelor,28,Electronic,Qom,27,Married,180,Facilities,Shahrivar,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,39,Facilities,Malayer,106,Married,180,Technical,Mordad,32.32405892,36.96275072,36.50485437
+Female,1,2,HighSchool,33,Ring,Qom,0,Married,168,Production,Tir,38.27993255,33.58633776,33.28748281
+Female,0,0,Bachelor,33,Ring,Shush,0,Married,161,Production,Mehr,38.27993255,40.17094017,33.28748281
+Male,0,0,Bachelor,25,Electronic,Qom,3,Married,200,HR and Office,Esfand,32.32405892,40.17094017,28.90625
+Female,0,0,HighSchool,26,Ring,Qom,0,Married,162,Production,Mordad,38.27993255,33.58633776,28.90625
+Female,1,1,Diploma,40,Ring,Qom,0,Married,160,HSE,Tir,38.27993255,36.96275072,36.50485437
+Male,0,0,Bachelor,37,Electronic,Qom,24,Married,185,Electronic,Shahrivar,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,35,Packing,Qom,100,Married,165,Production,Tir,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,27,Ring,Neighborhoods,0,Single,165,Production,Esfand,38.27993255,36.96275072,33.28748281
+Male,0,0,Bachelor,25,Electronic,Tehran,0,Single,183,Technical,Shahrivar,32.32405892,40.17094017,28.90625
+Female,0,0,PostDiploma,24,Ring,Hamadan,0,Married,159,Production,Bahman,38.27993255,39.78494624,28.90625
+Male,0,0,HighSchool,26,Electronic,Arak,5,Single,175,Electronic,Azar,32.32405892,33.58633776,28.90625
+Female,0,0,Diploma,23,Ring,Tafresh,0,Single,158,Production,Khordad,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,23,Ring,Tafresh,0,Single,158,Production,Khordad,38.27993255,36.96275072,28.90625
+Male,1,0,Diploma,30,Ring,Qom,40,Single,170,Production,Mehr,32.32405892,36.96275072,33.28748281
+Female,0,1,HighSchool,35,Ring,Tafresh,0,Married,185,Production,Mordad,38.27993255,33.58633776,36.50485437
+Male,0,0,Bachelor,41,Electronic,Qom,156,Married,180,Electronic,Shahrivar,32.32405892,40.17094017,36.50485437
+Male,1,2,Diploma,38,Security,Qom,84,Married,182,Production,Mordad,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,38,Security,Mashhad,65,Married,187,Technical,Tir,32.32405892,36.96275072,36.50485437
+Female,1,1,Diploma,41,Packing,Qom,0,Married,165,Production,Azar,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,32,Ring,Fars,19,Single,160,Production,Farvardin,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,0,Single,173,Warehouse,Tir,32.32405892,36.96275072,28.90625
+Male,0,1,Diploma,38,Ring,Kazeroon,80,Married,176,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Female,0,1,HighSchool,24,Ring,Qom,0,Married,159,Production,Mehr,38.27993255,33.58633776,28.90625
+Female,1,0,HighSchool,37,Packing,Lorestan,0,Married,161,Production,Bahman,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,37,Ring,Hashtrood,0,Married,160,Production,Azar,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,39,Ring,Shiraz,0,Married,165,Production,Tir,38.27993255,33.58633776,36.50485437
+Female,0,2,HighSchool,36,Ring,Poldokhtar,15,Married,160,Production,Mehr,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,34,Warehouse,Andimeshk,1777,Married,175,Warehouse,Esfand,32.32405892,33.58633776,33.28748281
+Female,0,3,HighSchool,40,Ring,Qom,0,Married,157,Production,Aban,38.27993255,33.58633776,36.50485437
+Male,0,2,HighSchool,42,Warehouse,Ahwaz,40,Married,175,Warehouse,Aban,32.32405892,33.58633776,44.7761194
+Male,0,1,HighSchool,27,Packing,Blue,80,Married,170,Production,Aban,32.32405892,33.58633776,33.28748281
+Male,0,1,HighSchool,27,Packing,Blue,72,Married,170,Production,Aban,32.32405892,33.58633776,33.28748281
+Female,1,3,HighSchool,45,Ring,Qom,11,Married,160,Production,Aban,38.27993255,33.58633776,44.7761194
+Male,1,0,PostDiploma,34,Electronic,Qom,108,Married,176,Technical,Mordad,32.32405892,39.78494624,33.28748281
+Male,0,2,HighSchool,51,Maintenance and Repairs,Boin Zahra,190,Married,175,Technical,Shahrivar,32.32405892,33.58633776,33.33333333
+Male,0,0,HighSchool,36,Ring,Tabriz,0,Single,176,Production,Ordibehesht,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,49,Ring,Qom,0,Married,165,Production,Mordad,32.32405892,33.58633776,44.7761194
+Female,1,0,Diploma,19,Ring,Qom,0,Single,161,Production,Tir,38.27993255,36.96275072,46.15384615
+Male,0,1,Bachelor,39,Electronic,Khni,121,Married,174,Technical,Farvardin,32.32405892,40.17094017,36.50485437
+Female,0,0,HighSchool,25,Ring,Qom,0,Married,165,Production,Mehr,38.27993255,33.58633776,28.90625
+Male,1,0,Bachelor,35,Electronic,Qom,50,Single,175,Warehouse,Aban,32.32405892,40.17094017,36.50485437
+Male,0,0,Bachelor,28,Electronic,Bijar,0,Married,177,Production,Aban,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,24,Packing,Qom,24,Single,184,Production,Mordad,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,35,Ring,Qom,7,Married,160,Production,Mehr,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,24,Packing,Durrod,6,Single,175,Production,Azar,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,27,Jet,Khorramabad,0,Married,177,Production,Ordibehesht,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,23,Facilities,Qom,0,Married,170,Production,Azar,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,41,Ring,Shahri,9,Married,165,Production,Tir,38.27993255,33.58633776,36.50485437
+Female,0,1,Diploma,43,Ring,Tabriz,8,Married,165,Production,Farvardin,38.27993255,36.96275072,44.7761194
+Female,1,0,Diploma,19,Laboratory,Qom,0,Single,165,Production,Dey,38.27993255,36.96275072,46.15384615
+Male,0,0,Bachelor,46,Office,Qom,252,Married,175,Warehouse,Farvardin,32.32405892,40.17094017,44.7761194
+Male,0,0,Diploma,25,Ring,Qom,2,Married,175,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,0,0,Bachelor,28,Autoconer,Qom,0,Married,183,Production,Farvardin,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,23,Ring,Alborz,16,Single,187,Technical,Tir,32.32405892,36.96275072,28.90625
+Female,1,0,HighSchool,39,Ring,East Azerbaijan,0,Married,162,Production,Bahman,38.27993255,33.58633776,36.50485437
+Male,0,0,Elementary,36,Ring,Qom,0,Married,175,Production,Aban,32.32405892,17.67241379,36.50485437
+Female,0,0,HighSchool,35,Ring,Qom,0,Married,168,Production,Bahman,38.27993255,33.58633776,36.50485437
+Male,1,0,PostDiploma,36,Security,Qom,270,Married,183,Technical,Dey,32.32405892,39.78494624,36.50485437
+Male,0,0,HighSchool,36,Security,Rasht,5,Married,189,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,1,0,HighSchool,37,Flyer,Qom,30,Married,168,Production,Azar,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,23,Ring,Bahmani,0,Single,162,Industrial Engineering,Esfand,38.27993255,36.96275072,28.90625
+Male,0,0,Bachelor,38,Electronic,Khuzestan,35,Married,182,Electronic,Tir,32.32405892,40.17094017,36.50485437
+Male,0,0,Bachelor,38,Electronic,Khuzestan,35,Married,182,Electronic,Tir,32.32405892,40.17094017,36.50485437
+Male,1,2,Diploma,37,Security,Qom,120,Married,170,Production,Dey,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,21,Packing,Qom,0,Married,180,Production,Aban,32.32405892,33.58633776,46.15384615
+Male,0,0,Diploma,28,Ring,Ahwaz,8,Married,181,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,34,Warehouse,Yazd,85,Married,173,Warehouse,Farvardin,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,24,Married,178,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,26,Ring,Qom,4,Single,185,HR and Office,Aban,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,23,Flyer,Qom,2,Single,179,Production,Farvardin,32.32405892,36.96275072,28.90625
+Female,0,0,Diploma,23,Ring,Gonbadkavus,0,Single,167,Production,Aban,38.27993255,36.96275072,28.90625
+Female,1,0,HighSchool,35,Ring,Khuzestan,13,Married,172,Production,Tir,38.27993255,33.58633776,36.50485437
+Male,0,0,Diploma,43,Maintenance and Repairs,Qom,25,Married,181,Facilities,Shahrivar,32.32405892,36.96275072,44.7761194
+Male,0,2,HighSchool,44,Warehouse,Qom,85,Married,175,Production,Farvardin,32.32405892,33.58633776,44.7761194
+Male,1,0,Diploma,25,Electronic,Qom,0,Single,180,Electronic,Shahrivar,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,25,Electronic,Qom,0,Single,180,Electronic,Shahrivar,32.32405892,36.96275072,28.90625
+Female,0,0,Bachelor,25,Laboratory,Kashan,6,Single,156,HR and Office,Mehr,38.27993255,40.17094017,28.90625
+Female,0,0,Bachelor,25,Laboratory,Najaf Abad,10,Single,168,Industrial Engineering,Mordad,38.27993255,40.17094017,28.90625
+Male,1,0,Diploma,32,Security,Khuzestan,8,Married,175,Technical,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,21,Open End,Khuzestan,0,Single,175,Production,Mordad,32.32405892,33.58633776,46.15384615
+Male,0,0,Diploma,5,Packing,Central,1,Single,180,Production,Bahman,32.32405892,36.96275072,34.40443213
+Female,0,0,HighSchool,32,Ring,Farahan,7,Single,168,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,35,Warehouse,Khuzestan,0,Married,176,Production,Mehr,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,23,Ring,Qom,4,Single,182,Technical,Shahrivar,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,39,Packing,Kashan,180,Single,170,Production,Azar,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,25,Maintenance and Repairs,Qom,0,Single,178,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,25,Ring,Qom,3,Single,178,Production,Tir,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,30,Packing,Mahns,11,Single,170,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,1,1,Diploma,39,Warehouse,Central,168,Married,165,Production,Farvardin,32.32405892,36.96275072,36.50485437
+Male,1,2,HighSchool,41,Warehouse,Central,4,Married,182,Production,Tir,32.32405892,33.58633776,36.50485437
+Female,0,0,Diploma,22,Ring,Qom,0,Married,156,HSE,Mehr,38.27993255,36.96275072,28.90625
+Female,0,1,Diploma,33,Ring,Qom,0,Married,158,Production,Bahman,38.27993255,36.96275072,33.28748281
+Male,1,0,HighSchool,22,Autoconer,Lorestan,6,Single,175,Production,Dey,32.32405892,33.58633776,28.90625
+Male,1,0,HighSchool,22,Autoconer,Lorestan,5,Single,175,Production,Dey,32.32405892,33.58633776,28.90625
+Male,1,0,Diploma,30,Electronic,Qom,60,Single,178,Electronic,Azar,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,27,Ring,Qom,1,Single,160,Production,Aban,38.27993255,36.96275072,33.28748281
+Male,0,0,PostDiploma,40,Packing,Qom,106,Married,175,Production,Ordibehesht,32.32405892,39.78494624,36.50485437
+Male,0,0,PostDiploma,40,Ring,Qom,15,Married,175,Production,Ordibehesht,32.32405892,39.78494624,36.50485437
+Male,1,0,Diploma,24,Packing,Qom,0,Single,184,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,29,Ring,Khuzestan,0,Single,172,Production,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,29,Ring,Khuzestan,3,Single,170,Technical,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,29,Carding,Qom,12,Single,174,Production,Khordad,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,27,Maintenance and Repairs,Qom,0,Married,175,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Female,0,0,HighSchool,23,Ring,Sangar,17,Married,164,Production,Azar,38.27993255,33.58633776,28.90625
+Male,0,0,PostDiploma,33,Packing,Qom,5,Married,168,Production,Aban,32.32405892,39.78494624,33.28748281
+Male,0,0,PostDiploma,33,Packing,Qom,5,Married,170,Production,Aban,32.32405892,39.78494624,33.28748281
+Female,1,2,Diploma,44,Maintenance and Repairs,Qom,0,Married,160,Technical,Mordad,38.27993255,36.96275072,44.7761194
+Male,1,0,Diploma,22,Packing,Qom,0,Single,183,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Male,1,1,Bachelor,42,Office,Tehran,105,Married,178,Technical,Esfand,32.32405892,40.17094017,44.7761194
+Male,1,1,Bachelor,42,Office,Tehran,105,Married,178,Technical,Esfand,32.32405892,40.17094017,44.7761194
+Female,0,0,Bachelor,40,Ring,Qom,0,Married,164,Production,Mehr,38.27993255,40.17094017,36.50485437
+Male,1,0,Bachelor,36,Electronic,Qazvin,18,Married,174,Electronic,Tir,32.32405892,40.17094017,36.50485437
+Male,1,0,Bachelor,36,Electronic,Qazvin,18,Married,174,Electronic,Tir,32.32405892,40.17094017,36.50485437
+Male,0,0,Bachelor,32,Electronic,Qom,3,Married,180,HR and Office,Shahrivar,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,26,Ring,Qom,28,Married,170,Production,Esfand,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,28,Ring,Afghanistan,0,Married,173,Production,Mehr,32.32405892,36.96275072,33.28748281
+Female,0,0,HighSchool,40,Ring,Nourabad,1,Married,164,Production,Farvardin,38.27993255,33.58633776,36.50485437
+Female,1,0,Bachelor,36,HR and Training,Qom,60,Married,160,HR and Office,Mordad,38.27993255,40.17094017,36.50485437
+Female,0,2,Diploma,29,Ring,Qom,1,Married,163,Production,Dey,38.27993255,36.96275072,33.28748281
+Male,0,0,Elementary,30,Flyer,Azadegan Plain,0,Married,175,Warehouse,Tir,32.32405892,17.67241379,33.28748281
+Female,0,0,Diploma,40,Ring,Qom,25,Married,165,Production,Mordad,38.27993255,36.96275072,36.50485437
+Female,0,0,HighSchool,33,Ring,Qom,0,Married,164,Production,Farvardin,38.27993255,33.58633776,33.28748281
+Female,1,0,Diploma,22,Autoconer,Hamadan,0,Single,159,Production,Mehr,38.27993255,36.96275072,28.90625
+Male,0,0,HighSchool,44,Warehouse,Qom,5,Married,172,Production,Tir,32.32405892,33.58633776,44.7761194
+Male,0,0,HighSchool,28,Packing,Afghanistan,2,Married,165,Warehouse,Aban,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,35,Ring,Qom,10,Married,180,Production,Aban,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,26,Ring,Zabul,0,Married,145,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,26,Ring,Zabul,0,Married,140,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,22,Ring,Qom,0,Single,178,Production,Aban,32.32405892,33.58633776,28.90625
+Female,1,0,Diploma,24,Autoconer,Qom,0,Single,168,Production,Ordibehesht,38.27993255,36.96275072,28.90625
+Female,0,0,Diploma,35,Ring,Qom,0,Married,165,Production,Aban,38.27993255,36.96275072,36.50485437
+Female,0,1,Diploma,32,Ring,Qom,0,Married,165,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,27,Electronic,Qom,60,Married,175,HR and Office,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,24,Autoconer,Tehran,1,Single,187,Production,Shahrivar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,24,Autoconer,Tehran,1,Single,187,Production,Shahrivar,32.32405892,33.58633776,28.90625
+Female,1,0,Master,26,Office,Shiraz,0,Single,161,Production,Bahman,38.27993255,48.38709677,28.90625
+Male,0,0,Elementary,32,Autoconer,Central,4,Married,174,Production,Bahman,32.32405892,17.67241379,33.28748281
+Female,0,0,HighSchool,32,Ring,Qom,0,Married,168,Production,Tir,38.27993255,33.58633776,33.28748281
+Male,1,0,Bachelor,39,Technical and Engineering,Ray,11,Single,182,Production,Dey,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,25,Packing,Qom,0,Married,185,Production,Farvardin,32.32405892,33.58633776,28.90625
+Female,1,1,Diploma,38,Ring,Qom,50,Married,162,Production,Tir,38.27993255,36.96275072,36.50485437
+Female,1,0,Master,30,Technical and Engineering,Qazvin,0,Single,160,Production,Mehr,38.27993255,48.38709677,33.28748281
+Male,0,0,HighSchool,27,Maintenance and Repairs,Qom,26,Married,173,Technical,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,33,Maintenance and Repairs,Zanjan,12,Married,173,Technical,Esfand,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,29,Ring,Khuzestan,0,Single,177,Facilities,Farvardin,32.32405892,33.58633776,33.28748281
+Female,1,1,HighSchool,33,Ring,Qom,6,Married,165,Production,Mordad,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,23,Ring,Qom,0,Married,160,Production,Dey,32.32405892,33.58633776,28.90625
+Male,1,0,PostDiploma,30,Open End,Mazandaran,3,Married,178,Production,Bahman,32.32405892,39.78494624,33.28748281
+Male,0,0,HighSchool,22,Packing,Qom,0,Married,182,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,22,Packing,Qom,0,Married,182,Production,Azar,32.32405892,33.58633776,28.90625
+Female,0,0,HighSchool,21,Ring,Saveh,0,Married,160,Production,Esfand,38.27993255,33.58633776,46.15384615
+Male,0,0,HighSchool,27,Warehouse,Qom,0,Married,183,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,26,Electronic,Qom,36,Single,190,Electronic,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,26,Electronic,Qom,36,Single,190,Electronic,Bahman,32.32405892,36.96275072,28.90625
+Female,0,0,HighSchool,46,Ring,Qom,4,Married,158,HR and Office,Shahrivar,38.27993255,33.58633776,44.7761194
+Male,0,3,HighSchool,37,Security,Qom,36,Married,180,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Female,0,0,PostDiploma,31,Ring,Ahwaz,0,Married,159,Production,Ordibehesht,38.27993255,39.78494624,33.28748281
+Female,1,1,HighSchool,45,Ring,Qom,4,Married,169,Production,Aban,38.27993255,33.58633776,44.7761194
+Female,1,0,Bachelor,40,Financial,Tehran,0,Married,170,Production,Ordibehesht,38.27993255,40.17094017,36.50485437
+Female,0,0,HighSchool,30,Autoconer,Tehran,60,Married,156,Production,Mordad,38.27993255,33.58633776,33.28748281
+Male,0,0,Bachelor,37,Electronic,Dezful,96,Married,174,IT,Dey,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,38,Packing,Kohgiluyeh,20,Married,170,HR and Office,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,27,Ring,Qom,6,Married,159,Production,Bahman,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,22,Maintenance and Repairs,Kerman,9,Married,180,Technical,Mordad,32.32405892,33.58633776,28.90625
+Male,1,0,HighSchool,22,Maintenance and Repairs,Kerman,9,Married,180,Technical,Mordad,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,26,Press,Azadegan Plain,10,Married,178,Production,Mehr,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,23,Electronic,Khuzestan,3,Single,170,Electronic,Mehr,32.32405892,33.58633776,28.90625
+Male,1,0,HighSchool,26,Packing,Qom,0,Single,183,Technical,Azar,32.32405892,33.58633776,28.90625
+Female,1,1,HighSchool,31,Jet,East Azerbaijan,0,Married,154,Production,Shahrivar,38.27993255,33.58633776,33.28748281
+Male,0,1,Bachelor,48,Electronic,Ahwaz,124,Married,184,Electronic,Shahrivar,32.32405892,40.17094017,44.7761194
+Male,0,0,HighSchool,32,Packing,Arak,96,Married,175,Production,Tir,32.32405892,33.58633776,33.28748281
+Male,1,0,Bachelor,25,Security,Qom,0,Married,175,Production,Bahman,32.32405892,40.17094017,28.90625
+Male,0,0,HighSchool,32,Flyer,Qom,0,Single,173,Production,Bahman,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,33,Autoconer,Abadan,6,Married,157,Warehouse,Ordibehesht,32.32405892,33.58633776,33.28748281
+Female,1,0,Elementary,20,Ring,Qom,0,Single,166,Production,Mehr,38.27993255,17.67241379,46.15384615
+Female,1,0,HighSchool,20,Autoconer,Qom,0,Single,164,Production,Azar,38.27993255,33.58633776,46.15384615
+Male,0,0,HighSchool,30,Facilities,Ahwaz,0,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Female,1,0,HighSchool,23,Autoconer,Golestan,0,Single,162,Production,Esfand,38.27993255,33.58633776,28.90625
+Female,0,0,HighSchool,28,Autoconer,Lorestan,0,Married,168,Production,Shahrivar,38.27993255,33.58633776,33.28748281
+Male,1,1,Bachelor,38,Electronic,Qom,150,Married,172,Electronic,Khordad,32.32405892,40.17094017,36.50485437
+Male,1,1,Bachelor,38,Electronic,Qom,150,Married,172,Electronic,Khordad,32.32405892,40.17094017,36.50485437
+Male,0,0,Diploma,24,Ring,Qom,8,Single,180,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Male,0,1,Bachelor,34,Electronic,Hamadan,60,Married,170,Electronic,Farvardin,32.32405892,40.17094017,33.28748281
+Male,0,0,Master,1,Electronic,Qom,27,Married,180,Electronic,Mehr,32.32405892,48.38709677,34.40443213
+Male,0,0,Diploma,38,Electronic,Qom,40,Married,170,Electronic,Esfand,32.32405892,36.96275072,36.50485437
+Male,0,1,PostDiploma,40,Facilities,Golestan,84,Married,170,Technical,Tir,32.32405892,39.78494624,36.50485437
+Male,0,0,PostDiploma,26,Doubling,Qom,0,Single,177,Electronic,Ordibehesht,32.32405892,39.78494624,28.90625
+Male,1,3,HighSchool,41,Flyer,Kohgiluyeh and Boyer Ahmad,1706,Married,170,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Female,1,0,HighSchool,20,Ring,Qom,0,Single,165,Production,Farvardin,38.27993255,33.58633776,46.15384615
+Male,0,0,Diploma,23,Facilities,Qom,0,Married,175,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Male,0,3,Diploma,41,Autoclave,Qom,72,Married,178,Production,Khordad,32.32405892,36.96275072,36.50485437
+Female,0,0,Diploma,41,Ring,Qom,0,Married,158,Facilities,Mordad,38.27993255,36.96275072,36.50485437
+Male,1,0,Bachelor,49,Office,Kermanshah,0,Married,175,Production,Azar,32.32405892,40.17094017,44.7761194
+Male,1,0,Bachelor,49,Office,Kermanshah,0,Married,175,Production,Azar,32.32405892,40.17094017,44.7761194
+Male,1,0,Bachelor,25,Laboratory,West Azerbaijan,0,Single,178,Production,Tir,32.32405892,40.17094017,28.90625
+Male,0,0,Bachelor,26,Ring,Urmia,8,Single,170,Production,Mehr,32.32405892,40.17094017,28.90625
+Male,1,0,Diploma,22,Flyer,Qom,24,Single,178,HSE,Farvardin,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,22,Flyer,Qom,24,Single,178,HSE,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,42,Warehouse,Vineyard,5,Married,180,Technical,Aban,32.32405892,33.58633776,44.7761194
+Male,0,1,Elementary,33,Press,Qom,5,Married,170,Production,Esfand,32.32405892,17.67241379,33.28748281
+Female,1,0,Diploma,31,Autoconer,Khuzestan,0,Married,163,Production,Aban,38.27993255,36.96275072,33.28748281
+Male,1,2,HighSchool,34,Press,Alborz,60,Married,174,Production,Mehr,32.32405892,33.58633776,33.28748281
+Female,0,0,Diploma,34,Ring,Qom,13,Married,173,Production,Farvardin,38.27993255,36.96275072,33.28748281
+Female,1,0,Bachelor,28,HR and Training,Qom,50,Single,163,HR and Office,Bahman,38.27993255,40.17094017,33.28748281
+Male,0,0,Bachelor,35,Electronic,Qom,96,Married,180,Production,Dey,32.32405892,40.17094017,36.50485437
+Male,0,0,HighSchool,25,Ring,Qom,0,Married,152,Production,Dey,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,26,Ring,Qom,3,Married,160,Production,Shahrivar,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,36,Packing,Qom,15,Married,169,Production,Esfand,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,27,Maintenance and Repairs,Qom,0,Single,187,Production,Mehr,32.32405892,36.96275072,33.28748281
+Female,0,0,Bachelor,46,Maintenance and Repairs,East Azerbaijan,0,Single,162,Production,Ordibehesht,38.27993255,40.17094017,44.7761194
+Male,0,0,HighSchool,30,Maintenance and Repairs,Malayer,0,Married,170,Technical,Esfand,32.32405892,33.58633776,33.28748281
+Female,1,0,HighSchool,25,Ring,Qom,1,Single,164,Production,Ordibehesht,38.27993255,33.58633776,28.90625
+Male,0,1,HighSchool,34,Warehouse,Qom,7,Married,170,Production,Azar,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,53,Warehouse,Hamadan,250,Married,172,HR and Office,Mordad,32.32405892,33.58633776,33.33333333
+Male,1,0,Diploma,22,Jet,Qom,0,Single,177,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,30,Packing,Lorestan,0,Single,167,Production,Mordad,32.32405892,36.96275072,33.28748281
+Male,0,1,Bachelor,35,Autoconer,Khuzestan,116,Married,170,Production,Farvardin,32.32405892,40.17094017,36.50485437
+Male,1,0,HighSchool,20,Jet,Qom,0,Single,175,Production,Aban,32.32405892,33.58633776,46.15384615
+Female,1,0,Master,29,Laboratory,Hamadan,3,Single,160,Industrial Engineering,Farvardin,38.27993255,48.38709677,33.28748281
+Male,0,0,Diploma,35,Maintenance and Repairs,Durrod,60,Married,173,Technical,Azar,32.32405892,36.96275072,36.50485437
+Male,1,0,Bachelor,41,Office,Tehran,0,Single,177,Production,Aban,32.32405892,40.17094017,36.50485437
+Female,0,0,HighSchool,19,Ring,Qom,0,Married,156,Production,Mordad,38.27993255,33.58633776,46.15384615
+Male,1,2,Elementary,37,Tray and Reserver,Qom,120,Married,170,Production,Mordad,32.32405892,17.67241379,36.50485437
+Male,1,1,PostDiploma,35,Electronic,Lorestan,132,Married,178,Electronic,Aban,32.32405892,39.78494624,36.50485437
+Male,0,0,Bachelor,33,Electronic,Middle,96,Married,185,HSE,Dey,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,27,Ring,Qom,0,Single,173,Production,Aban,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,27,Ring,Qom,2,Single,168,Production,Aban,32.32405892,36.96275072,33.28748281
+Female,0,0,Diploma,36,Ring,Central,0,Married,160,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Female,0,0,Diploma,27,Ring,Khuzestan,0,Married,160,Production,Khordad,38.27993255,36.96275072,33.28748281
+Male,0,0,HighSchool,26,Ring,Qom,12,Married,190,Production,Aban,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,22,Packing,Qom,5,Married,178,Production,Tir,32.32405892,33.58633776,28.90625
+Male,0,0,PostDiploma,33,Packing,Qom,60,Married,170,Technical,Dey,32.32405892,39.78494624,33.28748281
+Female,0,0,Bachelor,26,Laboratory,Qom,0,Married,160,Industrial Engineering,Farvardin,38.27993255,40.17094017,28.90625
+Female,1,0,Diploma,24,Ring,Ilam,2,Single,168,HSE,Azar,38.27993255,36.96275072,28.90625
+Female,0,0,HighSchool,34,Ring,Ilam,0,Married,150,Production,Azar,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,24,Packing,Hamadan,4,Married,185,Facilities,Khordad,32.32405892,33.58633776,28.90625
+Male,0,3,Diploma,29,Packing,Khuzestan,14,Married,160,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,1,0,Master,31,Office,West Azerbaijan,25,Single,181,Production,Tir,32.32405892,48.38709677,33.28748281
+Male,0,0,HighSchool,28,Packing,Qom,25,Married,166,Production,Esfand,32.32405892,33.58633776,33.28748281
+Male,0,0,PostDiploma,31,Packing,West Azerbaijan,5,Married,170,Technical,Aban,32.32405892,39.78494624,33.28748281
+Male,0,0,Diploma,36,Electronic,Qom,8,Married,175,Warehouse,Esfand,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,36,Electronic,Qom,8,Married,175,Technical,Esfand,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,36,Electronic,Qom,8,Married,175,Facilities,Esfand,32.32405892,36.96275072,36.50485437
+Female,0,0,HighSchool,20,Ring,Qom,0,Married,167,Production,Tir,38.27993255,33.58633776,46.15384615
+Female,1,0,Bachelor,25,Laboratory,Kermanshah,0,Single,170,Industrial Engineering,Khordad,38.27993255,40.17094017,28.90625
+Female,1,0,Bachelor,24,Laboratory,Hamadan,6,Single,159,Production,Esfand,38.27993255,40.17094017,28.90625
+Male,0,0,Diploma,27,Ring,Khuzestan,40,Married,178,Technical,Dey,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,24,Ring,Qom,0,Single,165,Production,Ordibehesht,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,26,Passage,Qom,26,Single,190,Technical,Esfand,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,29,Jet,Qom,0,Single,180,Production,Tir,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,31,Facilities,Lorestan,48,Married,190,Technical,Khordad,32.32405892,40.17094017,33.28748281
+Male,0,0,Bachelor,32,Facilities,Lorestan,40,Single,175,Technical,Bahman,32.32405892,40.17094017,33.28748281
+Female,1,1,HighSchool,35,Packing,Qom,6,Married,165,Production,Bahman,38.27993255,33.58633776,36.50485437
+Female,1,0,Elementary,30,Ring,Qom,8,Married,158,Production,Bahman,38.27993255,17.67241379,33.28748281
+Male,0,0,Diploma,24,Passage,Qom,0,Single,180,IT,Azar,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,27,Packing,Afghanistan,0,Married,170,Production,Mehr,32.32405892,33.58633776,33.28748281
+Female,0,0,Diploma,23,Ring,Qom,0,Married,167,Production,Mehr,38.27993255,36.96275072,28.90625
+Male,0,0,Diploma,29,Maintenance and Repairs,Qom,16,Married,173,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,30,Autoconer,Hamadan,1,Single,173,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,30,Autoconer,Hamadan,0,Single,173,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,30,Autoconer,Hamadan,4,Single,173,Production,Ordibehesht,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,36,Passage,Isfahan,18,Married,175,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,0,0,Bachelor,31,Facilities,Qom,30,Single,186,Technical,Mehr,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,29,Packing,Khuzestan,96,Single,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,42,Packing,Khuzestan,0,Married,157,Production,Dey,32.32405892,33.58633776,44.7761194
+Male,0,0,HighSchool,21,Packing,Qom,0,Married,190,HR and Office,Mordad,32.32405892,33.58633776,46.15384615
+Male,1,0,Bachelor,34,Electronic,Qom,8,Married,172,Industrial Engineering,Ordibehesht,32.32405892,40.17094017,33.28748281
+Female,1,0,PostDiploma,28,HR and Training,Qom,48,Single,147,HR and Office,Dey,38.27993255,39.78494624,33.28748281
+Male,1,0,Elementary,46,Flyer,Qom,2,Married,165,Production,Azar,32.32405892,17.67241379,44.7761194
+Female,1,0,HighSchool,35,Ring,Kurdistan,4,Married,160,Production,Aban,38.27993255,33.58633776,36.50485437
+Female,0,0,HighSchool,40,Ring,Qom,58,Married,160,Production,Azar,38.27993255,33.58633776,36.50485437
+Male,0,0,HighSchool,25,Packing,Qom,60,Married,187,Production,Bahman,32.32405892,33.58633776,28.90625
+Male,0,0,Elementary,36,Warehouse,Qom,10,Married,178,Production,Aban,32.32405892,17.67241379,36.50485437
+Male,0,0,Bachelor,32,Electronic,Qom,11,Married,175,Production,Ordibehesht,32.32405892,40.17094017,33.28748281
+Male,0,0,Diploma,30,Security,Qom,120,Married,185,HR and Office,Khordad,32.32405892,36.96275072,33.28748281
+Male,1,0,HighSchool,42,Electronic,Khuzestan,14,Married,185,Electronic,Ordibehesht,32.32405892,33.58633776,44.7761194
+Female,1,0,HighSchool,25,Ring,Golestan,7,Married,167,Production,Shahrivar,38.27993255,33.58633776,28.90625
+Male,1,0,PostDiploma,34,Flyer,Qom,0,Single,180,Production,Khordad,32.32405892,39.78494624,33.28748281
+Male,1,0,PostDiploma,34,Electronic,Qom,30,Single,178,HR and Office,Khordad,32.32405892,39.78494624,33.28748281
+Female,1,0,Bachelor,27,Laboratory,Isfahan,0,Single,156,Production,Mehr,38.27993255,40.17094017,33.28748281
+Female,0,0,HighSchool,32,Ring,Central,0,Married,163,Production,Khordad,38.27993255,33.58633776,33.28748281
+Male,0,0,Diploma,31,Security,Qom,36,Married,183,Technical,Bahman,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,39,Ring,Khuzestan,52,Married,176,Production,Aban,32.32405892,36.96275072,36.50485437
+Female,1,0,Diploma,30,Ring,Qom,2,Single,156,Production,Khordad,38.27993255,36.96275072,33.28748281
+Female,0,0,HighSchool,31,Ring,Qom,0,Married,174,Production,Mehr,38.27993255,33.58633776,33.28748281
+Male,0,0,Elementary,40,Ring,Qom,0,Married,175,Production,Mehr,32.32405892,17.67241379,36.50485437
+Male,0,0,Bachelor,26,Electronic,Qom,66,Married,174,Electronic,Dey,32.32405892,40.17094017,28.90625
+Male,0,0,HighSchool,22,Packing,Zanjan,2,Married,185,Technical,Esfand,32.32405892,33.58633776,28.90625
+Male,0,0,PostDiploma,35,Security,Qom,6,Single,187,Production,Mordad,32.32405892,39.78494624,36.50485437
+Male,1,0,HighSchool,36,Warehouse,Khuzestan,70,Married,175,Production,Ordibehesht,32.32405892,33.58633776,36.50485437
+Female,1,0,Bachelor,28,HR and Training,Qom,30,Single,166,HR and Office,Aban,38.27993255,40.17094017,33.28748281
+Male,1,0,HighSchool,21,Jet,Qom,0,Single,170,Technical,Azar,32.32405892,33.58633776,46.15384615
+Male,1,0,HighSchool,21,Jet,Qom,0,Single,171,Technical,Azar,32.32405892,33.58633776,46.15384615
+Female,0,0,HighSchool,30,Ring,Qom,0,Married,165,HSE,Farvardin,38.27993255,33.58633776,33.28748281
+Male,0,0,HighSchool,23,Press,Tehran,42,Single,187,Production,Esfand,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,22,Ring,Qom,12,Married,198,Production,Mehr,32.32405892,33.58633776,28.90625
+Male,0,0,Bachelor,27,Office,Khuzestan,13,Married,162,HR and Office,Tir,32.32405892,40.17094017,33.28748281
+Male,1,0,Diploma,22,Jet,Zanjan,0,Single,172,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,0,0,PostDiploma,31,Maintenance and Repairs,Tehran,24,Married,175,Production,Ordibehesht,32.32405892,39.78494624,33.28748281
+Male,0,0,Diploma,24,Ring,Isfahan,0,Single,178,Warehouse,Mordad,32.32405892,36.96275072,28.90625
+Female,1,0,HighSchool,31,Ring,Qom,0,Married,178,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,1,0,Diploma,30,Packing,Kerman,4,Married,175,Production,Azar,32.32405892,36.96275072,33.28748281
+Male,0,0,Bachelor,25,Electronic,Qom,0,Married,187,HR and Office,Khordad,32.32405892,40.17094017,28.90625
+Male,0,0,Diploma,35,Packing,Qom,150,Married,174,Production,Aban,32.32405892,36.96275072,36.50485437
+Male,0,0,Bachelor,38,Electronic,Qom,124,Married,177,HR and Office,Khordad,32.32405892,40.17094017,36.50485437
+Female,1,0,HighSchool,42,Ring,Alborz,35,Married,163,Production,Khordad,38.27993255,33.58633776,44.7761194
+Male,0,0,HighSchool,34,Packing,Zanjan,0,Married,170,Production,Shahrivar,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,36,Packing,Afghanistan,0,Married,160,Production,Dey,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,35,Security,Afghanistan,0,Married,177,Production,Farvardin,32.32405892,33.58633776,36.50485437
+Male,0,0,HighSchool,42,Maintenance and Repairs,Tehran,10,Married,160,Technical,Dey,32.32405892,33.58633776,44.7761194
+Male,0,0,Diploma,30,Security,Tehran,6,Married,185,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,23,Ring,Qom,15,Married,182,Production,Dey,32.32405892,33.58633776,28.90625
+Female,0,0,Bachelor,28,HR and Training,Qom,36,Married,168,HR and Office,Mordad,38.27993255,40.17094017,33.28748281
+Female,1,0,Bachelor,26,HR and Training,Lorestan,2,Married,160,HR and Office,Bahman,38.27993255,40.17094017,28.90625
+Male,1,0,Diploma,27,Facilities,Golestan,0,Married,169,Electronic,Aban,32.32405892,36.96275072,33.28748281
+Male,0,0,HighSchool,21,Packing,Qom,0,Married,188,Production,Azar,32.32405892,33.58633776,46.15384615
+Female,0,0,Diploma,26,Ring,Khuzestan,0,Married,170,Production,Mehr,38.27993255,36.96275072,28.90625
+Male,0,0,Diploma,22,Ring,Khuzestan,0,Married,176,Production,Mehr,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,42,Security,Khuzestan,204,Married,183,Production,Dey,32.32405892,36.96275072,44.7761194
+Male,0,0,Elementary,36,Flyer,East Azerbaijan,0,Married,155,Production,Azar,32.32405892,17.67241379,36.50485437
+Male,1,0,Diploma,23,Ring,Qom,47,Single,178,Technical,Dey,32.32405892,36.96275072,28.90625
+Male,0,0,Diploma,29,Flyer,North Khorasan,2,Married,175,Production,Farvardin,32.32405892,36.96275072,33.28748281
+Female,1,0,HighSchool,22,Ring,Hamadan,8,Single,156,Production,Ordibehesht,38.27993255,33.58633776,28.90625
+Female,0,0,HighSchool,24,Ring,Qom,0,Married,173,Facilities,Esfand,38.27993255,33.58633776,28.90625
+Male,0,0,Diploma,24,Ring,Kurdistan,23,Married,192,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,HighSchool,29,Packing,Kuwait,0,Married,171,Production,Dey,32.32405892,33.58633776,33.28748281
+Male,1,0,HighSchool,31,Maintenance and Repairs,East Azerbaijan,85,Married,177,Technical,Mordad,32.32405892,33.58633776,33.28748281
+Male,0,0,Diploma,20,Packing,Lorestan,3,Married,190,Production,Aban,32.32405892,36.96275072,46.15384615
+Female,1,0,HighSchool,35,Ring,Khuzestan,18,Married,155,Production,Mordad,38.27993255,33.58633776,36.50485437
+Female,1,0,HighSchool,34,Ring,Central,0,Married,170,Production,Farvardin,38.27993255,33.58633776,33.28748281
+Male,1,0,HighSchool,41,Warehouse,Zanjan,0,Married,173,Facilities,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,1,0,Diploma,25,Electronic,Khorasan Razavi,17,Single,181,Electronic,Azar,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,25,Electronic,Khorasan Razavi,0,Single,180,Electronic,Azar,32.32405892,36.96275072,28.90625
+Male,0,0,Elementary,24,Jet,Zanjan,0,Married,175,Production,Mordad,32.32405892,17.67241379,28.90625
+Male,0,0,Diploma,36,Security,Central,120,Married,185,Technical,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,Diploma,36,Security,Central,180,Married,185,Technical,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,HighSchool,35,Warehouse,Hamadan,5,Married,177,Production,Azar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,22,Packing,Qom,3,Married,180,Technical,Bahman,32.32405892,36.96275072,28.90625
+Male,0,0,Bachelor,26,Electronic,Guilan,15,Married,185,HSE,Esfand,32.32405892,40.17094017,28.90625
+Male,0,0,PostDiploma,44,Electronic,Kermanshah,14,Married,175,Electronic,Shahrivar,32.32405892,39.78494624,44.7761194
+Female,1,0,Diploma,23,Ring,Qom,17,Single,160,Production,Dey,38.27993255,36.96275072,28.90625
+Male,0,0,PostDiploma,27,Electronic,Qom,12,Married,188,Electronic,Azar,32.32405892,39.78494624,33.28748281
+Male,0,0,HighSchool,24,Autoconer,Afghanistan,0,Married,176,Production,Shahrivar,32.32405892,33.58633776,28.90625
+Female,0,0,HighSchool,33,Ring,Khuzestan,20,Married,167,Production,Bahman,38.27993255,33.58633776,33.28748281
+Male,0,0,Bachelor,23,Electronic,Qom,0,Married,183,HR and Office,Ordibehesht,32.32405892,40.17094017,28.90625
+Male,0,0,HighSchool,22,Packing,Qom,0,Married,187,Production,Azar,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,25,Autoclave,Qom,16,Single,173,Production,Mordad,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,35,Packing,Qom,132,Married,165,Production,Shahrivar,32.32405892,36.96275072,36.50485437
+Male,0,0,PostDiploma,31,Electronic,Qom,4,Married,173,HSE,Farvardin,32.32405892,39.78494624,33.28748281
+Male,0,0,Diploma,22,Ring,Qom,0,Married,175,Production,Bahman,32.32405892,36.96275072,28.90625
+Female,1,0,Diploma,36,Ring,Qom,0,Married,155,Production,Esfand,38.27993255,36.96275072,36.50485437
+Male,1,0,Diploma,34,Maintenance and Repairs,Qom,5,Married,170,Production,Shahrivar,32.32405892,36.96275072,33.28748281
+Male,0,0,PostDiploma,36,Packing,Qom,36,Married,172,Production,Farvardin,32.32405892,39.78494624,36.50485437
+Male,0,0,HighSchool,22,Autoconer,Central,1,Married,173,Production,Mehr,32.32405892,33.58633776,28.90625
+Male,0,0,HighSchool,37,Security,Qom,132,Married,178,Production,Tir,32.32405892,33.58633776,36.50485437
+Female,1,0,HighSchool,34,Ring,Khorasan Razavi,0,Married,157,Production,Dey,38.27993255,33.58633776,33.28748281
+Male,1,0,Bachelor,28,Security,Lorestan,15,Single,179,Production,Azar,32.32405892,40.17094017,33.28748281
+Male,1,0,PostDiploma,31,Open End,Zanjan,5,Married,178,Production,Shahrivar,32.32405892,39.78494624,33.28748281
+Female,0,0,HighSchool,32,Ring,Qom,2,Married,171,Production,Azar,38.27993255,33.58633776,33.28748281
+Male,0,0,Bachelor,36,Electronic,Qom,96,Married,175,Warehouse,Shahrivar,32.32405892,40.17094017,36.50485437
+Female,1,0,HighSchool,20,Ring,Qom,0,Single,168,Production,Farvardin,38.27993255,33.58633776,46.15384615
+Female,1,0,Bachelor,24,Technical and Engineering,Tabriz,0,Single,163,Production,Mordad,38.27993255,40.17094017,28.90625
+Male,0,0,PostDiploma,26,Ring,Zanjan,0,Married,173,Production,Farvardin,32.32405892,39.78494624,28.90625
+Female,1,0,HighSchool,21,Ring,Zanjan,0,Single,163,Production,Mordad,38.27993255,33.58633776,46.15384615
+Female,1,0,HighSchool,27,Ring,Qom,0,Married,165,Production,Aban,38.27993255,33.58633776,33.28748281
+Male,1,0,Master,27,Electronic,Qom,5,Single,173,Industrial Engineering,Bahman,32.32405892,48.38709677,33.28748281
+Male,1,0,HighSchool,42,Warehouse,Hamadan,0,Married,173,Production,Khordad,32.32405892,33.58633776,44.7761194
+Male,0,0,Bachelor,33,Electronic,Qom,0,Married,116,Production,Mordad,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,34,Warehouse,Qom,6,Married,180,Facilities,Dey,32.32405892,33.58633776,33.28748281
+Female,0,0,Elementary,34,Ring,East Azerbaijan,0,Married,91,Production,Dey,38.27993255,17.67241379,33.28748281
+Male,1,0,Diploma,25,Passage,Qom,0,Single,178,Production,Farvardin,32.32405892,36.96275072,28.90625
+Female,1,0,Diploma,33,Ring,Central,0,Married,163,Production,Ordibehesht,38.27993255,36.96275072,33.28748281
+Female,1,0,Diploma,31,Ring,Qom,0,Married,125,Production,Dey,38.27993255,36.96275072,33.28748281
+Male,0,0,Diploma,22,Ring,Qom,0,Married,175,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,1,0,Diploma,36,Ring,Zanjan,0,Married,176,Production,Mehr,32.32405892,36.96275072,36.50485437
+Female,1,0,Diploma,26,Ring,Khuzestan,0,Single,161,Production,Esfand,38.27993255,36.96275072,28.90625
+Male,1,0,HighSchool,34,Ring,Central,0,Married,176,Production,Farvardin,32.32405892,33.58633776,33.28748281
+Male,1,0,Diploma,27,Flyer,Qom,0,Single,180,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,0,0,Diploma,22,Ring,Qom,0,Married,175,Production,Bahman,32.32405892,36.96275072,28.90625
+Male,1,0,Elementary,22,Packing,Qom,0,Single,179,Production,Azar,32.32405892,17.67241379,28.90625
+Male,0,0,Bachelor,29,Doubling,Kermanshah,0,Married,176,Production,Ordibehesht,32.32405892,40.17094017,33.28748281
+Male,0,0,HighSchool,35,Ring,Qom,0,Married,176,Production,Ordibehesht,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,24,Ring,Qom,0,Married,175,Production,Farvardin,32.32405892,36.96275072,28.90625
+Male,0,0,Master,30,Technical and Engineering,Tehran,0,Married,176,Production,Esfand,32.32405892,48.38709677,33.28748281
+Male,0,0,Diploma,32,Flyer,Lorestan,0,Married,173,Production,Esfand,32.32405892,36.96275072,33.28748281
+Male,1,0,Master,36,Flyer,Qom,0,Single,177,Industrial Engineering,Aban,32.32405892,48.38709677,36.50485437
+Male,0,0,Diploma,26,Ring,Qom,10,Married,185,Technical,Khordad,32.32405892,36.96275072,28.90625
+Female,1,0,Diploma,36,Ring,Qom,0,Married,161,Production,Shahrivar,38.27993255,36.96275072,36.50485437
+Female,0,0,HighSchool,27,Ring,Qom,7,Married,165,Production,Mordad,38.27993255,33.58633776,33.28748281
+Female,0,0,HighSchool,30,Ring,Qom,6,Married,168,Production,Bahman,38.27993255,33.58633776,33.28748281
+Male,1,0,Diploma,33,Security,Qom,0,Married,166,Production,Dey,32.32405892,36.96275072,33.28748281
+Female,1,0,HighSchool,33,Ring,Qom,0,Married,169,Production,Esfand,38.27993255,33.58633776,33.28748281
+Male,1,0,HighSchool,32,Tray and Reserver,Isfahan,0,Married,175,Production,Khordad,32.32405892,33.58633776,33.28748281
+Male,0,0,HighSchool,39,Packing,East Azerbaijan,0,Married,164,Production,Shahrivar,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,20,Ring,Tehran,0,Married,178,Production,Bahman,32.32405892,36.96275072,46.15384615
+Male,1,0,HighSchool,23,Ring,Qom,0,Single,165,Production,Bahman,32.32405892,33.58633776,28.90625
+Male,0,0,Diploma,21,Ring,Qom,0,Married,176,Production,Shahrivar,32.32405892,36.96275072,46.15384615
+Male,0,0,Diploma,42,Ring,Qom,0,Married,176,Production,Aban,32.32405892,36.96275072,44.7761194
+Male,0,0,HighSchool,36,Flyer,Qom,0,Married,173,Production,Bahman,32.32405892,33.58633776,36.50485437
+Male,0,0,Diploma,23,Facilities,Qom,0,Married,176,Production,Ordibehesht,32.32405892,36.96275072,28.90625
