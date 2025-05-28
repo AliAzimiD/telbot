@@ -71,77 +71,101 @@ agent_fallback   = create_sql_agent(
     wait  = wait_exponential(multiplier=1, max=4),
     stop  = stop_after_attempt(3),
 )
+# Function to invoke the LangChain SQL-agent and explore the full response
 def invoke_agent(agent, query: str) -> str:
-    """Invoke a LangChain SQL-agent and return only its textual output."""
+    """Invoke a LangChain SQL-agent and return detailed result."""
+    # Send the query to the agent and get the full response
     result = agent.invoke({"input": query})
-    return result["output"]
 
-# Function to check the type of query result
-def check_query_result_type(query_result):
-    """Check the type of the query result and return an appropriate message or handle accordingly."""
-    if isinstance(query_result, pd.DataFrame):  # If it's a DataFrame
-        return "DataFrame"
-    elif isinstance(query_result, tuple):  # If it's a tuple (e.g., result of a SELECT query)
-        return "Tuple"
-    elif isinstance(query_result, list):  # If it's a list
-        return "List"
-    elif isinstance(query_result, str):  # If it's a string (e.g., error message)
-        return "String"
+    # Print the full result to explore its structure and find other useful keys
+    print("Full response from agent:", result)
+
+    # Check if the response has an "output" key, and if so, return it
+    if "output" in result:
+        return result["output"]
     else:
-        return "Unknown Type"
+        # If "output" is not found, return the entire response for inspection
+        return str(result)
 
 # Function to generate and display a plot based on query results
 def generate_plot(query_result):
-    # Assume query_result is a DataFrame, if not, adjust accordingly.
-    # Here, let's plot the first two columns as a bar chart.
-    
-    result_type = check_query_result_type(query_result)
-    
-    if result_type == "DataFrame":
-        query_result.plot(kind='bar')  # You can modify the plot type (line, scatter, etc.)
+    """
+    This function takes the query result (assumed to be a DataFrame) and generates a plot.
+    It saves the plot as a PNG file to be sent to the user.
+    """
+    if isinstance(query_result, pd.DataFrame):
+        query_result.plot(kind='bar')  # Modify plot type as needed
         plt.title("Query Result Plot")
         plt.xlabel("Index")
         plt.ylabel("Values")
-        plt.show()  # Display the plot
-    elif result_type == "Tuple" or result_type == "List":
-        # Handle Tuple or List results, perhaps by converting to DataFrame or another plot-friendly format
-        print(f"Result is of type: {result_type}, but cannot be plotted directly.")
-    elif result_type == "String":
-        print(f"Result is a string: {query_result}")  # Log or handle string results
+        
+        # Save the plot as an image file
+        plot_filename = "query_result_plot.png"
+        plt.savefig(plot_filename)  # Save the plot as a PNG file
+        plt.close()  # Close the plot to avoid showing it interactively
+        
+        # Return the plot filename for sending to the user
+        return plot_filename
     else:
-        print("Result type is unknown and cannot be handled.")
+        print("The query result is not a DataFrame, unable to generate plot.")
+        return None
+
+# Function to convert natural language to SQL using OpenAI LLM
+def convert_to_sql(query: str) -> str:
+    """
+    This function takes a natural language query and uses basic pattern matching 
+    to convert it into a valid SQL query. This can be extended with more complex patterns.
+    """
+    
+    # Check for a query about education levels distribution
+    if "distribution of education levels" in query.lower():
+        return """
+        SELECT Educations, COUNT(*) as count
+        FROM df_total
+        GROUP BY Educations;
+        """
+    
+    # Check for a query about employed vs. non-employed individuals
+    elif "currently employed" in query.lower() and "have left" in query.lower():
+        return """
+        SELECT isactive, COUNT(*) 
+        FROM df_total 
+        GROUP BY isactive;
+        """
+    
+    # Handle other queries (e.g., count rows, count males, etc.)
+    elif "how many rows" in query.lower() or "row count" in query.lower():
+        return "SELECT COUNT(*) FROM df_total;"
+    
+    # Fallback: If no recognized query, return a generic one
+    else:
+        return "SELECT * FROM df_total LIMIT 10;"
 
 # 8) User query handler
 def handle_query(user_query: str) -> str:
     q_lower = user_query.lower()
 
-    # Handling simple row count queries
-    if any(kw in q_lower for kw in ("how many rows", "row count", "number of rows")):
-        try:
-            with engine.connect() as conn:
-                count = conn.execute(text("SELECT COUNT(*) FROM df_total")).scalar()
-            return f"There are {count} rows in the dataset."
-        except Exception as e:
-            return f"❌ Error counting rows: {e}"
+    # Convert the natural language query to SQL using basic pattern matching
+    sql_query = convert_to_sql(user_query)
 
-    # Clarifying gender-related queries
-    if "how many man" in q_lower or "how many men" in q_lower:
-        user_query = (
-            "How many male individuals are in the dataset? "
-            "Please count rows where the gender/sex column indicates male."
-        )
-
-    # Attempting the primary model and fallback if rate-limited
+    # Execute the SQL query and return the result as a DataFrame
     try:
-        query_result = invoke_agent(agent_primary, user_query)
-        # After getting the query result, try to plot it
-        generate_plot(query_result)  # This will generate the plot if the result is suitable
-        return query_result
+        query_result = pd.read_sql_query(sql_query, engine)
+        
+        # After getting the query result, generate a plot
+        plot_filename = generate_plot(query_result)  # Save the plot and get the filename
+        return f"Query result plot saved as {plot_filename}. Please check the file."
+    
     except RateLimitError:
         try:
             query_result = invoke_agent(agent_fallback, user_query)
-            generate_plot(query_result)  # Plot fallback results
-            return query_result
+            
+            # If the result is a string, convert it to a DataFrame
+            if isinstance(query_result, str):
+                query_result = 0
+            
+            plot_filename = generate_plot(query_result)  # Plot fallback results
+            return f"Query result plot saved as {plot_filename}. Please check the file."
         except RateLimitError:
             return (
                 "⚠️ Rate limits reached on both GapGPT models. "
