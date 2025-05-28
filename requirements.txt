@@ -25,6 +25,8 @@ langchain-community==0.2.1
 langchain-core==0.2.1
 langchain-experimental==0.0.59
 langchain-huggingface==0.0.3
+langchain-openai>=0.1.8
+
 
 # ================================
 # HUGGING FACE INTEGRATION
@@ -205,6 +207,7 @@ cohere==5.2.4
 streamlit==1.34.0  # For admin dashboard
 gradio==4.26.0     # For model testing interface
 jupyter==1.0.0     # For development notebooks
+tenacity>=8.2.0
 
 # ================================
 # OLLAMA INTEGRATION
