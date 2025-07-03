@@ -1,4 +1,4 @@
-from scraper import parse_requirements
+from services.resume_pipeline.scraper import parse_requirements
 
 sample_html = """
 <html><body>

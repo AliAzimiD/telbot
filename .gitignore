@@ -1,2 +1,3 @@
 .env
-extracted_for_ai.text
+__pycache__/
+

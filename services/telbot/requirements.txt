@@ -1,0 +1,16 @@
+python-telegram-bot==13.7
+pandas
+numpy
+plotly
+python-dotenv
+openai
+langchain
+langchain_community
+langchain_experimental
+langchain_openai
+sqlalchemy
+tenacity
+matplotlib
+psycopg2-binary
+requests
+beautifulsoup4

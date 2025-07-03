@@ -1,0 +1,62 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15-alpine
+    env_file: .env
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  pgbouncer:
+    image: edoburu/pgbouncer:latest
+    volumes:
+      - ./services/pgbouncer/pgbouncer.ini:/etc/pgbouncer/pgbouncer.ini
+      - ./services/pgbouncer/userlist.txt:/etc/pgbouncer/userlist.txt
+    env_file: .env
+    depends_on:
+      - postgres
+
+  redis:
+    image: redis:7-alpine
+    command: ["redis-server","--maxmemory","256mb","--maxmemory-policy","allkeys-lru"]
+
+  backend:
+    build: ./services/backend
+    env_file: .env
+    ports:
+      - "${BACKEND_PORT}:8000"
+    depends_on:
+      - pgbouncer
+      - redis
+
+  rq-worker:
+    build: ./services/backend
+    env_file: .env
+    entrypoint: ["rq","worker","--url","${REDIS_URL}","default"]
+    depends_on:
+      - backend
+      - redis
+
+  frontend:
+    build: ./services/frontend
+    env_file: .env
+    ports:
+      - "${FRONTEND_PORT}:3000"
+    depends_on:
+      - backend
+
+  telbot:
+    build: ./services/telbot
+    env_file: .env
+    depends_on:
+      - postgres
+    command: ["python","bot.py"]
+
+  resume-pipeline:
+    build: ./services/resume_pipeline
+    env_file: .env
+    volumes:
+      - ./data:/data
+    command: ["python","run_pipeline.py"]
+
+volumes:
+  db_data:
