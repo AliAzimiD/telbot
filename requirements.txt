@@ -11,3 +11,6 @@ langchain_openai
 sqlalchemy
 tenacity
 matplotlib
+psycopg2-binary
+requests
+beautifulsoup4
